@@ -107,7 +107,7 @@ fn forecast(card: &CardState, state: CardPhase, reviewed_at: i64) -> ApiResult<f
         0
     };
     thread_local! {
-        static MODEL: Result<FSRS, fsrs::FSRSError> = FSRS::new(Some(&DEFAULT_PARAMETERS));
+        static MODEL: Result<FSRS, fsrs::FSRSError> = FSRS::new(&DEFAULT_PARAMETERS);
     }
     MODEL.with(|model| {
         let model = model.as_ref().map_err(|error| {
@@ -155,7 +155,7 @@ mod tests {
         } else {
             0
         };
-        let states = FSRS::new(Some(&DEFAULT_PARAMETERS))
+        let states = FSRS::new(&DEFAULT_PARAMETERS)
             .unwrap()
             .next_states(memory, 0.9, elapsed)
             .unwrap();
