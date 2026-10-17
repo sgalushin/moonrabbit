@@ -129,8 +129,6 @@ class MoonRabbitStack extends Stack {
       TABLE_NAME: table.tableName,
       BUCKET_NAME: audio.bucketName,
       OPENROUTER_API_KEY: openRouterKey,
-      AI_MODEL: process.env['AI_MODEL'] ?? 'google/gemini-2.5-flash',
-      SPEECH_MODEL: process.env['SPEECH_MODEL'] ?? 'fish-audio/s2.1-pro',
       RUST_LOG: 'info',
     };
 

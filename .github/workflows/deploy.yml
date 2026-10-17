@@ -48,5 +48,3 @@ jobs:
         env:
           CDK_DEFAULT_ACCOUNT: ${{ steps.aws.outputs.aws-account-id }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          AI_MODEL: google/gemini-2.5-flash
-          SPEECH_MODEL: fish-audio/s2.1-pro

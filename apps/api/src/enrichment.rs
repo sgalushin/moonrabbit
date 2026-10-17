@@ -211,8 +211,11 @@ async fn structured<T: DeserializeOwned>(
         .timeout(Duration::from_secs(120))
         .json(&json!({
             "model": config.ai_model,
-            "temperature": 0.2,
             "max_tokens": 24000,
+            // Sonnet 5.5 rejects temperature. It also thinks on every call, and
+            // thinking shares this token budget with the JSON answer. Low effort
+            // keeps extraction inside the API Gateway time limit.
+            "reasoning": {"effort": "low"},
             "provider": {"require_parameters": true},
             "response_format": {
                 "type": "json_schema",
@@ -229,7 +232,7 @@ async fn structured<T: DeserializeOwned>(
             401 | 403 => "The AI provider rejected this app's credentials. Check OPENROUTER_API_KEY and model access.",
             402 => "This app's OpenRouter account has insufficient credits. Add credits before retrying.",
             429 => "The AI provider is rate limited. Wait briefly before retrying.",
-            400 | 404 | 422 => "The AI provider rejected the model request. Check AI_MODEL supports image input and structured JSON output.",
+            400 | 404 | 422 => "The AI provider rejected the model request. The model must support image input and structured JSON output.",
             _ => "The AI provider is temporarily unavailable. Please try again.",
         }));
     }

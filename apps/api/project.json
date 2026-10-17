@@ -22,7 +22,6 @@
           "DEV_USER": "local",
           "TABLE_NAME": "moonrabbit",
           "BUCKET_NAME": "moonrabbit-audio",
-          "SPEECH_MODEL": "fish-audio/s2.1-pro",
           "PORT": "9850"
         }
       }

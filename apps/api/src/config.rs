@@ -3,6 +3,9 @@ use std::net::{IpAddr, SocketAddr};
 
 pub type ConfigResult<T> = Result<T, Box<dyn std::error::Error + Send + Sync>>;
 
+const AI_MODEL: &str = "anthropic/claude-sonnet-5.5";
+const SPEECH_MODEL: &str = "fish-audio/s2.1-pro";
+
 #[derive(Clone)]
 pub struct Config {
     pub listen: SocketAddr,
@@ -80,14 +83,6 @@ impl Config {
         {
             return Err("BUCKET_NAME is not a valid local S3 bucket name.".into());
         }
-        let speech_model = value("SPEECH_MODEL", "fish-audio/s2.1-pro")?;
-        if !matches!(
-            speech_model.as_str(),
-            "fish-audio/s2.1-pro" | "fish-audio/s2.1-pro:free"
-        ) {
-            return Err("SPEECH_MODEL must support Fish S2.1 Chinese phoneme control (fish-audio/s2.1-pro or its :free variant).".into());
-        }
-        let ai_model = value("AI_MODEL", "google/gemini-2.5-flash")?;
         let provider_key = env::var("OPENROUTER_API_KEY")
             .ok()
             .map(|key| key.trim().to_string())
@@ -98,8 +93,8 @@ impl Config {
             endpoint,
             table,
             bucket,
-            speech_model,
-            ai_model,
+            speech_model: SPEECH_MODEL.to_string(),
+            ai_model: AI_MODEL.to_string(),
             provider_key,
         })
     }
@@ -124,13 +119,6 @@ fn deployed() -> ConfigResult<Config> {
     {
         return Err("BUCKET_NAME is not a valid S3 bucket name.".into());
     }
-    let speech_model = value("SPEECH_MODEL", "fish-audio/s2.1-pro")?;
-    if !matches!(
-        speech_model.as_str(),
-        "fish-audio/s2.1-pro" | "fish-audio/s2.1-pro:free"
-    ) {
-        return Err("SPEECH_MODEL must support Fish S2.1 Chinese phoneme control (fish-audio/s2.1-pro or its :free variant).".into());
-    }
     let provider_key = env::var("OPENROUTER_API_KEY")
         .ok()
         .map(|key| key.trim().to_string())
@@ -141,8 +129,8 @@ fn deployed() -> ConfigResult<Config> {
         endpoint: String::new(),
         table,
         bucket,
-        speech_model,
-        ai_model: value("AI_MODEL", "google/gemini-2.5-flash")?,
+        speech_model: SPEECH_MODEL.to_string(),
+        ai_model: AI_MODEL.to_string(),
         provider_key,
     })
 }
