@@ -137,9 +137,13 @@ impl Store {
             if pending.is_empty() {
                 break;
             }
-            for _ in 0..6 {
+            for attempt in 0..20 {
                 if pending.is_empty() {
                     break;
+                }
+                if attempt > 0 {
+                    let shift = (attempt - 1).min(6);
+                    tokio::time::sleep(std::time::Duration::from_millis(50 << shift)).await;
                 }
                 let output = self
                     .client
