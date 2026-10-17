@@ -366,7 +366,7 @@ export class WordImport {
     state.saveErrors.update((errors) => ({ ...errors, [destination]: '' }));
     try {
       const encoder = new TextEncoder();
-      for (let offset = 0; offset < rows.length && !this.destroyed; ) {
+      for (let offset = 0; offset < rows.length && !this.destroyed;) {
         let end = Math.min(offset + WORD_BATCH_SIZE, rows.length);
         // Source sentences can hit the API's 1 MiB limit before the 40-word limit.
         while (
