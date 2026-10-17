@@ -1,0 +1,51 @@
+{
+  "name": "@moonrabbit/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "packageManager": "pnpm@12.4.2",
+  "scripts": {
+    "serve": "nx serve web",
+    "test": "cargo test --manifest-path apps/api/Cargo.toml && tsx --tsconfig tsconfig.base.json --test apps/web/src/app/core/grades.spec.ts apps/web/src/app/core/audio.spec.ts apps/web/src/app/pages/frontend.spec.ts",
+    "test:persistence": "cargo test --manifest-path apps/api/Cargo.toml -- --ignored",
+    "format": "nx format:write --all && cargo fmt --manifest-path apps/api/Cargo.toml"
+  },
+  "dependencies": {
+    "@angular/common": "~22.2.0",
+    "@angular/compiler": "~22.2.0",
+    "@angular/core": "~22.2.0",
+    "@angular/platform-browser": "~22.2.0",
+    "@angular/router": "~22.2.0",
+    "@lucide/angular": "^1.56.0",
+    "oidc-client-ts": "^3.5.0",
+    "rxjs": "~7.8.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/core": "~22.2.0",
+    "@angular-devkit/schematics": "~22.2.0",
+    "@angular/build": "~22.2.0",
+    "@angular/cli": "~22.2.0",
+    "@angular/compiler-cli": "~22.2.0",
+    "@angular/language-service": "~22.2.0",
+    "@eslint/js": "^9.8.0",
+    "@nx/angular": "23.3.0",
+    "@nx/eslint": "23.3.0",
+    "@nx/eslint-plugin": "23.3.0",
+    "@nx/workspace": "23.3.0",
+    "@schematics/angular": "~22.2.0",
+    "@types/node": "^22.0.0",
+    "@typescript-eslint/utils": "^8.58.0",
+    "angular-eslint": "^22.1.0",
+    "aws-cdk": "^2.1145.0",
+    "aws-cdk-lib": "^2.273.0",
+    "constructs": "^10.8.1",
+    "eslint": "^9.8.0",
+    "eslint-config-prettier": "^10.0.0",
+    "nx": "23.3.0",
+    "prettier": "~3.6.2",
+    "tslib": "^2.3.0",
+    "tsx": "^4.23.15",
+    "typescript": "~6.0.3",
+    "typescript-eslint": "^8.58.0"
+  }
+}

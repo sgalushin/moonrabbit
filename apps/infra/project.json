@@ -1,0 +1,29 @@
+{
+  "name": "infra",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/infra/src",
+  "projectType": "application",
+  "tags": ["scope:infra", "type:app"],
+  "targets": {
+    "typecheck": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "tsc -p apps/infra/tsconfig.json"
+      }
+    },
+    "synth": {
+      "executor": "nx:run-commands",
+      "dependsOn": ["web:build", "api:build"],
+      "options": {
+        "command": "cdk synth --strict"
+      }
+    },
+    "deploy": {
+      "executor": "nx:run-commands",
+      "dependsOn": ["web:build", "api:build"],
+      "options": {
+        "command": "cdk deploy --all --require-approval never"
+      }
+    }
+  }
+}

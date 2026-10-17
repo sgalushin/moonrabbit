@@ -1,0 +1,63 @@
+<app-shell>
+  @if (error()) {
+  <p class="banner" role="alert">
+    {{ error() }} <button type="button" [disabled]="loading()" (click)="load()">Retry</button>
+  </p>
+  } @if (loading()) {
+  <p role="status">Loading dashboard…</p>
+  } @if (data(); as board) {
+  <section class="stats">
+    <article class="tile yellow">
+      <span>Due directions</span><strong>{{ board.due }}</strong>
+    </article>
+    <article class="tile pink">
+      <span>Review cards</span><strong>{{ board.recallable }}</strong>
+    </article>
+    <article class="tile blue">
+      <span>Previously lapsed</span><strong>{{ board.forgotten }}</strong>
+    </article>
+    <article class="tile green">
+      <span>Single-character entries studied</span><strong>{{ board.charactersStudied }}</strong>
+    </article>
+    <article class="tile orange">
+      <span>Answer accuracy</span><strong>{{ percent(board.retention) }}</strong>
+    </article>
+  </section>
+  <p class="help">
+    Due directions includes both Chinese → English and English → Chinese cards that are due, across
+    all studied lists. Each study session uses only the direction you select.
+  </p>
+  <p class="help">
+    Review cards counts Chinese → English cards in the Review state, not predicted recall.
+    Previously lapsed counts Chinese → English cards missed at least once, even if later remembered.
+    Answer accuracy is remembered ÷ total recorded answers across all recorded days and both
+    directions; it is not a model retention estimate. Studied-entry and words-left counts include
+    answers in either direction without counting a word twice.
+  </p>
+  <h2>This month</h2>
+  <div class="month">
+    @for (day of board.days; track day.date) {
+    <span class="day" [class.studied]="day.studied" [attr.title]="day.date"></span>
+    }
+  </div>
+  <h2>Queue</h2>
+  <p class="help">
+    Queue order controls new words and missing directions. Due reviews remain eligible globally,
+    even after their list leaves the queue. Words left counts unintroduced words, not the number of
+    direction answers needed.
+  </p>
+  <ul class="rows">
+    @for (list of board.queue; track list.id) {
+    <li>
+      <a [routerLink]="['/lists', list.id]">
+        <strong>{{ list.title }}</strong>
+        <span
+          >{{ list.wordsLeft }} words left · {{ list.charactersStudied }}/{{ list.characterCount }}
+          characters</span
+        >
+      </a>
+    </li>
+    }
+  </ul>
+  }
+</app-shell>

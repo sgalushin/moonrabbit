@@ -1,0 +1,67 @@
+<dialog
+  #wordDialog
+  class="dialog"
+  tabindex="-1"
+  aria-labelledby="word-detail-title"
+  (keydown)="containFocus($event)"
+  (cancel)="$event.preventDefault(); close()"
+  (click)="$event.target === wordDialog && close()"
+>
+  <header>
+    <h2 id="word-detail-title">{{ detail()?.simplified || heading() }}</h2>
+    <button
+      class="icon-button"
+      type="button"
+      autofocus
+      aria-label="Close word details"
+      (click)="close()"
+    >
+      <svg lucideX [size]="22" aria-hidden="true"></svg>
+    </button>
+  </header>
+  @if (loading()) {
+  <p role="status">Loading word and review details…</p>
+  } @if (error()) {
+  <p class="banner" role="alert">
+    {{ error() }} <button type="button" (click)="wordResource.reload()">Retry</button>
+  </p>
+  } @if (detail(); as word) {
+  <app-pinyin [text]="word.pinyin" />
+  @if (word.pronouncedPinyin) {
+  <p class="spoken">
+    <span class="label">pronounced as</span><app-pinyin [text]="word.pronouncedPinyin" />
+  </p>
+  }
+  <p class="meaning">{{ word.translation }}</p>
+  <app-word-examples [word]="word" (changed)="wordResource.set($event)" />
+  @for (card of word.cards; track card.direction) {
+  <section class="stat-block">
+    <h3>{{ card.direction === 'production' ? 'English → Chinese' : 'Chinese → English' }}</h3>
+    <p>{{ stateLabel(card) }}</p>
+    @if (card.studied) {
+    <dl>
+      <div>
+        <dt>Reviews</dt>
+        <dd>{{ card.reps }}</dd>
+      </div>
+      <div>
+        <dt>Lapses</dt>
+        <dd>{{ card.lapses }}</dd>
+      </div>
+      <div>
+        <dt>Last review</dt>
+        <dd>{{ when(card.lastReview) }}</dd>
+      </div>
+      <div>
+        <dt>Next due</dt>
+        <dd>{{ when(card.due) }}</dd>
+      </div>
+      <div>
+        <dt>Stability</dt>
+        <dd>{{ card.stability?.toFixed(1) }} days</dd>
+      </div>
+    </dl>
+    }
+  </section>
+  } }
+</dialog>

@@ -1,0 +1,301 @@
+@let editor = state();
+<section class="panel word-editor" aria-label="Find and add words">
+  @if (editor.error()) {
+  <p class="banner" role="alert">{{ editor.error() }}</p>
+  }
+  <label
+    >Search dictionary
+    <input
+      [disabled]="disabled || editor.saving()"
+      [value]="editor.query()"
+      (input)="search($event)"
+    />
+  </label>
+  @if (searchResource.isLoading() || (editor.query().trim() && !editor.searchQuery())) {
+  <p role="status">Searching…</p>
+  } @if (searchError()) {
+  <p class="banner" role="alert">
+    {{ searchError() }}
+    <button type="button" (click)="searchResource.reload()">Retry search</button>
+  </p>
+  }
+  <ul class="rows search-results">
+    @for (word of results(); track word.id) {
+    <li>
+      <div class="search-word">
+        <strong class="chars">{{ word.simplified }}</strong>
+        <app-pinyin [text]="word.pinyin" />
+        @if (word.pronouncedPinyin) {
+        <span class="spoken"
+          ><span class="label">pronounced as</span> <app-pinyin [text]="word.pronouncedPinyin"
+        /></span>
+        }
+        <span>{{ word.translation }}</span>
+        <span class="memberships"
+          >Lists: @for (membership of word.lists; track membership.id) {
+          <span class="membership">{{ membership.title }}</span> } @empty {
+          <span>In dictionary; no visible list memberships</span> }</span
+        >
+      </div>
+      <span class="row-actions">
+        <button
+          class="ghost"
+          type="button"
+          [attr.aria-label]="'Play ' + word.simplified"
+          (click)="play(word)"
+        >
+          {{ playing() === word.id ? 'Loading audio…' : 'Play' }}
+        </button>
+        @if (editable) {
+        <button
+          class="primary"
+          type="button"
+          [disabled]="disabled || editor.saving()"
+          (click)="addExisting(word)"
+        >
+          Add
+        </button>
+        }
+      </span>
+    </li>
+    }
+  </ul>
+  @if (editor.searchQuery() && searchResource.hasValue() && !searchResource.isLoading() &&
+  !results().length) {
+  <p>No matching words in the dictionary.</p>
+  } @if (editable) {
+  <form class="stack" (submit)="$event.preventDefault(); saveManual()">
+    <h3>New word</h3>
+    <label
+      >Simplified
+      <input
+        required
+        [disabled]="disabled || editor.saving()"
+        [value]="editor.simplified()"
+        (input)="typed('simplified', $event)"
+    /></label>
+    <button
+      class="ghost"
+      type="button"
+      [disabled]="disabled || editor.filling() || editor.saving()"
+      (click)="fill()"
+    >
+      {{ editor.filling() ? 'Filling…' : 'Fill with AI' }}
+    </button>
+    <label
+      >Formal pinyin
+      <input
+        required
+        [disabled]="disabled || editor.saving()"
+        [value]="editor.pinyin()"
+        (input)="typed('pinyin', $event)"
+    /></label>
+    <label
+      >Pronounced pinyin
+      <input
+        required
+        [disabled]="disabled || editor.saving()"
+        [value]="editor.pronouncedPinyin()"
+        (input)="typed('pronouncedPinyin', $event)"
+    /></label>
+    <label
+      >Translation
+      <input
+        required
+        [disabled]="disabled || editor.saving()"
+        [value]="editor.translation()"
+        (input)="typed('translation', $event)"
+    /></label>
+    <button class="primary" type="submit" [disabled]="disabled || editor.saving()">
+      Save word
+    </button>
+  </form>
+  }
+  <h3>Import a screenshot</h3>
+  <p class="help">
+    PNG, JPEG, or WebP, up to 8 MiB. AI extracts all vocabulary and the source example sentences.
+    Review every field before saving; extraction does not save anything.
+  </p>
+  <label class="upload"
+    >Choose screenshot
+    <input
+      type="file"
+      [disabled]="disabled || editor.saving() || editor.extracting()"
+      accept="image/png,image/jpeg,image/webp,.png,.jpg,.jpeg,.webp"
+      (change)="onFile($event)"
+    />
+  </label>
+  @if (editor.extracting()) {
+  <p role="status">Extracting screenshot vocabulary and source sentences…</p>
+  } @for (warning of editor.warnings(); track $index) {
+  <p class="banner" role="status">{{ warning }}</p>
+  } @if (listResource.isLoading()) {
+  <p role="status">Loading destination lists…</p>
+  } @if (listResource.error()) {
+  <p class="banner" role="alert">
+    Destination lists could not be loaded.
+    <button type="button" (click)="listResource.reload()">Retry lists</button>
+  </p>
+  } @if (listResource.hasValue() && !personalLists().length) {
+  <p class="help">Create a personal list on the Queue page before saving a screenshot.</p>
+  }
+  <label
+    >Target personal list
+    <select
+      [disabled]="disabled || editor.saving() || !personalLists().length"
+      (change)="editor.destination.set($any($event.target).value)"
+    >
+      @if (!personalLists().length) {
+      <option value="">No personal lists available</option>
+      } @if (destination() && !destinationAvailable() && personalLists().length) {
+      <option [value]="destination()" selected disabled>
+        Original target unavailable — choose a personal list
+      </option>
+      } @for (list of personalLists(); track list.id) {
+      <option [value]="list.id" [selected]="list.id === destination()">{{ list.title }}</option>
+      }
+    </select>
+  </label>
+  @if (editor.saveErrors()[destination()]; as message) {
+  <p class="banner" role="alert">{{ message }}</p>
+  } @if (editor.saving()) {
+  <p role="status">Saving words…</p>
+  } @if (editor.drafts().length) {
+  <h3>{{ editor.drafts().length }} preview rows awaiting save</h3>
+  <p class="help">
+    Every extracted reading has its own editable row. Dictionary matches below describe the original
+    extraction; edited identities are checked again when saving. Existing dictionary fields are
+    preserved and source sentences are merged.
+  </p>
+  <nav class="pagination" aria-label="Screenshot preview pages">
+    <button
+      class="ghost"
+      type="button"
+      [disabled]="editor.draftCursor() === 0"
+      (click)="editor.draftCursor.set(editor.draftCursor() - batchSize)"
+    >
+      Previous {{ batchSize }}
+    </button>
+    <span aria-live="polite"
+      >{{ editor.draftCursor() + 1 }}–{{ editor.draftCursor() + editor.visibleDrafts().length }} of
+      {{ editor.drafts().length }} rows</span
+    >
+    <button
+      class="ghost"
+      type="button"
+      [disabled]="editor.draftCursor() + batchSize >= editor.drafts().length"
+      (click)="editor.draftCursor.set(editor.draftCursor() + batchSize)"
+    >
+      Next {{ batchSize }}
+    </button>
+  </nav>
+  <ol class="rows screenshot-rows" [attr.start]="editor.draftCursor() + 1">
+    @for (row of editor.visibleDrafts(); track row.id; let index = $index) {
+    <li class="draft">
+      <h4>Row {{ editor.draftCursor() + index + 1 }}</h4>
+      <label
+        >Simplified
+        <input
+          [disabled]="disabled || editor.saving()"
+          [value]="row.simplified"
+          (input)="setDraft(row, 'simplified', $event)"
+      /></label>
+      <label
+        >Formal pinyin
+        <input
+          [disabled]="disabled || editor.saving()"
+          [value]="row.pinyin"
+          (input)="setDraft(row, 'pinyin', $event)"
+      /></label>
+      <label
+        >Pronounced pinyin
+        <input
+          [disabled]="disabled || editor.saving()"
+          [value]="row.pronouncedPinyin"
+          (input)="setDraft(row, 'pronouncedPinyin', $event)"
+      /></label>
+      <label
+        >Translation
+        <input
+          [disabled]="disabled || editor.saving()"
+          [value]="row.translation"
+          (input)="setDraft(row, 'translation', $event)"
+      /></label>
+      <div class="dictionary-matches">
+        @for (match of row.matches; track match.id) {
+        <p>
+          Exists in dictionary: <strong>{{ match.simplified }}</strong> {{ match.pinyin }} · {{
+          match.translation }}
+        </p>
+        <p class="memberships">
+          Lists: @for (membership of match.lists; track membership.id) {
+          <span class="membership">{{ membership.title }}</span> } @empty {
+          <span>No visible list memberships</span> }
+        </p>
+        <button
+          class="ghost"
+          type="button"
+          [attr.aria-label]="'Play dictionary word ' + match.simplified"
+          (click)="play(match)"
+        >
+          Play dictionary word
+        </button>
+        } @empty {
+        <p class="help">Not in dictionary — a new entry will be created.</p>
+        }
+      </div>
+      <h4>Source example sentences ({{ row.examples.length }})</h4>
+      @for (example of row.examples; track $index; let sentenceIndex = $index) {
+      <fieldset class="source-example" [disabled]="disabled || editor.saving()">
+        <legend>Source sentence {{ sentenceIndex + 1 }}</legend>
+        <label
+          >Simplified sentence
+          <textarea
+            [value]="example.simplified"
+            (input)="setExample(row, example, 'simplified', $event)"
+          ></textarea>
+        </label>
+        <label
+          >Formal sentence pinyin
+          <textarea
+            [value]="example.pinyin"
+            (input)="setExample(row, example, 'pinyin', $event)"
+          ></textarea>
+        </label>
+        <label
+          >Pronounced sentence pinyin
+          <textarea
+            [value]="example.pronouncedPinyin"
+            (input)="setExample(row, example, 'pronouncedPinyin', $event)"
+          ></textarea>
+        </label>
+        <label
+          >Sentence translation
+          <textarea
+            [value]="example.translation"
+            (input)="setExample(row, example, 'translation', $event)"
+          ></textarea>
+        </label>
+      </fieldset>
+      } @empty {
+      <p class="help">No explicit source sentence extracted for this reading.</p>
+      } @if (row.errors[destination()]) {
+      <p class="draft-error" role="alert">{{ row.errors[destination()] }}</p>
+      }
+    </li>
+    }
+  </ol>
+  <button
+    class="primary"
+    type="button"
+    [disabled]="disabled || editor.saving() || editor.extracting() || !destinationAvailable()"
+    (click)="saveDrafts()"
+  >
+    Add these words
+  </button>
+  <p class="help">
+    Saves run in batches of at most {{ batchSize }}. Confirmed rows disappear; rejected and
+    unconfirmed rows remain for correction and retry.
+  </p>
+  }
+</section>

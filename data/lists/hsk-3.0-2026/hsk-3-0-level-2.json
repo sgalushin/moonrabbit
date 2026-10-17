@@ -1,0 +1,6965 @@
+{
+  "source": "hsk-3.0-2026",
+  "title": "HSK 3.0 Level 2",
+  "url": "https://www.hackchinese.com/exams/HSK%203.0%20(2026)/exam_levels/60",
+  "count": 498,
+  "words": [
+    {
+      "id": 113438,
+      "simplified": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "spokenPinyin": "yi",
+      "english": "one/1/single/a (article)/as soon as/entire/whole/all/throughout/\"one\" radical in Chinese characters (Kangxi radical 1)/also pr. [yao",
+      "definitions": [
+        "one",
+        "1",
+        "single",
+        "a (article)",
+        "as soon as",
+        "entire",
+        "whole",
+        "all",
+        "throughout",
+        "\"one\" radical in Chinese characters (Kangxi radical 1)",
+        "also pr. [yao"
+      ]
+    },
+    {
+      "id": 113444,
+      "simplified": "一下",
+      "traditional": "一下",
+      "pinyin": "yī xià",
+      "spokenPinyin": "yixia",
+      "english": "(used after a verb) give it a go/do something quickly and without much effort/to do (sth for a bit to give it a try)/one time/once/in a while/all of a sudden/all at once",
+      "definitions": [
+        "(used after a verb) give it a go",
+        "do something quickly and without much effort",
+        "to do (sth for a bit to give it a try)",
+        "one time",
+        "once",
+        "in a while",
+        "all of a sudden",
+        "all at once"
+      ]
+    },
+    {
+      "id": 113460,
+      "simplified": "一些",
+      "traditional": "一些",
+      "pinyin": "yī xiē",
+      "spokenPinyin": "yixie",
+      "english": "some/a few/a little/(following an adjective) slightly ...er",
+      "definitions": [
+        "some",
+        "a few",
+        "a little",
+        "(following an adjective) slightly ...er"
+      ]
+    },
+    {
+      "id": 113513,
+      "simplified": "一半",
+      "traditional": "一半",
+      "pinyin": "yī bàn",
+      "spokenPinyin": "yiban",
+      "english": "half",
+      "definitions": [
+        "half"
+      ]
+    },
+    {
+      "id": 113713,
+      "simplified": "一会儿",
+      "traditional": "一會兒",
+      "pinyin": "yī huì r",
+      "spokenPinyin": "yihuir",
+      "english": "a moment/a while/in a moment/now...now.../also pr. [yi1 hui3 r5]",
+      "definitions": [
+        "a moment",
+        "a while",
+        "in a moment",
+        "now...now...",
+        "also pr. [yi1 hui3 r5]"
+      ]
+    },
+    {
+      "id": 113933,
+      "simplified": "一起",
+      "traditional": "一起",
+      "pinyin": "yī qǐ",
+      "spokenPinyin": "yiqi",
+      "english": "in the same place/together/with/altogether (in total)",
+      "definitions": [
+        "in the same place",
+        "together",
+        "with",
+        "altogether (in total)"
+      ]
+    },
+    {
+      "id": 114019,
+      "simplified": "一点儿",
+      "traditional": "一點兒",
+      "pinyin": "yī diǎn r",
+      "spokenPinyin": "yidianr",
+      "english": "a bit/a little/one dot/one point",
+      "definitions": [
+        "a bit",
+        "a little",
+        "one dot",
+        "one point"
+      ]
+    },
+    {
+      "id": 114081,
+      "simplified": "七",
+      "traditional": "七",
+      "pinyin": "qī",
+      "spokenPinyin": "qi",
+      "english": "seven/7",
+      "definitions": [
+        "seven",
+        "7"
+      ]
+    },
+    {
+      "id": 114162,
+      "simplified": "丈夫",
+      "traditional": "丈夫",
+      "pinyin": "zhàng fu",
+      "spokenPinyin": "zhangfu",
+      "english": "husband/CL:個|个[ge4]",
+      "definitions": [
+        "husband"
+      ]
+    },
+    {
+      "id": 114166,
+      "simplified": "三",
+      "traditional": "三",
+      "pinyin": "Sān",
+      "spokenPinyin": "san",
+      "english": "surname San/three/3",
+      "definitions": [
+        "surname San",
+        "three",
+        "3"
+      ]
+    },
+    {
+      "id": 114532,
+      "simplified": "上",
+      "traditional": "上",
+      "pinyin": "shàng",
+      "spokenPinyin": "shang",
+      "english": "on top/upon/above/upper/previous/first (of multiple parts)/to climb/to get onto/to go up/to attend (class or university)",
+      "definitions": [
+        "on top",
+        "upon",
+        "above",
+        "upper",
+        "previous",
+        "first (of multiple parts)",
+        "to climb",
+        "to get onto",
+        "to go up",
+        "to attend (class or university)"
+      ]
+    },
+    {
+      "id": 114556,
+      "simplified": "上来",
+      "traditional": "上來",
+      "pinyin": "shàng lái",
+      "spokenPinyin": "shanglai",
+      "english": "to come up/to approach/(verb complement indicating success)",
+      "definitions": [
+        "to come up",
+        "to approach",
+        "(verb complement indicating success)"
+      ]
+    },
+    {
+      "id": 114565,
+      "simplified": "上午",
+      "traditional": "上午",
+      "pinyin": "shàng wǔ",
+      "spokenPinyin": "shangwu",
+      "english": "morning/CL:個|个[ge4]",
+      "definitions": [
+        "morning"
+      ]
+    },
+    {
+      "id": 114574,
+      "simplified": "上去",
+      "traditional": "上去",
+      "pinyin": "shàng qù",
+      "spokenPinyin": "shangqu",
+      "english": "to go up",
+      "definitions": [
+        "to go up"
+      ]
+    },
+    {
+      "id": 114605,
+      "simplified": "上学",
+      "traditional": "上學",
+      "pinyin": "shàng xué",
+      "spokenPinyin": "shangxue",
+      "english": "to go to school/to attend school",
+      "definitions": [
+        "to go to school",
+        "to attend school"
+      ]
+    },
+    {
+      "id": 114705,
+      "simplified": "上班",
+      "traditional": "上班",
+      "pinyin": "shàng bān",
+      "spokenPinyin": "shangban",
+      "english": "to go to work/to be on duty/to start work/to go to the office",
+      "definitions": [
+        "to go to work",
+        "to be on duty",
+        "to start work",
+        "to go to the office"
+      ]
+    },
+    {
+      "id": 114731,
+      "simplified": "上网",
+      "traditional": "上網",
+      "pinyin": "shàng wǎng",
+      "spokenPinyin": "shangwang",
+      "english": "to go online/to connect to the Internet/(of a document etc) to be uploaded to the Internet/(tennis, volleyball etc) to move in close to the net",
+      "definitions": [
+        "to go online",
+        "to connect to the Internet",
+        "(of a document etc) to be uploaded to the Internet",
+        "(tennis, volleyball etc) to move in close to the net"
+      ]
+    },
+    {
+      "id": 114762,
+      "simplified": "上课",
+      "traditional": "上課",
+      "pinyin": "shàng kè",
+      "spokenPinyin": "shangke",
+      "english": "to go to class/to attend class/to go to teach a class",
+      "definitions": [
+        "to go to class",
+        "to attend class",
+        "to go to teach a class"
+      ]
+    },
+    {
+      "id": 114794,
+      "simplified": "上面",
+      "traditional": "上面",
+      "pinyin": "shàng miàn",
+      "spokenPinyin": "shangmian",
+      "english": "on top of/above-mentioned/also pr. [shang4 mian5]",
+      "definitions": [
+        "on top of",
+        "above-mentioned",
+        "also pr. [shang4 mian5]"
+      ]
+    },
+    {
+      "id": 114816,
+      "simplified": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "spokenPinyin": "xia",
+      "english": "down/downwards/below/lower/later/next (week etc)/second (of two parts)/to decline/to go down/to arrive at (a decision, conclusion etc)/measure word to show the frequency of an action",
+      "definitions": [
+        "down",
+        "downwards",
+        "below",
+        "lower",
+        "later",
+        "next (week etc)",
+        "second (of two parts)",
+        "to decline",
+        "to go down",
+        "to arrive at (a decision, conclusion etc)",
+        "measure word to show the frequency of an action"
+      ]
+    },
+    {
+      "id": 114834,
+      "simplified": "下来",
+      "traditional": "下來",
+      "pinyin": "xià lai",
+      "spokenPinyin": "xialai",
+      "english": "to come down/(after verb of motion, indicates motion down and towards us, also fig.)/(indicates continuation from the past towards us)/to be harvested (of crops)/to be over (of a period of time)/to go among the masses (said of leaders)",
+      "definitions": [
+        "to come down",
+        "(after verb of motion, indicates motion down and towards us, also fig.)",
+        "(indicates continuation from the past towards us)",
+        "to be harvested (of crops)",
+        "to be over (of a period of time)",
+        "to go among the masses (said of leaders)"
+      ]
+    },
+    {
+      "id": 114842,
+      "simplified": "下午",
+      "traditional": "下午",
+      "pinyin": "xià wǔ",
+      "spokenPinyin": "xiawu",
+      "english": "afternoon/CL:個|个[ge4]/p.m.",
+      "definitions": [
+        "afternoon",
+        "p.m."
+      ]
+    },
+    {
+      "id": 114847,
+      "simplified": "下去",
+      "traditional": "下去",
+      "pinyin": "xià qù",
+      "spokenPinyin": "xiaqu",
+      "english": "to go down/to descend/to go on/to continue/(of a servant) to withdraw",
+      "definitions": [
+        "to go down",
+        "to descend",
+        "to go on",
+        "to continue",
+        "(of a servant) to withdraw"
+      ]
+    },
+    {
+      "id": 114922,
+      "simplified": "下班",
+      "traditional": "下班",
+      "pinyin": "xià bān",
+      "spokenPinyin": "xiaban",
+      "english": "to finish work/to get off work",
+      "definitions": [
+        "to finish work",
+        "to get off work"
+      ]
+    },
+    {
+      "id": 114957,
+      "simplified": "下课",
+      "traditional": "下課",
+      "pinyin": "xià kè",
+      "spokenPinyin": "xiake",
+      "english": "to finish class/to get out of class",
+      "definitions": [
+        "to finish class",
+        "to get out of class"
+      ]
+    },
+    {
+      "id": 114990,
+      "simplified": "下雨",
+      "traditional": "下雨",
+      "pinyin": "xià yǔ",
+      "spokenPinyin": "xiayu",
+      "english": "to rain",
+      "definitions": [
+        "to rain"
+      ]
+    },
+    {
+      "id": 114992,
+      "simplified": "下面",
+      "traditional": "下面",
+      "pinyin": "xià miàn",
+      "spokenPinyin": "xiamian",
+      "english": "below/under/next/the following/to boil noodles/also pr. [xia4 mian5]",
+      "definitions": [
+        "below",
+        "under",
+        "next",
+        "the following",
+        "to boil noodles",
+        "also pr. [xia4 mian5]"
+      ]
+    },
+    {
+      "id": 115013,
+      "simplified": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "spokenPinyin": "bu",
+      "english": "(negative prefix)/not/no",
+      "definitions": [
+        "(negative prefix)",
+        "not",
+        "no"
+      ]
+    },
+    {
+      "id": 115284,
+      "simplified": "不好意思",
+      "traditional": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "spokenPinyin": "buhaoyisi",
+      "english": "to feel embarrassed/to find it embarrassing/to be sorry (for inconveniencing sb)",
+      "definitions": [
+        "to feel embarrassed",
+        "to find it embarrassing",
+        "to be sorry (for inconveniencing sb)"
+      ]
+    },
+    {
+      "id": 115317,
+      "simplified": "不客气",
+      "traditional": "不客氣",
+      "pinyin": "bù kè qi",
+      "spokenPinyin": "bukeqi",
+      "english": "you're welcome/don't mention it/impolite/rude/blunt",
+      "definitions": [
+        "you're welcome",
+        "don't mention it",
+        "impolite",
+        "rude",
+        "blunt"
+      ]
+    },
+    {
+      "id": 115702,
+      "simplified": "不要",
+      "traditional": "不要",
+      "pinyin": "bù yào",
+      "spokenPinyin": "buyao",
+      "english": "don't!/must not",
+      "definitions": [
+        "don't!",
+        "must not"
+      ]
+    },
+    {
+      "id": 115820,
+      "simplified": "不错",
+      "traditional": "不錯",
+      "pinyin": "bù cuò",
+      "spokenPinyin": "bucuo",
+      "english": "correct/right/not bad/pretty good",
+      "definitions": [
+        "correct",
+        "right",
+        "not bad",
+        "pretty good"
+      ]
+    },
+    {
+      "id": 116132,
+      "simplified": "中午",
+      "traditional": "中午",
+      "pinyin": "zhōng wǔ",
+      "spokenPinyin": "zhongwu",
+      "english": "noon/midday/CL:個|个[ge4]",
+      "definitions": [
+        "noon",
+        "midday"
+      ]
+    },
+    {
+      "id": 116151,
+      "simplified": "中国",
+      "traditional": "中國",
+      "pinyin": "Zhōng guó",
+      "spokenPinyin": "zhongguo",
+      "english": "PN:China",
+      "definitions": []
+    },
+    {
+      "id": 116335,
+      "simplified": "中学",
+      "traditional": "中學",
+      "pinyin": "zhōng xué",
+      "spokenPinyin": "zhongxue",
+      "english": "middle school/CL:個|个[ge4]",
+      "definitions": [
+        "middle school"
+      ]
+    },
+    {
+      "id": 116336,
+      "simplified": "中学生",
+      "traditional": "中學生",
+      "pinyin": "zhōng xué shēng",
+      "spokenPinyin": "zhongxuesheng",
+      "english": "a high school student (In China, \"high school\" refers to a 7-year period equivalent to the West's middle school & high school combined)",
+      "definitions": [
+        "a high school student (In China, \"high school\" refers to a 7-year period equivalent to the West's middle school & high school combined)"
+      ]
+    },
+    {
+      "id": 116403,
+      "simplified": "中文",
+      "traditional": "中文",
+      "pinyin": "Zhōng wén",
+      "spokenPinyin": "zhongwen",
+      "english": "PN:Chinese language",
+      "definitions": []
+    },
+    {
+      "id": 117036,
+      "simplified": "九",
+      "traditional": "九",
+      "pinyin": "jiǔ",
+      "spokenPinyin": "jiu",
+      "english": "nine/9",
+      "definitions": [
+        "nine",
+        "9"
+      ]
+    },
+    {
+      "id": 117124,
+      "simplified": "也",
+      "traditional": "也",
+      "pinyin": "Yě",
+      "spokenPinyin": "ye",
+      "english": "surname Ye/also/too/(in Classical Chinese) final particle implying affirmation",
+      "definitions": [
+        "surname Ye",
+        "also",
+        "too",
+        "(in Classical Chinese) final particle implying affirmation"
+      ]
+    },
+    {
+      "id": 117327,
+      "simplified": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "spokenPinyin": "le",
+      "english": "(modal particle intensifying preceding clause)/(completed action marker)",
+      "definitions": [
+        "(modal particle intensifying preceding clause)",
+        "(completed action marker)"
+      ]
+    },
+    {
+      "id": 117352,
+      "simplified": "事",
+      "traditional": "事",
+      "pinyin": "shì",
+      "spokenPinyin": "shi",
+      "english": "matter/thing/item/work/affair/CL:件[jian4],樁|桩[zhuang1],回[hui2]",
+      "definitions": [
+        "matter",
+        "thing",
+        "item",
+        "work",
+        "affair"
+      ]
+    },
+    {
+      "id": 117394,
+      "simplified": "事情",
+      "traditional": "事情",
+      "pinyin": "shì qing",
+      "spokenPinyin": "shiqing",
+      "english": "affair/matter/thing/business/issue/CL:件[jian4],樁|桩[zhuang1]",
+      "definitions": [
+        "affair",
+        "matter",
+        "thing",
+        "business",
+        "issue"
+      ]
+    },
+    {
+      "id": 117425,
+      "simplified": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "spokenPinyin": "er",
+      "english": "two/2/(Beijing dialect) stupid",
+      "definitions": [
+        "two",
+        "2",
+        "(Beijing dialect) stupid"
+      ]
+    },
+    {
+      "id": 117682,
+      "simplified": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "spokenPinyin": "wu",
+      "english": "five/5",
+      "definitions": [
+        "five",
+        "5"
+      ]
+    },
+    {
+      "id": 117886,
+      "simplified": "些",
+      "traditional": "些",
+      "pinyin": "xiē",
+      "spokenPinyin": "xie",
+      "english": "some/few/several/measure word indicating a small amount or small number (greater than 1)",
+      "definitions": [
+        "some",
+        "few",
+        "several",
+        "measure word indicating a small amount or small number (greater than 1)"
+      ]
+    },
+    {
+      "id": 118319,
+      "simplified": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "spokenPinyin": "ren",
+      "english": "man/person/people/CL:個|个[ge4],位[wei4]",
+      "definitions": [
+        "man",
+        "person",
+        "people"
+      ]
+    },
+    {
+      "id": 118640,
+      "simplified": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "spokenPinyin": "shenme",
+      "english": "what?/something/anything",
+      "definitions": [
+        "what?",
+        "something",
+        "anything"
+      ]
+    },
+    {
+      "id": 118728,
+      "simplified": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "spokenPinyin": "jintian",
+      "english": "today/at the present/now",
+      "definitions": [
+        "today",
+        "at the present",
+        "now"
+      ]
+    },
+    {
+      "id": 118729,
+      "simplified": "今年",
+      "traditional": "今年",
+      "pinyin": "jīn nián",
+      "spokenPinyin": "jinnian",
+      "english": "this year",
+      "definitions": [
+        "this year"
+      ]
+    },
+    {
+      "id": 118763,
+      "simplified": "介绍",
+      "traditional": "介紹",
+      "pinyin": "jiè shào",
+      "spokenPinyin": "jieshao",
+      "english": "to introduce (sb to sb)/to give a presentation/to present (sb for a job etc)/introduction",
+      "definitions": [
+        "to introduce (sb to sb)",
+        "to give a presentation",
+        "to present (sb for a job etc)",
+        "introduction"
+      ]
+    },
+    {
+      "id": 118785,
+      "simplified": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "spokenPinyin": "ta",
+      "english": "he or him/(used for either sex when the sex is unknown or unimportant)/(used before sb's name for emphasis)/(used as a meaningless mock object)/other/another",
+      "definitions": [
+        "he or him",
+        "(used for either sex when the sex is unknown or unimportant)",
+        "(used before sb's name for emphasis)",
+        "(used as a meaningless mock object)",
+        "other",
+        "another"
+      ]
+    },
+    {
+      "id": 118788,
+      "simplified": "他们",
+      "traditional": "他們",
+      "pinyin": "tā men",
+      "spokenPinyin": "tamen",
+      "english": "they",
+      "definitions": [
+        "they"
+      ]
+    },
+    {
+      "id": 119168,
+      "simplified": "件",
+      "traditional": "件",
+      "pinyin": "jiàn",
+      "spokenPinyin": "jian",
+      "english": "item/component/classifier for events, things, clothes etc",
+      "definitions": [
+        "item",
+        "component",
+        "classifier for events, things, clothes etc"
+      ]
+    },
+    {
+      "id": 119443,
+      "simplified": "休息",
+      "traditional": "休息",
+      "pinyin": "xiū xi",
+      "spokenPinyin": "xiuxi",
+      "english": "rest/to rest",
+      "definitions": [
+        "rest",
+        "to rest"
+      ]
+    },
+    {
+      "id": 119614,
+      "simplified": "但",
+      "traditional": "但",
+      "pinyin": "dàn",
+      "spokenPinyin": "dan",
+      "english": "but/yet/however/only/merely/still",
+      "definitions": [
+        "but",
+        "yet",
+        "however",
+        "only",
+        "merely",
+        "still"
+      ]
+    },
+    {
+      "id": 119619,
+      "simplified": "但是",
+      "traditional": "但是",
+      "pinyin": "dàn shì",
+      "spokenPinyin": "danshi",
+      "english": "but/however",
+      "definitions": [
+        "but",
+        "however"
+      ]
+    },
+    {
+      "id": 119645,
+      "simplified": "位",
+      "traditional": "位",
+      "pinyin": "wèi",
+      "spokenPinyin": "wei",
+      "english": "position/location/place/seat/classifier for people (honorific)/classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)/(physics) potential",
+      "definitions": [
+        "position",
+        "location",
+        "place",
+        "seat",
+        "classifier for people (honorific)",
+        "classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)",
+        "(physics) potential"
+      ]
+    },
+    {
+      "id": 119758,
+      "simplified": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "spokenPinyin": "zhu",
+      "english": "to live/to dwell/to stay/to reside/to stop/(suffix indicating firmness, steadiness, or coming to a halt)",
+      "definitions": [
+        "to live",
+        "to dwell",
+        "to stay",
+        "to reside",
+        "to stop",
+        "(suffix indicating firmness, steadiness, or coming to a halt)"
+      ]
+    },
+    {
+      "id": 120015,
+      "simplified": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "spokenPinyin": "ni",
+      "english": "you",
+      "definitions": [
+        "you"
+      ]
+    },
+    {
+      "id": 120017,
+      "simplified": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "spokenPinyin": "nimen",
+      "english": "you (plural)",
+      "definitions": [
+        "you (plural)"
+      ]
+    },
+    {
+      "id": 120018,
+      "simplified": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "spokenPinyin": "nihao",
+      "english": "hello/hi",
+      "definitions": [
+        "hello",
+        "hi"
+      ]
+    },
+    {
+      "id": 120163,
+      "simplified": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "spokenPinyin": "lai",
+      "english": "to come/to arrive/to come round/ever since/next",
+      "definitions": [
+        "to come",
+        "to arrive",
+        "to come round",
+        "ever since",
+        "next"
+      ]
+    },
+    {
+      "id": 120440,
+      "simplified": "便宜",
+      "traditional": "便宜",
+      "pinyin": "pián yi",
+      "spokenPinyin": "pianyi",
+      "english": "cheap/inexpensive/small advantages/to let sb off lightly",
+      "definitions": [
+        "cheap",
+        "inexpensive",
+        "small advantages",
+        "to let sb off lightly"
+      ]
+    },
+    {
+      "id": 121000,
+      "simplified": "个",
+      "traditional": "個",
+      "pinyin": "gè",
+      "spokenPinyin": "ge",
+      "english": "individual/this/that/size/classifier for people or objects in general",
+      "definitions": [
+        "individual",
+        "this",
+        "that",
+        "size",
+        "classifier for people or objects in general"
+      ]
+    },
+    {
+      "id": 121018,
+      "simplified": "个子",
+      "traditional": "個子",
+      "pinyin": "gè zi",
+      "spokenPinyin": "gezi",
+      "english": "height/stature/build/size",
+      "definitions": [
+        "height",
+        "stature",
+        "build",
+        "size"
+      ]
+    },
+    {
+      "id": 121050,
+      "simplified": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "spokenPinyin": "men",
+      "english": "plural marker for pronouns, and nouns referring to individuals",
+      "definitions": [
+        "plural marker for pronouns, and nouns referring to individuals"
+      ]
+    },
+    {
+      "id": 121535,
+      "simplified": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "spokenPinyin": "zuo",
+      "english": "to do/to make/to produce/to write/to compose/to act as/to engage in/to hold (a party)/to be/to become/to function (in some capacity)/to serve as/to be used for/to form (a bond or relationship)/to pretend/to feign/to act a part/to put on appearance",
+      "definitions": [
+        "to do",
+        "to make",
+        "to produce",
+        "to write",
+        "to compose",
+        "to act as",
+        "to engage in",
+        "to hold (a party)",
+        "to be",
+        "to become",
+        "to function (in some capacity)",
+        "to serve as",
+        "to be used for",
+        "to form (a bond or relationship)",
+        "to pretend",
+        "to feign",
+        "to act a part",
+        "to put on appearance"
+      ]
+    },
+    {
+      "id": 121605,
+      "simplified": "做饭",
+      "traditional": "做飯",
+      "pinyin": "zuò fàn",
+      "spokenPinyin": "zuofan",
+      "english": "to prepare a meal/to cook",
+      "definitions": [
+        "to prepare a meal",
+        "to cook"
+      ]
+    },
+    {
+      "id": 122580,
+      "simplified": "元",
+      "traditional": "元",
+      "pinyin": "Yuán",
+      "spokenPinyin": "yuan",
+      "english": "surname Yuan/PN:the Yuan or Mongol dynasty (1279-1368)/currency unit (esp. Chinese yuan)/first/original/primary/fundamental/constituent/part/era (of a reign)/meta- (prefix)/(math.) argument/variable/(Tw) (geology) eon",
+      "definitions": [
+        "surname Yuan",
+        "currency unit (esp. Chinese yuan)",
+        "first",
+        "original",
+        "primary",
+        "fundamental",
+        "constituent",
+        "part",
+        "era (of a reign)",
+        "meta- (prefix)",
+        "(math.) argument",
+        "variable",
+        "(Tw) (geology) eon"
+      ]
+    },
+    {
+      "id": 122783,
+      "simplified": "先生",
+      "traditional": "先生",
+      "pinyin": "Xiān sheng",
+      "spokenPinyin": "xiansheng",
+      "english": "Mister (Mr.)/teacher/husband/doctor (dialect)/CL:位[wei4]",
+      "definitions": [
+        "Mister (Mr.)",
+        "teacher",
+        "husband",
+        "doctor (dialect)"
+      ]
+    },
+    {
+      "id": 123122,
+      "simplified": "儿子",
+      "traditional": "兒子",
+      "pinyin": "ér zi",
+      "spokenPinyin": "erzi",
+      "english": "son",
+      "definitions": [
+        "son"
+      ]
+    },
+    {
+      "id": 123590,
+      "simplified": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "spokenPinyin": "liang",
+      "english": "two/both/some/a few/tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jin",
+      "definitions": [
+        "two",
+        "both",
+        "some",
+        "a few",
+        "tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jin"
+      ]
+    },
+    {
+      "id": 123690,
+      "simplified": "八",
+      "traditional": "八",
+      "pinyin": "bā",
+      "spokenPinyin": "ba",
+      "english": "eight/8",
+      "definitions": [
+        "eight",
+        "8"
+      ]
+    },
+    {
+      "id": 123831,
+      "simplified": "公交车",
+      "traditional": "公交車",
+      "pinyin": "gōng jiāo chē",
+      "spokenPinyin": "gongjiaoche",
+      "english": "public transport vehicle/town bus/CL:輛|辆[liang4]",
+      "definitions": [
+        "public transport vehicle",
+        "town bus"
+      ]
+    },
+    {
+      "id": 123887,
+      "simplified": "公司",
+      "traditional": "公司",
+      "pinyin": "gōng sī",
+      "spokenPinyin": "gongsi",
+      "english": "(business) company/company/firm/corporation/incorporated/CL:家[jia1]",
+      "definitions": [
+        "(business) company",
+        "company",
+        "firm",
+        "corporation",
+        "incorporated"
+      ]
+    },
+    {
+      "id": 124087,
+      "simplified": "六",
+      "traditional": "六",
+      "pinyin": "liù",
+      "spokenPinyin": "liu",
+      "english": "six/6",
+      "definitions": [
+        "six",
+        "6"
+      ]
+    },
+    {
+      "id": 124391,
+      "simplified": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "spokenPinyin": "zai",
+      "english": "again/once more/re-/second/another/then (after sth, and not until then)",
+      "definitions": [
+        "again",
+        "once more",
+        "re-",
+        "second",
+        "another",
+        "then (after sth, and not until then)"
+      ]
+    },
+    {
+      "id": 124443,
+      "simplified": "再见",
+      "traditional": "再見",
+      "pinyin": "zài jiàn",
+      "spokenPinyin": "zaijian",
+      "english": "goodbye/see you again later",
+      "definitions": [
+        "goodbye",
+        "see you again later"
+      ]
+    },
+    {
+      "id": 124748,
+      "simplified": "冷",
+      "traditional": "冷",
+      "pinyin": "Lěng",
+      "spokenPinyin": "leng",
+      "english": "surname Leng/cold",
+      "definitions": [
+        "surname Leng",
+        "cold"
+      ]
+    },
+    {
+      "id": 125055,
+      "simplified": "出",
+      "traditional": "出",
+      "pinyin": "chū",
+      "spokenPinyin": "chu",
+      "english": "to go out/to come out/to occur/to produce/to go beyond/to rise/to put forth/to happen/(used after a verb to indicate an outward direction or a positive result)/classifier for dramas, plays, operas etc",
+      "definitions": [
+        "to go out",
+        "to come out",
+        "to occur",
+        "to produce",
+        "to go beyond",
+        "to rise",
+        "to put forth",
+        "to happen",
+        "(used after a verb to indicate an outward direction or a positive result)",
+        "classifier for dramas, plays, operas etc"
+      ]
+    },
+    {
+      "id": 125075,
+      "simplified": "出来",
+      "traditional": "出來",
+      "pinyin": "chū lái",
+      "spokenPinyin": "chulai",
+      "english": "to come out/to appear/to arise",
+      "definitions": [
+        "to come out",
+        "to appear",
+        "to arise"
+      ]
+    },
+    {
+      "id": 125096,
+      "simplified": "出去",
+      "traditional": "出去",
+      "pinyin": "chū qù",
+      "spokenPinyin": "chuqu",
+      "english": "to go out",
+      "definitions": [
+        "to go out"
+      ]
+    },
+    {
+      "id": 125114,
+      "simplified": "出国",
+      "traditional": "出國",
+      "pinyin": "chū guó",
+      "spokenPinyin": "chuguo",
+      "english": "to go abroad/to leave the country/emigration",
+      "definitions": [
+        "to go abroad",
+        "to leave the country",
+        "emigration"
+      ]
+    },
+    {
+      "id": 125216,
+      "simplified": "出租车",
+      "traditional": "出租車",
+      "pinyin": "chū zū chē",
+      "spokenPinyin": "chuzuche",
+      "english": "taxi/(Taiwan) rental car",
+      "definitions": [
+        "taxi",
+        "(Taiwan) rental car"
+      ]
+    },
+    {
+      "id": 125273,
+      "simplified": "出门",
+      "traditional": "出門",
+      "pinyin": "chū mén",
+      "spokenPinyin": "chumen",
+      "english": "to go out/to leave home/to go on a journey/away from home/(of a woman) to get married",
+      "definitions": [
+        "to go out",
+        "to leave home",
+        "to go on a journey",
+        "away from home",
+        "(of a woman) to get married"
+      ]
+    },
+    {
+      "id": 125357,
+      "simplified": "分",
+      "traditional": "分",
+      "pinyin": "fēn",
+      "spokenPinyin": "fen",
+      "english": "to divide/to separate/to distribute/to allocate/to distinguish (good and bad)/part or subdivision/fraction/one tenth (of certain units)/unit of length equivalent to 0.33 cm/minute (unit of time)/minute (angular measurement unit)/a point (in sports or games)/0.01 yuan (unit of money)",
+      "definitions": [
+        "to divide",
+        "to separate",
+        "to distribute",
+        "to allocate",
+        "to distinguish (good and bad)",
+        "part or subdivision",
+        "fraction",
+        "one tenth (of certain units)",
+        "unit of length equivalent to 0.33 cm",
+        "minute (unit of time)",
+        "minute (angular measurement unit)",
+        "a point (in sports or games)",
+        "0.01 yuan (unit of money)"
+      ]
+    },
+    {
+      "id": 125559,
+      "simplified": "分钟",
+      "traditional": "分鐘",
+      "pinyin": "fēn zhōng",
+      "spokenPinyin": "fenzhong",
+      "english": "minute",
+      "definitions": [
+        "minute"
+      ]
+    },
+    {
+      "id": 125839,
+      "simplified": "别",
+      "traditional": "別",
+      "pinyin": "Bié",
+      "spokenPinyin": "bie",
+      "english": "surname Bie/don't...!/to leave/to depart/to separate/to distinguish/to classify/other/another/to pin/to stick (sth) in",
+      "definitions": [
+        "surname Bie",
+        "don't...!",
+        "to leave",
+        "to depart",
+        "to separate",
+        "to distinguish",
+        "to classify",
+        "other",
+        "another",
+        "to pin",
+        "to stick (sth) in"
+      ]
+    },
+    {
+      "id": 126013,
+      "simplified": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "spokenPinyin": "dao",
+      "english": "to (a place)/until (a time)/up to/to go/to arrive/(verb complement denoting completion or result of an action)",
+      "definitions": [
+        "to (a place)",
+        "until (a time)",
+        "up to",
+        "to go",
+        "to arrive",
+        "(verb complement denoting completion or result of an action)"
+      ]
+    },
+    {
+      "id": 126209,
+      "simplified": "前",
+      "traditional": "前",
+      "pinyin": "qián",
+      "spokenPinyin": "qian",
+      "english": "front/forward/ahead/first/top (followed by a number)/future/ago/before/BC (e.g. 前293年)/former/formerly",
+      "definitions": [
+        "front",
+        "forward",
+        "ahead",
+        "first",
+        "top (followed by a number)",
+        "future",
+        "ago",
+        "before",
+        "BC (e.g. 前293年)",
+        "former",
+        "formerly"
+      ]
+    },
+    {
+      "id": 126382,
+      "simplified": "前面",
+      "traditional": "前面",
+      "pinyin": "qián miàn",
+      "spokenPinyin": "qianmian",
+      "english": "ahead/in front/preceding/above/also pr. [qian2 mian5]",
+      "definitions": [
+        "ahead",
+        "in front",
+        "preceding",
+        "above",
+        "also pr. [qian2 mian5]"
+      ]
+    },
+    {
+      "id": 127269,
+      "simplified": "动",
+      "traditional": "動",
+      "pinyin": "dòng",
+      "spokenPinyin": "dong",
+      "english": "(of sth) to move/to set in movement/to displace/to touch/to make use of/to stir (emotions)/to alter/abbr. for 動詞|动词[dong4 ci2], verb",
+      "definitions": [
+        "(of sth) to move",
+        "to set in movement",
+        "to displace",
+        "to touch",
+        "to make use of",
+        "to stir (emotions)",
+        "to alter",
+        "abbr. for 動詞|动词[dong4 ci2], verb"
+      ]
+    },
+    {
+      "id": 127623,
+      "simplified": "包",
+      "traditional": "包",
+      "pinyin": "Bāo",
+      "spokenPinyin": "bao",
+      "english": "surname Bao/bag/to cover/to wrap/to hold/to include/to take charge of/to contract (to or for)/package/wrapper/container/to hold or embrace/bundle/packet/CL:個|个[ge4],隻|只[zhi1]",
+      "definitions": [
+        "surname Bao",
+        "bag",
+        "to cover",
+        "to wrap",
+        "to hold",
+        "to include",
+        "to take charge of",
+        "to contract (to or for)",
+        "package",
+        "wrapper",
+        "container",
+        "to hold or embrace",
+        "bundle",
+        "packet"
+      ]
+    },
+    {
+      "id": 127647,
+      "simplified": "包子",
+      "traditional": "包子",
+      "pinyin": "bāo zi",
+      "spokenPinyin": "baozi",
+      "english": "steamed stuffed bun/CL:個|个[ge4]",
+      "definitions": [
+        "steamed stuffed bun"
+      ]
+    },
+    {
+      "id": 128170,
+      "simplified": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "spokenPinyin": "shi",
+      "english": "ten/10",
+      "definitions": [
+        "ten",
+        "10"
+      ]
+    },
+    {
+      "id": 128277,
+      "simplified": "千",
+      "traditional": "千",
+      "pinyin": "qiān",
+      "spokenPinyin": "qian",
+      "english": "thousand",
+      "definitions": [
+        "thousand"
+      ]
+    },
+    {
+      "id": 128413,
+      "simplified": "午饭",
+      "traditional": "午飯",
+      "pinyin": "wǔ fàn",
+      "spokenPinyin": "wufan",
+      "english": "lunch/CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]",
+      "definitions": [
+        "lunch"
+      ]
+    },
+    {
+      "id": 128419,
+      "simplified": "半",
+      "traditional": "半",
+      "pinyin": "bàn",
+      "spokenPinyin": "ban",
+      "english": "half/semi-/incomplete/(after a number) and a half",
+      "definitions": [
+        "half",
+        "semi-",
+        "incomplete",
+        "(after a number) and a half"
+      ]
+    },
+    {
+      "id": 129604,
+      "simplified": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "spokenPinyin": "qu",
+      "english": "to go/to go to (a place)/(of a time etc) last/just passed/to send/to remove/to get rid of/to reduce/to be apart from in space or time/to die (euphemism)/to play (a part)/(when used either before or after a verb) to go in order to do sth/(after a verb of motion indicates movement away from the speaker)/(used after certain verbs to indicate detachment or separation)",
+      "definitions": [
+        "to go",
+        "to go to (a place)",
+        "(of a time etc) last",
+        "just passed",
+        "to send",
+        "to remove",
+        "to get rid of",
+        "to reduce",
+        "to be apart from in space or time",
+        "to die (euphemism)",
+        "to play (a part)",
+        "(when used either before or after a verb) to go in order to do sth",
+        "(after a verb of motion indicates movement away from the speaker)",
+        "(used after certain verbs to indicate detachment or separation)"
+      ]
+    },
+    {
+      "id": 129619,
+      "simplified": "去年",
+      "traditional": "去年",
+      "pinyin": "qù nián",
+      "spokenPinyin": "qunian",
+      "english": "last year",
+      "definitions": [
+        "last year"
+      ]
+    },
+    {
+      "id": 130208,
+      "simplified": "口",
+      "traditional": "口",
+      "pinyin": "kǒu",
+      "spokenPinyin": "kou",
+      "english": "mouth/classifier for things with mouths (people, domestic animals, cannons, wells etc)/classifier for bites or mouthfuls",
+      "definitions": [
+        "mouth",
+        "classifier for things with mouths (people, domestic animals, cannons, wells etc)",
+        "classifier for bites or mouthfuls"
+      ]
+    },
+    {
+      "id": 130534,
+      "simplified": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "spokenPinyin": "jiao",
+      "english": "to shout/to call/to order/to ask/to be called/by (indicates agent in the passive mood)",
+      "definitions": [
+        "to shout",
+        "to call",
+        "to order",
+        "to ask",
+        "to be called",
+        "by (indicates agent in the passive mood)"
+      ]
+    },
+    {
+      "id": 130593,
+      "simplified": "可以",
+      "traditional": "可以",
+      "pinyin": "kě yǐ",
+      "spokenPinyin": "keyi",
+      "english": "can/may/possible/able to/not bad/pretty good",
+      "definitions": [
+        "can",
+        "may",
+        "possible",
+        "able to",
+        "not bad",
+        "pretty good"
+      ]
+    },
+    {
+      "id": 130722,
+      "simplified": "可能",
+      "traditional": "可能",
+      "pinyin": "kě néng",
+      "spokenPinyin": "keneng",
+      "english": "might (happen)/possible/probable/possibility/probability/maybe/perhaps/CL:個|个[ge4]",
+      "definitions": [
+        "might (happen)",
+        "possible",
+        "probable",
+        "possibility",
+        "probability",
+        "maybe",
+        "perhaps"
+      ]
+    },
+    {
+      "id": 130880,
+      "simplified": "右",
+      "traditional": "右",
+      "pinyin": "yòu",
+      "spokenPinyin": "you",
+      "english": "right (-hand)/the Right (politics)/west (old)",
+      "definitions": [
+        "right (-hand)",
+        "the Right (politics)",
+        "west (old)"
+      ]
+    },
+    {
+      "id": 130902,
+      "simplified": "右边",
+      "traditional": "右邊",
+      "pinyin": "yòu bian",
+      "spokenPinyin": "youbian",
+      "english": "right side/right, to the right",
+      "definitions": [
+        "right side",
+        "right, to the right"
+      ]
+    },
+    {
+      "id": 130958,
+      "simplified": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "spokenPinyin": "chi",
+      "english": "to eat/to consume/to eat at (a cafeteria etc)/to eradicate/to destroy/to absorb/to suffer/to stammer (Taiwan pr. for this sense is [ji2])",
+      "definitions": [
+        "to eat",
+        "to consume",
+        "to eat at (a cafeteria etc)",
+        "to eradicate",
+        "to destroy",
+        "to absorb",
+        "to suffer",
+        "to stammer (Taiwan pr. for this sense is [ji2])"
+      ]
+    },
+    {
+      "id": 131447,
+      "simplified": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "spokenPinyin": "tongxue",
+      "english": "to study at the same school/fellow student/classmate/CL:位[wei4],個|个[ge4]",
+      "definitions": [
+        "to study at the same school",
+        "fellow student",
+        "classmate"
+      ]
+    },
+    {
+      "id": 131582,
+      "simplified": "名",
+      "traditional": "名",
+      "pinyin": "míng",
+      "spokenPinyin": "ming",
+      "english": "name/noun (part of speech)/place (e.g. among winners)/famous/classifier for people",
+      "definitions": [
+        "name",
+        "noun (part of speech)",
+        "place (e.g. among winners)",
+        "famous",
+        "classifier for people"
+      ]
+    },
+    {
+      "id": 131619,
+      "simplified": "名字",
+      "traditional": "名字",
+      "pinyin": "míng zi",
+      "spokenPinyin": "mingzi",
+      "english": "name (of a person or thing)/CL:個|个[ge4]",
+      "definitions": [
+        "name (of a person or thing)"
+      ]
+    },
+    {
+      "id": 131876,
+      "simplified": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "spokenPinyin": "ba",
+      "english": "(modal particle indicating suggestion or surmise)/...right?/...OK?/...I presume.",
+      "definitions": [
+        "(modal particle indicating suggestion or surmise)",
+        "...right?",
+        "...OK?",
+        "...I presume."
+      ]
+    },
+    {
+      "id": 132217,
+      "simplified": "告诉",
+      "traditional": "告訴",
+      "pinyin": "gào su",
+      "spokenPinyin": "gaosu",
+      "english": "to tell/to inform/to let know",
+      "definitions": [
+        "to tell",
+        "to inform",
+        "to let know"
+      ]
+    },
+    {
+      "id": 132234,
+      "simplified": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "spokenPinyin": "ne",
+      "english": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")/particle for inquiring about location (\"Where is ...?\")/particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\")/(at the end of a declarative sentence) particle indicating continuation of a state or action/particle indicating strong affirmation",
+      "definitions": [
+        "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\")",
+        "particle for inquiring about location (\"Where is ...?\")",
+        "particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\")",
+        "(at the end of a declarative sentence) particle indicating continuation of a state or action",
+        "particle indicating strong affirmation"
+      ]
+    },
+    {
+      "id": 132246,
+      "simplified": "周",
+      "traditional": "周",
+      "pinyin": "Zhōu",
+      "spokenPinyin": "zhou",
+      "english": "surname Zhou/PN:Zhou Dynasty (1046-256 BC)/to make a circuit/to circle/circle/circumference/lap/cycle/complete/all/all over/thorough/to help financially",
+      "definitions": [
+        "surname Zhou",
+        "to make a circuit",
+        "to circle",
+        "circle",
+        "circumference",
+        "lap",
+        "cycle",
+        "complete",
+        "all",
+        "all over",
+        "thorough",
+        "to help financially"
+      ]
+    },
+    {
+      "id": 132504,
+      "simplified": "和",
+      "traditional": "和",
+      "pinyin": "Hé",
+      "spokenPinyin": "he",
+      "english": "surname He/Japanese (food, clothes etc)/and/together with/with/sum/union/peace/harmony/Taiwan pr. [han",
+      "definitions": [
+        "surname He",
+        "Japanese (food, clothes etc)",
+        "and",
+        "together with",
+        "with",
+        "sum",
+        "union",
+        "peace",
+        "harmony",
+        "Taiwan pr. [han"
+      ]
+    },
+    {
+      "id": 132636,
+      "simplified": "咖啡",
+      "traditional": "咖啡",
+      "pinyin": "kā fēi",
+      "spokenPinyin": "kafei",
+      "english": "coffee (loanword)/CL:杯[bei1]",
+      "definitions": [
+        "coffee (loanword)"
+      ]
+    },
+    {
+      "id": 133026,
+      "simplified": "哥哥",
+      "traditional": "哥哥",
+      "pinyin": "gē ge",
+      "spokenPinyin": "gege",
+      "english": "older brother/CL:個|个[ge4],位[wei4]",
+      "definitions": [
+        "older brother"
+      ]
+    },
+    {
+      "id": 133065,
+      "simplified": "哪",
+      "traditional": "哪",
+      "pinyin": "nǎ",
+      "spokenPinyin": "na",
+      "english": "how/which",
+      "definitions": [
+        "how",
+        "which"
+      ]
+    },
+    {
+      "id": 133069,
+      "simplified": "哪些",
+      "traditional": "哪些",
+      "pinyin": "nǎ xiē",
+      "spokenPinyin": "naxie",
+      "english": "which ones?/who?/what?",
+      "definitions": [
+        "which ones?",
+        "who?",
+        "what?"
+      ]
+    },
+    {
+      "id": 133070,
+      "simplified": "哪个",
+      "traditional": "哪個",
+      "pinyin": "nǎ ge",
+      "spokenPinyin": "nage",
+      "english": "which/who",
+      "definitions": [
+        "which",
+        "who"
+      ]
+    },
+    {
+      "id": 133072,
+      "simplified": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ r",
+      "spokenPinyin": "nar",
+      "english": "where?/wherever/anywhere",
+      "definitions": [
+        "where?",
+        "wherever",
+        "anywhere"
+      ]
+    },
+    {
+      "id": 133079,
+      "simplified": "哪里",
+      "traditional": "哪裡",
+      "pinyin": "nǎ lǐ",
+      "spokenPinyin": "nali",
+      "english": "where?/somewhere/anywhere/wherever/nowhere (negative answer to question)/humble expression denying compliment/also written 哪裡|哪里",
+      "definitions": [
+        "where?",
+        "somewhere",
+        "anywhere",
+        "wherever",
+        "nowhere (negative answer to question)",
+        "humble expression denying compliment"
+      ]
+    },
+    {
+      "id": 133311,
+      "simplified": "唱",
+      "traditional": "唱",
+      "pinyin": "chàng",
+      "spokenPinyin": "chang",
+      "english": "to sing/to call loudly/to chant",
+      "definitions": [
+        "to sing",
+        "to call loudly",
+        "to chant"
+      ]
+    },
+    {
+      "id": 133410,
+      "simplified": "商场",
+      "traditional": "商場",
+      "pinyin": "shāng chǎng",
+      "spokenPinyin": "shangchang",
+      "english": "shopping mall/shopping center/department store/emporium/CL:家[jia1]/the business world",
+      "definitions": [
+        "shopping mall",
+        "shopping center",
+        "department store",
+        "emporium",
+        "the business world"
+      ]
+    },
+    {
+      "id": 133419,
+      "simplified": "商店",
+      "traditional": "商店",
+      "pinyin": "shāng diàn",
+      "spokenPinyin": "shangdian",
+      "english": "store/shop/CL:家[jia1],個|个[ge4]",
+      "definitions": [
+        "store",
+        "shop"
+      ]
+    },
+    {
+      "id": 133493,
+      "simplified": "啊",
+      "traditional": "啊",
+      "pinyin": "a",
+      "spokenPinyin": "a",
+      "english": "modal particle ending sentence, showing affirmation, approval, or consent",
+      "definitions": [
+        "modal particle ending sentence, showing affirmation, approval, or consent"
+      ]
+    },
+    {
+      "id": 133498,
+      "simplified": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "spokenPinyin": "wen",
+      "english": "to ask",
+      "definitions": [
+        "to ask"
+      ]
+    },
+    {
+      "id": 133526,
+      "simplified": "问题",
+      "traditional": "問題",
+      "pinyin": "wèn tí",
+      "spokenPinyin": "wenti",
+      "english": "question/problem/issue/topic/CL:個|个[ge4]",
+      "definitions": [
+        "question",
+        "problem",
+        "issue",
+        "topic"
+      ]
+    },
+    {
+      "id": 133653,
+      "simplified": "喂",
+      "traditional": "喂",
+      "pinyin": "wèi",
+      "spokenPinyin": "wei",
+      "english": "hey/to feed (an animal, baby, invalid etc)",
+      "definitions": [
+        "hey",
+        "to feed (an animal, baby, invalid etc)"
+      ]
+    },
+    {
+      "id": 133808,
+      "simplified": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "spokenPinyin": "xihuan",
+      "english": "to like/to be fond of",
+      "definitions": [
+        "to like",
+        "to be fond of"
+      ]
+    },
+    {
+      "id": 133838,
+      "simplified": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "spokenPinyin": "he",
+      "english": "to drink/My goodness!",
+      "definitions": [
+        "to drink",
+        "My goodness!"
+      ]
+    },
+    {
+      "id": 134147,
+      "simplified": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "spokenPinyin": "ma",
+      "english": "(question particle for \"yes-no\" questions)",
+      "definitions": [
+        "(question particle for \"yes-no\" questions)"
+      ]
+    },
+    {
+      "id": 134779,
+      "simplified": "四",
+      "traditional": "四",
+      "pinyin": "sì",
+      "spokenPinyin": "si",
+      "english": "four/4",
+      "definitions": [
+        "four",
+        "4"
+      ]
+    },
+    {
+      "id": 134942,
+      "simplified": "回",
+      "traditional": "回",
+      "pinyin": "huí",
+      "spokenPinyin": "hui",
+      "english": "to circle/to go back/to turn around/to answer/to return/to revolve/Hui ethnic group (Chinese Muslims)/time/classifier for acts of a play/section or chapter (of a classic book)",
+      "definitions": [
+        "to circle",
+        "to go back",
+        "to turn around",
+        "to answer",
+        "to return",
+        "to revolve",
+        "Hui ethnic group (Chinese Muslims)",
+        "time",
+        "classifier for acts of a play",
+        "section or chapter (of a classic book)"
+      ]
+    },
+    {
+      "id": 134947,
+      "simplified": "回来",
+      "traditional": "回來",
+      "pinyin": "huí lai",
+      "spokenPinyin": "huilai",
+      "english": "to return/to come back",
+      "definitions": [
+        "to return",
+        "to come back"
+      ]
+    },
+    {
+      "id": 134958,
+      "simplified": "回去",
+      "traditional": "回去",
+      "pinyin": "huí qu",
+      "spokenPinyin": "huiqu",
+      "english": "to return/to go back",
+      "definitions": [
+        "to return",
+        "to go back"
+      ]
+    },
+    {
+      "id": 135116,
+      "simplified": "因为",
+      "traditional": "因為",
+      "pinyin": "yīn wèi",
+      "spokenPinyin": "yinwei",
+      "english": "because/owing to/on account of",
+      "definitions": [
+        "because",
+        "owing to",
+        "on account of"
+      ]
+    },
+    {
+      "id": 135227,
+      "simplified": "国",
+      "traditional": "國",
+      "pinyin": "Guó",
+      "spokenPinyin": "guo",
+      "english": "surname Guo/country/nation/state/national/CL:個|个[ge4]",
+      "definitions": [
+        "surname Guo",
+        "country",
+        "nation",
+        "state",
+        "national"
+      ]
+    },
+    {
+      "id": 135858,
+      "simplified": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "spokenPinyin": "zai",
+      "english": "(located) at/(to be) in/to exist/in the middle of doing sth/(indicating an action in progress)",
+      "definitions": [
+        "(located) at",
+        "(to be) in",
+        "to exist",
+        "in the middle of doing sth",
+        "(indicating an action in progress)"
+      ]
+    },
+    {
+      "id": 135931,
+      "simplified": "地",
+      "traditional": "地",
+      "pinyin": "de",
+      "spokenPinyin": "de",
+      "english": "-ly/structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct",
+      "definitions": [
+        "-ly",
+        "structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct"
+      ]
+    },
+    {
+      "id": 136119,
+      "simplified": "地铁",
+      "traditional": "地鐵",
+      "pinyin": "dì tiě",
+      "spokenPinyin": "ditie",
+      "english": "subway/metro",
+      "definitions": [
+        "subway",
+        "metro"
+      ]
+    },
+    {
+      "id": 136221,
+      "simplified": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "spokenPinyin": "zuo",
+      "english": "to sit/to take a seat/to take (a bus, airplane etc)/to bear fruit",
+      "definitions": [
+        "to sit",
+        "to take a seat",
+        "to take (a bus, airplane etc)",
+        "to bear fruit"
+      ]
+    },
+    {
+      "id": 137039,
+      "simplified": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "spokenPinyin": "kuai",
+      "english": "lump (of earth)/chunk/piece/classifier for pieces of cloth, cake, soap etc/(coll.) classifier for money and currency units",
+      "definitions": [
+        "lump (of earth)",
+        "chunk",
+        "piece",
+        "classifier for pieces of cloth, cake, soap etc",
+        "(coll.) classifier for money and currency units"
+      ]
+    },
+    {
+      "id": 137565,
+      "simplified": "坏",
+      "traditional": "壞",
+      "pinyin": "huài",
+      "spokenPinyin": "huai",
+      "english": "bad/spoiled/broken/to break down/(suffix) to the utmost",
+      "definitions": [
+        "bad",
+        "spoiled",
+        "broken",
+        "to break down",
+        "(suffix) to the utmost"
+      ]
+    },
+    {
+      "id": 137759,
+      "simplified": "外",
+      "traditional": "外",
+      "pinyin": "wài",
+      "spokenPinyin": "wai",
+      "english": "outside/in addition/foreign/external",
+      "definitions": [
+        "outside",
+        "in addition",
+        "foreign",
+        "external"
+      ]
+    },
+    {
+      "id": 137825,
+      "simplified": "外国",
+      "traditional": "外國",
+      "pinyin": "wài guó",
+      "spokenPinyin": "waiguo",
+      "english": "foreign (country)/CL:個|个[ge4]",
+      "definitions": [
+        "foreign (country)"
+      ]
+    },
+    {
+      "id": 137949,
+      "simplified": "外边",
+      "traditional": "外邊",
+      "pinyin": "wài bian",
+      "spokenPinyin": "waibian",
+      "english": "outside/outer surface/abroad/place other than one's home",
+      "definitions": [
+        "outside",
+        "outer surface",
+        "abroad",
+        "place other than one's home"
+      ]
+    },
+    {
+      "id": 137966,
+      "simplified": "外面",
+      "traditional": "外面",
+      "pinyin": "wài miàn",
+      "spokenPinyin": "waimian",
+      "english": "outside (also pr. [wai4 mian",
+      "definitions": [
+        "outside (also pr. [wai4 mian"
+      ]
+    },
+    {
+      "id": 137984,
+      "simplified": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "spokenPinyin": "duo",
+      "english": "many/much/often/a lot of/numerous/more/in excess/how (to what extent)/multi-/Taiwan pr. [duo",
+      "definitions": [
+        "many",
+        "much",
+        "often",
+        "a lot of",
+        "numerous",
+        "more",
+        "in excess",
+        "how (to what extent)",
+        "multi-",
+        "Taiwan pr. [duo"
+      ]
+    },
+    {
+      "id": 138050,
+      "simplified": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "spokenPinyin": "duoshao",
+      "english": "how much/how many/which (number)/as much as",
+      "definitions": [
+        "how much",
+        "how many",
+        "which (number)",
+        "as much as"
+      ]
+    },
+    {
+      "id": 138319,
+      "simplified": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "spokenPinyin": "da",
+      "english": "big/huge/large/major/great/wide/deep/older (than)/oldest/eldest/greatly/very much/(dialect) father/father's elder or younger brother",
+      "definitions": [
+        "big",
+        "huge",
+        "large",
+        "major",
+        "great",
+        "wide",
+        "deep",
+        "older (than)",
+        "oldest",
+        "eldest",
+        "greatly",
+        "very much",
+        "(dialect) father",
+        "father's elder or younger brother"
+      ]
+    },
+    {
+      "id": 138550,
+      "simplified": "大学",
+      "traditional": "大學",
+      "pinyin": "Dà xué",
+      "spokenPinyin": "daxue",
+      "english": "PN:the Great Learning, one of the Four Books 四書/university/college/CL:所[suo3]",
+      "definitions": [
+        "university",
+        "college"
+      ]
+    },
+    {
+      "id": 138555,
+      "simplified": "大学生",
+      "traditional": "大學生",
+      "pinyin": "dà xué shēng",
+      "spokenPinyin": "daxuesheng",
+      "english": "university student/college student",
+      "definitions": [
+        "university student",
+        "college student"
+      ]
+    },
+    {
+      "id": 138568,
+      "simplified": "大家",
+      "traditional": "大家",
+      "pinyin": "dà jiā",
+      "spokenPinyin": "dajia",
+      "english": "everyone/influential family/great expert",
+      "definitions": [
+        "everyone",
+        "influential family",
+        "great expert"
+      ]
+    },
+    {
+      "id": 139266,
+      "simplified": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "spokenPinyin": "tian",
+      "english": "day/sky/heaven",
+      "definitions": [
+        "day",
+        "sky",
+        "heaven"
+      ]
+    },
+    {
+      "id": 139425,
+      "simplified": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "spokenPinyin": "tianqi",
+      "english": "weather",
+      "definitions": [
+        "weather"
+      ]
+    },
+    {
+      "id": 139603,
+      "simplified": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "spokenPinyin": "tai",
+      "english": "highest/greatest/too (much)/very/extremely",
+      "definitions": [
+        "highest",
+        "greatest",
+        "too (much)",
+        "very",
+        "extremely"
+      ]
+    },
+    {
+      "id": 140365,
+      "simplified": "女",
+      "traditional": "女",
+      "pinyin": "nǚ",
+      "spokenPinyin": "nu",
+      "english": "female/woman/daughter",
+      "definitions": [
+        "female",
+        "woman",
+        "daughter"
+      ]
+    },
+    {
+      "id": 140382,
+      "simplified": "女儿",
+      "traditional": "女兒",
+      "pinyin": "nǚ ér",
+      "spokenPinyin": "nuer",
+      "english": "daughter",
+      "definitions": [
+        "daughter"
+      ]
+    },
+    {
+      "id": 140391,
+      "simplified": "女士",
+      "traditional": "女士",
+      "pinyin": "nǚ shì",
+      "spokenPinyin": "nushi",
+      "english": "lady/madam/CL:個|个[ge4],位[wei4]/Miss/Ms",
+      "definitions": [
+        "lady",
+        "madam",
+        "Miss",
+        "Ms"
+      ]
+    },
+    {
+      "id": 140405,
+      "simplified": "女孩儿",
+      "traditional": "女孩兒",
+      "pinyin": "nǚ hái r",
+      "spokenPinyin": "nuhair",
+      "english": "girl/lass/erhua variant of 女孩",
+      "definitions": [
+        "girl",
+        "lass",
+        "erhua variant of 女孩"
+      ]
+    },
+    {
+      "id": 140424,
+      "simplified": "女朋友",
+      "traditional": "女朋友",
+      "pinyin": "nǚ péng you",
+      "spokenPinyin": "nupengyou",
+      "english": "girlfriend",
+      "definitions": [
+        "girlfriend"
+      ]
+    },
+    {
+      "id": 140482,
+      "simplified": "奶奶",
+      "traditional": "奶奶",
+      "pinyin": "nǎi nai",
+      "spokenPinyin": "nainai",
+      "english": "(informal) grandma (paternal grandmother)/(respectful) mistress of the house/CL:位[wei4]/(coll.) boobies/breasts",
+      "definitions": [
+        "(informal) grandma (paternal grandmother)",
+        "(respectful) mistress of the house",
+        "(coll.) boobies",
+        "breasts"
+      ]
+    },
+    {
+      "id": 140505,
+      "simplified": "奶茶",
+      "traditional": "奶茶",
+      "pinyin": "nǎi chá",
+      "spokenPinyin": "naicha",
+      "english": "milk tea",
+      "definitions": [
+        "milk tea"
+      ]
+    },
+    {
+      "id": 140534,
+      "simplified": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "spokenPinyin": "ta",
+      "english": "she",
+      "definitions": [
+        "she"
+      ]
+    },
+    {
+      "id": 140535,
+      "simplified": "她们",
+      "traditional": "她們",
+      "pinyin": "tā men",
+      "spokenPinyin": "tamen",
+      "english": "they/them (for females)",
+      "definitions": [
+        "they",
+        "them (for females)"
+      ]
+    },
+    {
+      "id": 140541,
+      "simplified": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "spokenPinyin": "hao",
+      "english": "good/well/proper/good to/easy to/very/so/(suffix indicating completion or readiness)/(of two people) close/on intimate terms/(after a personal pronoun) hello",
+      "definitions": [
+        "good",
+        "well",
+        "proper",
+        "good to",
+        "easy to",
+        "very",
+        "so",
+        "(suffix indicating completion or readiness)",
+        "(of two people) close",
+        "on intimate terms",
+        "(after a personal pronoun) hello"
+      ]
+    },
+    {
+      "id": 140569,
+      "simplified": "好吃",
+      "traditional": "好吃",
+      "pinyin": "hǎo chī",
+      "spokenPinyin": "haochi",
+      "english": "tasty/delicious",
+      "definitions": [
+        "tasty",
+        "delicious"
+      ]
+    },
+    {
+      "id": 140627,
+      "simplified": "好玩儿",
+      "traditional": "好玩兒",
+      "pinyin": "hǎo wán r",
+      "spokenPinyin": "haowanr",
+      "english": "interesting/delightful/amusing",
+      "definitions": [
+        "interesting",
+        "delightful",
+        "amusing"
+      ]
+    },
+    {
+      "id": 140632,
+      "simplified": "好看",
+      "traditional": "好看",
+      "pinyin": "hǎo kàn",
+      "spokenPinyin": "haokan",
+      "english": "good-looking/nice-looking/good (of a movie, book, TV show etc)/embarrassed/humiliated",
+      "definitions": [
+        "good-looking",
+        "nice-looking",
+        "good (of a movie, book, TV show etc)",
+        "embarrassed",
+        "humiliated"
+      ]
+    },
+    {
+      "id": 140639,
+      "simplified": "好听",
+      "traditional": "好聽",
+      "pinyin": "hǎo tīng",
+      "spokenPinyin": "haoting",
+      "english": "pleasant to hear",
+      "definitions": [
+        "pleasant to hear"
+      ]
+    },
+    {
+      "id": 140869,
+      "simplified": "妹妹",
+      "traditional": "妹妹",
+      "pinyin": "mèi mei",
+      "spokenPinyin": "meimei",
+      "english": "younger sister/young woman/CL:個|个[ge4]",
+      "definitions": [
+        "younger sister",
+        "young woman"
+      ]
+    },
+    {
+      "id": 140879,
+      "simplified": "妻子",
+      "traditional": "妻子",
+      "pinyin": "qī zi",
+      "spokenPinyin": "qizi",
+      "english": "wife/CL:個|个[ge4]",
+      "definitions": [
+        "wife"
+      ]
+    },
+    {
+      "id": 140927,
+      "simplified": "姐姐",
+      "traditional": "姐姐",
+      "pinyin": "jiě jie",
+      "spokenPinyin": "jiejie",
+      "english": "older sister/CL:個|个[ge4]",
+      "definitions": [
+        "older sister"
+      ]
+    },
+    {
+      "id": 140952,
+      "simplified": "姓",
+      "traditional": "姓",
+      "pinyin": "xìng",
+      "spokenPinyin": "xing",
+      "english": "family name/surname/CL:個|个[ge4]/to be surnamed",
+      "definitions": [
+        "family name",
+        "surname",
+        "to be surnamed"
+      ]
+    },
+    {
+      "id": 140953,
+      "simplified": "姓名",
+      "traditional": "姓名",
+      "pinyin": "xìng míng",
+      "spokenPinyin": "xingming",
+      "english": "name and surname/CL:個|个[ge4]",
+      "definitions": [
+        "name and surname"
+      ]
+    },
+    {
+      "id": 141376,
+      "simplified": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "spokenPinyin": "mama",
+      "english": "mama/mommy/mother/CL:個|个[ge4],位[wei4]",
+      "definitions": [
+        "mama",
+        "mommy",
+        "mother"
+      ]
+    },
+    {
+      "id": 141688,
+      "simplified": "字",
+      "traditional": "字",
+      "pinyin": "zì",
+      "spokenPinyin": "zi",
+      "english": "letter/symbol/character/word/CL:個|个[ge4]/courtesy or style name traditionally given to males aged 20 in dynastic China",
+      "definitions": [
+        "letter",
+        "symbol",
+        "character",
+        "word",
+        "courtesy or style name traditionally given to males aged 20 in dynastic China"
+      ]
+    },
+    {
+      "id": 141934,
+      "simplified": "孩子",
+      "traditional": "孩子",
+      "pinyin": "hái zi",
+      "spokenPinyin": "haizi",
+      "english": "child",
+      "definitions": [
+        "child"
+      ]
+    },
+    {
+      "id": 141993,
+      "simplified": "学",
+      "traditional": "學",
+      "pinyin": "xué",
+      "spokenPinyin": "xue",
+      "english": "to learn/to study/to imitate/science/-ology",
+      "definitions": [
+        "to learn",
+        "to study",
+        "to imitate",
+        "science",
+        "-ology"
+      ]
+    },
+    {
+      "id": 142031,
+      "simplified": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "spokenPinyin": "xuexiao",
+      "english": "school/CL:所[suo3]",
+      "definitions": [
+        "school"
+      ]
+    },
+    {
+      "id": 142044,
+      "simplified": "学生",
+      "traditional": "學生",
+      "pinyin": "xué sheng",
+      "spokenPinyin": "xuesheng",
+      "english": "student/schoolchild",
+      "definitions": [
+        "student",
+        "schoolchild"
+      ]
+    },
+    {
+      "id": 142055,
+      "simplified": "学习",
+      "traditional": "學習",
+      "pinyin": "xué xí",
+      "spokenPinyin": "xuexi",
+      "english": "to learn/to study",
+      "definitions": [
+        "to learn",
+        "to study"
+      ]
+    },
+    {
+      "id": 142094,
+      "simplified": "它",
+      "traditional": "它",
+      "pinyin": "tā",
+      "spokenPinyin": "ta",
+      "english": "it",
+      "definitions": [
+        "it"
+      ]
+    },
+    {
+      "id": 142095,
+      "simplified": "它们",
+      "traditional": "它們",
+      "pinyin": "tā men",
+      "spokenPinyin": "tamen",
+      "english": "they (for inanimate objects)",
+      "definitions": [
+        "they (for inanimate objects)"
+      ]
+    },
+    {
+      "id": 142481,
+      "simplified": "完",
+      "traditional": "完",
+      "pinyin": "wán",
+      "spokenPinyin": "wan",
+      "english": "to finish/to be over/whole/complete/entire",
+      "definitions": [
+        "to finish",
+        "to be over",
+        "whole",
+        "complete",
+        "entire"
+      ]
+    },
+    {
+      "id": 143013,
+      "simplified": "家",
+      "traditional": "家",
+      "pinyin": "jiā",
+      "spokenPinyin": "jia",
+      "english": "home/family/(polite) my (sister, uncle etc)/classifier for families or businesses/refers to the philosophical schools of pre-Han China/noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian/CL:個|个[ge4]/(surname) Ji",
+      "definitions": [
+        "home",
+        "family",
+        "(polite) my (sister, uncle etc)",
+        "classifier for families or businesses",
+        "refers to the philosophical schools of pre-Han China",
+        "noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian",
+        "(surname) Ji"
+      ]
+    },
+    {
+      "id": 143018,
+      "simplified": "家人",
+      "traditional": "家人",
+      "pinyin": "jiā rén",
+      "spokenPinyin": "jiaren",
+      "english": "household/(one's) family",
+      "definitions": [
+        "household",
+        "(one's) family"
+      ]
+    },
+    {
+      "id": 143772,
+      "simplified": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "spokenPinyin": "xie",
+      "english": "to write",
+      "definitions": [
+        "to write"
+      ]
+    },
+    {
+      "id": 144266,
+      "simplified": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "spokenPinyin": "dui",
+      "english": "right/correct/couple/pair/towards/at/for/to face/opposite/to treat (sb a certain way)/to match together/to adjust/to fit/to suit/to answer/to reply/classifier: couple",
+      "definitions": [
+        "right",
+        "correct",
+        "couple",
+        "pair",
+        "towards",
+        "at",
+        "for",
+        "to face",
+        "opposite",
+        "to treat (sb a certain way)",
+        "to match together",
+        "to adjust",
+        "to fit",
+        "to suit",
+        "to answer",
+        "to reply",
+        "classifier: couple"
+      ]
+    },
+    {
+      "id": 144271,
+      "simplified": "对不起",
+      "traditional": "對不起",
+      "pinyin": "duì bu qǐ",
+      "spokenPinyin": "duibuqi",
+      "english": "I'm sorry/to let down/excuse me/pardon me/if you please/sorry? (please repeat)",
+      "definitions": [
+        "I'm sorry",
+        "to let down",
+        "excuse me",
+        "pardon me",
+        "if you please",
+        "sorry? (please repeat)"
+      ]
+    },
+    {
+      "id": 144489,
+      "simplified": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "spokenPinyin": "xiao",
+      "english": "small/tiny/few/young",
+      "definitions": [
+        "small",
+        "tiny",
+        "few",
+        "young"
+      ]
+    },
+    {
+      "id": 144586,
+      "simplified": "小孩儿",
+      "traditional": "小孩兒",
+      "pinyin": "xiǎo hái r",
+      "spokenPinyin": "xiaohair",
+      "english": "child/CL:個|个[ge4]/erhua variant of 小孩",
+      "definitions": [
+        "child",
+        "erhua variant of 小孩"
+      ]
+    },
+    {
+      "id": 144589,
+      "simplified": "小学",
+      "traditional": "小學",
+      "pinyin": "xiǎo xué",
+      "spokenPinyin": "xiaoxue",
+      "english": "elementary school/primary school/CL:個|个[ge4]",
+      "definitions": [
+        "elementary school",
+        "primary school"
+      ]
+    },
+    {
+      "id": 144590,
+      "simplified": "小学生",
+      "traditional": "小學生",
+      "pinyin": "xiǎo xué shēng",
+      "spokenPinyin": "xiaoxuesheng",
+      "english": "primary school student/schoolchild/CL:個|个[ge4],名[ming2]/(fig.) beginner",
+      "definitions": [
+        "primary school student",
+        "schoolchild",
+        "(fig.) beginner"
+      ]
+    },
+    {
+      "id": 144667,
+      "simplified": "小时",
+      "traditional": "小時",
+      "pinyin": "xiǎo shí",
+      "spokenPinyin": "xiaoshi",
+      "english": "hour/CL:個|个[ge4]",
+      "definitions": [
+        "hour"
+      ]
+    },
+    {
+      "id": 144669,
+      "simplified": "小时候",
+      "traditional": "小時候",
+      "pinyin": "xiǎo shí hou",
+      "spokenPinyin": "xiaoshihou",
+      "english": "in one's childhood",
+      "definitions": [
+        "in one's childhood"
+      ]
+    },
+    {
+      "id": 144675,
+      "simplified": "小朋友",
+      "traditional": "小朋友",
+      "pinyin": "xiǎo péng yǒu",
+      "spokenPinyin": "xiaopengyou",
+      "english": "child/CL:個|个[ge4]",
+      "definitions": [
+        "child"
+      ]
+    },
+    {
+      "id": 144929,
+      "simplified": "少",
+      "traditional": "少",
+      "pinyin": "shǎo",
+      "spokenPinyin": "shao",
+      "english": "few/less/to lack/to be missing/to stop (doing sth)/seldom",
+      "definitions": [
+        "few",
+        "less",
+        "to lack",
+        "to be missing",
+        "to stop (doing sth)",
+        "seldom"
+      ]
+    },
+    {
+      "id": 145082,
+      "simplified": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "spokenPinyin": "jiu",
+      "english": "at once/right away/only/just (emphasis)/as early as/already/as soon as/then/in that case/as many as/even if/to approach/to move towards/to undertake/to engage in/to suffer/subjected to/to accomplish/to take advantage of/to go with (of foods)/with regard to/concerning",
+      "definitions": [
+        "at once",
+        "right away",
+        "only",
+        "just (emphasis)",
+        "as early as",
+        "already",
+        "as soon as",
+        "then",
+        "in that case",
+        "as many as",
+        "even if",
+        "to approach",
+        "to move towards",
+        "to undertake",
+        "to engage in",
+        "to suffer",
+        "subjected to",
+        "to accomplish",
+        "to take advantage of",
+        "to go with (of foods)",
+        "with regard to",
+        "concerning"
+      ]
+    },
+    {
+      "id": 146261,
+      "simplified": "工作",
+      "traditional": "工作",
+      "pinyin": "gōng zuò",
+      "spokenPinyin": "gongzuo",
+      "english": "to work/(of a machine) to operate/job/work/task/CL:個|个[ge4],份[fen4],項|项[xiang4]",
+      "definitions": [
+        "to work",
+        "(of a machine) to operate",
+        "job",
+        "work",
+        "task"
+      ]
+    },
+    {
+      "id": 146372,
+      "simplified": "左",
+      "traditional": "左",
+      "pinyin": "Zuǒ",
+      "spokenPinyin": "zuo",
+      "english": "surname Zuo/left/left-hand side",
+      "definitions": [
+        "surname Zuo",
+        "left",
+        "left-hand side"
+      ]
+    },
+    {
+      "id": 146424,
+      "simplified": "左边",
+      "traditional": "左邊",
+      "pinyin": "zuǒ bian",
+      "spokenPinyin": "zuobian",
+      "english": "left/the left side/to the left of",
+      "definitions": [
+        "left",
+        "the left side",
+        "to the left of"
+      ]
+    },
+    {
+      "id": 146600,
+      "simplified": "已经",
+      "traditional": "已經",
+      "pinyin": "yǐ jīng",
+      "spokenPinyin": "yijing",
+      "english": "already",
+      "definitions": [
+        "already"
+      ]
+    },
+    {
+      "id": 147030,
+      "simplified": "希望",
+      "traditional": "希望",
+      "pinyin": "xī wàng",
+      "spokenPinyin": "xiwang",
+      "english": "to wish for/to desire/hope/CL:個|个[ge4]",
+      "definitions": [
+        "to wish for",
+        "to desire",
+        "hope"
+      ]
+    },
+    {
+      "id": 147376,
+      "simplified": "帮",
+      "traditional": "幫",
+      "pinyin": "bāng",
+      "spokenPinyin": "bang",
+      "english": "to help/to assist/to support/for sb (i.e. as a help)/hired (as worker)/side (of pail, boat etc)/outer layer/upper (of a shoe)/group/gang/clique/party/secret society",
+      "definitions": [
+        "to help",
+        "to assist",
+        "to support",
+        "for sb (i.e. as a help)",
+        "hired (as worker)",
+        "side (of pail, boat etc)",
+        "outer layer",
+        "upper (of a shoe)",
+        "group",
+        "gang",
+        "clique",
+        "party",
+        "secret society"
+      ]
+    },
+    {
+      "id": 147386,
+      "simplified": "帮忙",
+      "traditional": "幫忙",
+      "pinyin": "bāng máng",
+      "spokenPinyin": "bangmang",
+      "english": "to help/to lend a hand/to do a favor/to do a good turn",
+      "definitions": [
+        "to help",
+        "to lend a hand",
+        "to do a favor",
+        "to do a good turn"
+      ]
+    },
+    {
+      "id": 147654,
+      "simplified": "年",
+      "traditional": "年",
+      "pinyin": "Nián",
+      "spokenPinyin": "nian",
+      "english": "surname Nian/year/CL:個|个[ge4]",
+      "definitions": [
+        "surname Nian",
+        "year"
+      ]
+    },
+    {
+      "id": 147867,
+      "simplified": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "spokenPinyin": "ji",
+      "english": "how much/how many/several/a few",
+      "definitions": [
+        "how much",
+        "how many",
+        "several",
+        "a few"
+      ]
+    },
+    {
+      "id": 147927,
+      "simplified": "床",
+      "traditional": "床",
+      "pinyin": "chuáng",
+      "spokenPinyin": "chuang",
+      "english": "bed/couch/classifier for beds/CL:張|张[zhang1]",
+      "definitions": [
+        "bed",
+        "couch",
+        "classifier for beds"
+      ]
+    },
+    {
+      "id": 147998,
+      "simplified": "店",
+      "traditional": "店",
+      "pinyin": "diàn",
+      "spokenPinyin": "dian",
+      "english": "inn/shop/store/CL:家[jia1]",
+      "definitions": [
+        "inn",
+        "shop",
+        "store"
+      ]
+    },
+    {
+      "id": 148815,
+      "simplified": "弟弟",
+      "traditional": "弟弟",
+      "pinyin": "dì di",
+      "spokenPinyin": "didi",
+      "english": "younger brother/CL:個|个[ge4],位[wei4]",
+      "definitions": [
+        "younger brother"
+      ]
+    },
+    {
+      "id": 149434,
+      "simplified": "往",
+      "traditional": "往",
+      "pinyin": "wǎng",
+      "spokenPinyin": "wang",
+      "english": "to go (in a direction)/to/towards/(of a train) bound for/past/previous",
+      "definitions": [
+        "to go (in a direction)",
+        "to",
+        "towards",
+        "(of a train) bound for",
+        "past",
+        "previous"
+      ]
+    },
+    {
+      "id": 149517,
+      "simplified": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "spokenPinyin": "hen",
+      "english": "(adverb of degree)/quite/very/awfully",
+      "definitions": [
+        "(adverb of degree)",
+        "quite",
+        "very",
+        "awfully"
+      ]
+    },
+    {
+      "id": 149531,
+      "simplified": "后",
+      "traditional": "後",
+      "pinyin": "hòu",
+      "spokenPinyin": "hou",
+      "english": "back/behind/rear/afterwards/after/later/empress/queen/(surname) Hou",
+      "definitions": [
+        "back",
+        "behind",
+        "rear",
+        "afterwards",
+        "after",
+        "later",
+        "empress",
+        "queen",
+        "(surname) Hou"
+      ]
+    },
+    {
+      "id": 149672,
+      "simplified": "后面",
+      "traditional": "後面",
+      "pinyin": "hòu miàn",
+      "spokenPinyin": "houmian",
+      "english": "rear/back/behind/later/afterwards/also pr. [hou4 mian5]",
+      "definitions": [
+        "rear",
+        "back",
+        "behind",
+        "later",
+        "afterwards",
+        "also pr. [hou4 mian5]"
+      ]
+    },
+    {
+      "id": 149747,
+      "simplified": "得",
+      "traditional": "得",
+      "pinyin": "de",
+      "spokenPinyin": "de",
+      "english": "structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc",
+      "definitions": [
+        "structural particle: used after a verb (or adjective as main verb), linking it to following phrase indicating effect, degree, possibility etc"
+      ]
+    },
+    {
+      "id": 149824,
+      "simplified": "从",
+      "traditional": "從",
+      "pinyin": "Cóng",
+      "spokenPinyin": "cong",
+      "english": "surname Cong/from/through/via/to follow/to obey/to engage in (an activity)/never (in negative sentence)/(Taiwan pr. [zong4]) retainer/assistant/auxiliary/subordinate/related by common paternal grandfather or earlier ancestor",
+      "definitions": [
+        "surname Cong",
+        "from",
+        "through",
+        "via",
+        "to follow",
+        "to obey",
+        "to engage in (an activity)",
+        "never (in negative sentence)",
+        "(Taiwan pr. [zong4]) retainer",
+        "assistant",
+        "auxiliary",
+        "subordinate",
+        "related by common paternal grandfather or earlier ancestor"
+      ]
+    },
+    {
+      "id": 149857,
+      "simplified": "从小",
+      "traditional": "從小",
+      "pinyin": "cóng xiǎo",
+      "spokenPinyin": "congxiao",
+      "english": "from childhood/as a child",
+      "definitions": [
+        "from childhood",
+        "as a child"
+      ]
+    },
+    {
+      "id": 150577,
+      "simplified": "忘",
+      "traditional": "忘",
+      "pinyin": "wàng",
+      "spokenPinyin": "wang",
+      "english": "to forget/to overlook/to neglect",
+      "definitions": [
+        "to forget",
+        "to overlook",
+        "to neglect"
+      ]
+    },
+    {
+      "id": 150599,
+      "simplified": "忙",
+      "traditional": "忙",
+      "pinyin": "máng",
+      "spokenPinyin": "mang",
+      "english": "busy/hurriedly/to hurry/to rush",
+      "definitions": [
+        "busy",
+        "hurriedly",
+        "to hurry",
+        "to rush"
+      ]
+    },
+    {
+      "id": 150644,
+      "simplified": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "spokenPinyin": "kuai",
+      "english": "rapid/quick/speed/rate/soon/almost/to make haste/clever/sharp (of knives or wits)/forthright/plainspoken/gratified/pleased/pleasant",
+      "definitions": [
+        "rapid",
+        "quick",
+        "speed",
+        "rate",
+        "soon",
+        "almost",
+        "to make haste",
+        "clever",
+        "sharp (of knives or wits)",
+        "forthright",
+        "plainspoken",
+        "gratified",
+        "pleased",
+        "pleasant"
+      ]
+    },
+    {
+      "id": 150666,
+      "simplified": "快乐",
+      "traditional": "快樂",
+      "pinyin": "kuài lè",
+      "spokenPinyin": "kuaile",
+      "english": "happy/merry",
+      "definitions": [
+        "happy",
+        "merry"
+      ]
+    },
+    {
+      "id": 150680,
+      "simplified": "快要",
+      "traditional": "快要",
+      "pinyin": "kuài yào",
+      "spokenPinyin": "kuaiyao",
+      "english": "almost/nearly/almost all",
+      "definitions": [
+        "almost",
+        "nearly",
+        "almost all"
+      ]
+    },
+    {
+      "id": 150761,
+      "simplified": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "spokenPinyin": "zenme",
+      "english": "how?/what?/why?",
+      "definitions": [
+        "how?",
+        "what?",
+        "why?"
+      ]
+    },
+    {
+      "id": 150766,
+      "simplified": "怎么样",
+      "traditional": "怎麼樣",
+      "pinyin": "zěn me yàng",
+      "spokenPinyin": "zenmeyang",
+      "english": "how?/how about?/how was it?/how are things?",
+      "definitions": [
+        "how?",
+        "how about?",
+        "how was it?",
+        "how are things?"
+      ]
+    },
+    {
+      "id": 151445,
+      "simplified": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "spokenPinyin": "nin",
+      "english": "you (courteous, as opposed to informal 你[ni3])",
+      "definitions": [
+        "you (courteous, as opposed to informal 你[ni3])"
+      ]
+    },
+    {
+      "id": 151784,
+      "simplified": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "spokenPinyin": "xiang",
+      "english": "to think/to believe/to suppose/to wish/to want/to miss (feel wistful about the absence of sb or sth)",
+      "definitions": [
+        "to think",
+        "to believe",
+        "to suppose",
+        "to wish",
+        "to want",
+        "to miss (feel wistful about the absence of sb or sth)"
+      ]
+    },
+    {
+      "id": 151905,
+      "simplified": "意思",
+      "traditional": "意思",
+      "pinyin": "yì si",
+      "spokenPinyin": "yisi",
+      "english": "idea/opinion/meaning/wish/desire/interest/fun/token of appreciation, affection etc/CL:個|个[ge4]/to give as a small token/to do sth as a gesture of goodwill etc",
+      "definitions": [
+        "idea",
+        "opinion",
+        "meaning",
+        "wish",
+        "desire",
+        "interest",
+        "fun",
+        "token of appreciation, affection etc",
+        "to give as a small token",
+        "to do sth as a gesture of goodwill etc"
+      ]
+    },
+    {
+      "id": 151970,
+      "simplified": "爱",
+      "traditional": "愛",
+      "pinyin": "ài",
+      "spokenPinyin": "ai",
+      "english": "to love/to be fond of/to like/affection/to be inclined (to do sth)/to tend to (happen)",
+      "definitions": [
+        "to love",
+        "to be fond of",
+        "to like",
+        "affection",
+        "to be inclined (to do sth)",
+        "to tend to (happen)"
+      ]
+    },
+    {
+      "id": 151995,
+      "simplified": "爱好",
+      "traditional": "愛好",
+      "pinyin": "ài hào",
+      "spokenPinyin": "aihao",
+      "english": "to like/to take pleasure in/keen on/fond of/interest/hobby/appetite for/CL:個|个[ge4]",
+      "definitions": [
+        "to like",
+        "to take pleasure in",
+        "keen on",
+        "fond of",
+        "interest",
+        "hobby",
+        "appetite for"
+      ]
+    },
+    {
+      "id": 152296,
+      "simplified": "慢",
+      "traditional": "慢",
+      "pinyin": "màn",
+      "spokenPinyin": "man",
+      "english": "slow",
+      "definitions": [
+        "slow"
+      ]
+    },
+    {
+      "id": 152547,
+      "simplified": "懂",
+      "traditional": "懂",
+      "pinyin": "dǒng",
+      "spokenPinyin": "dong",
+      "english": "to understand/to comprehend",
+      "definitions": [
+        "to understand",
+        "to comprehend"
+      ]
+    },
+    {
+      "id": 153038,
+      "simplified": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "spokenPinyin": "wo",
+      "english": "I/me/my",
+      "definitions": [
+        "I",
+        "me",
+        "my"
+      ]
+    },
+    {
+      "id": 153041,
+      "simplified": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "spokenPinyin": "women",
+      "english": "we/us/ourselves/our",
+      "definitions": [
+        "we",
+        "us",
+        "ourselves",
+        "our"
+      ]
+    },
+    {
+      "id": 153361,
+      "simplified": "房间",
+      "traditional": "房間",
+      "pinyin": "fáng jiān",
+      "spokenPinyin": "fangjian",
+      "english": "room/CL:間|间[jian1],個|个[ge4]",
+      "definitions": [
+        "room"
+      ]
+    },
+    {
+      "id": 153365,
+      "simplified": "所以",
+      "traditional": "所以",
+      "pinyin": "suǒ yǐ",
+      "spokenPinyin": "suoyi",
+      "english": "therefore/as a result/so/the reason why",
+      "definitions": [
+        "therefore",
+        "as a result",
+        "so",
+        "the reason why"
+      ]
+    },
+    {
+      "id": 153460,
+      "simplified": "手",
+      "traditional": "手",
+      "pinyin": "shǒu",
+      "spokenPinyin": "shou",
+      "english": "hand/(formal) to hold/person engaged in certain types of work/person skilled in certain types of work/personal(ly)/convenient/classifier for skill/CL:雙|双[shuang1],隻|只[zhi1]",
+      "definitions": [
+        "hand",
+        "(formal) to hold",
+        "person engaged in certain types of work",
+        "person skilled in certain types of work",
+        "personal(ly)",
+        "convenient",
+        "classifier for skill"
+      ]
+    },
+    {
+      "id": 153531,
+      "simplified": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒu jī",
+      "spokenPinyin": "shouji",
+      "english": "cell phone/mobile phone/CL:部[bu4],支[zhi1]",
+      "definitions": [
+        "cell phone",
+        "mobile phone"
+      ]
+    },
+    {
+      "id": 153585,
+      "simplified": "手表",
+      "traditional": "手錶",
+      "pinyin": "shǒu biǎo",
+      "spokenPinyin": "shoubiao",
+      "english": "wrist watch/CL:塊|块[kuai4],隻|只[zhi1],個|个[ge4]",
+      "definitions": [
+        "wrist watch"
+      ]
+    },
+    {
+      "id": 153677,
+      "simplified": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "spokenPinyin": "da",
+      "english": "to beat/to strike/to hit/to break/to type/to mix up/to build/to fight/to fetch/to make/to tie up/to issue/to shoot/to calculate/to play (a game)/since/from",
+      "definitions": [
+        "to beat",
+        "to strike",
+        "to hit",
+        "to break",
+        "to type",
+        "to mix up",
+        "to build",
+        "to fight",
+        "to fetch",
+        "to make",
+        "to tie up",
+        "to issue",
+        "to shoot",
+        "to calculate",
+        "to play (a game)",
+        "since",
+        "from"
+      ]
+    },
+    {
+      "id": 153908,
+      "simplified": "打车",
+      "traditional": "打車",
+      "pinyin": "dǎ chē",
+      "spokenPinyin": "dache",
+      "english": "to take a taxi (in town)/to hitch a lift",
+      "definitions": [
+        "to take a taxi (in town)",
+        "to hitch a lift"
+      ]
+    },
+    {
+      "id": 153933,
+      "simplified": "打开",
+      "traditional": "打開",
+      "pinyin": "dǎ kāi",
+      "spokenPinyin": "dakai",
+      "english": "to open/to show (a ticket)/to turn on/to switch on",
+      "definitions": [
+        "to open",
+        "to show (a ticket)",
+        "to turn on",
+        "to switch on"
+      ]
+    },
+    {
+      "id": 153940,
+      "simplified": "打电话",
+      "traditional": "打電話",
+      "pinyin": "dǎ diàn huà",
+      "spokenPinyin": "dadianhua",
+      "english": "to make a telephone call",
+      "definitions": [
+        "to make a telephone call"
+      ]
+    },
+    {
+      "id": 154214,
+      "simplified": "找",
+      "traditional": "找",
+      "pinyin": "zhǎo",
+      "spokenPinyin": "zhao",
+      "english": "to try to find/to look for/to call on sb/to find/to seek/to return/to give change",
+      "definitions": [
+        "to try to find",
+        "to look for",
+        "to call on sb",
+        "to find",
+        "to seek",
+        "to return",
+        "to give change"
+      ]
+    },
+    {
+      "id": 155610,
+      "simplified": "拿",
+      "traditional": "拿",
+      "pinyin": "ná",
+      "spokenPinyin": "na",
+      "english": "to hold/to seize/to catch/to apprehend/to take/(used in the same way as 把[ba3]: to mark the following noun as a direct object)",
+      "definitions": [
+        "to hold",
+        "to seize",
+        "to catch",
+        "to apprehend",
+        "to take",
+        "(used in the same way as 把[ba3]: to mark the following noun as a direct object)"
+      ]
+    },
+    {
+      "id": 159173,
+      "simplified": "教",
+      "traditional": "教",
+      "pinyin": "jiāo",
+      "spokenPinyin": "jiao",
+      "english": "to teach",
+      "definitions": [
+        "to teach"
+      ]
+    },
+    {
+      "id": 159203,
+      "simplified": "教室",
+      "traditional": "教室",
+      "pinyin": "jiào shì",
+      "spokenPinyin": "jiaoshi",
+      "english": "classroom/CL:間|间[jian1]",
+      "definitions": [
+        "classroom"
+      ]
+    },
+    {
+      "id": 160141,
+      "simplified": "新",
+      "traditional": "新",
+      "pinyin": "Xīn",
+      "spokenPinyin": "xin",
+      "english": "PN:abbr. for Xinjiang 新疆[Xin1 jiang/new/newly/meso- (chemistry)",
+      "definitions": [
+        "new",
+        "newly",
+        "meso- (chemistry)"
+      ]
+    },
+    {
+      "id": 160687,
+      "simplified": "旁边",
+      "traditional": "旁邊",
+      "pinyin": "páng biān",
+      "spokenPinyin": "pangbian",
+      "english": "lateral/side/to the side/beside",
+      "definitions": [
+        "lateral",
+        "side",
+        "to the side",
+        "beside"
+      ]
+    },
+    {
+      "id": 160719,
+      "simplified": "旅游",
+      "traditional": "旅遊",
+      "pinyin": "lǚ yóu",
+      "spokenPinyin": "luyou",
+      "english": "trip/journey/tourism/travel/tour/to travel",
+      "definitions": [
+        "trip",
+        "journey",
+        "tourism",
+        "travel",
+        "tour",
+        "to travel"
+      ]
+    },
+    {
+      "id": 160846,
+      "simplified": "日",
+      "traditional": "日",
+      "pinyin": "Rì",
+      "spokenPinyin": "ri",
+      "english": "PN:abbr. for 日本[Ri4 ben3], Japan/sun/day/date, day of the month",
+      "definitions": [
+        "sun",
+        "day",
+        "date, day of the month"
+      ]
+    },
+    {
+      "id": 161014,
+      "simplified": "早",
+      "traditional": "早",
+      "pinyin": "zǎo",
+      "spokenPinyin": "zao",
+      "english": "early/morning/Good morning!/long ago/prematurely",
+      "definitions": [
+        "early",
+        "morning",
+        "Good morning!",
+        "long ago",
+        "prematurely"
+      ]
+    },
+    {
+      "id": 161015,
+      "simplified": "早上",
+      "traditional": "早上",
+      "pinyin": "zǎo shang",
+      "spokenPinyin": "zaoshang",
+      "english": "early morning/CL:個|个[ge4]",
+      "definitions": [
+        "early morning"
+      ]
+    },
+    {
+      "id": 161072,
+      "simplified": "早饭",
+      "traditional": "早飯",
+      "pinyin": "zǎo fàn",
+      "spokenPinyin": "zaofan",
+      "english": "breakfast/CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]",
+      "definitions": [
+        "breakfast"
+      ]
+    },
+    {
+      "id": 161232,
+      "simplified": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "spokenPinyin": "mingtian",
+      "english": "tomorrow",
+      "definitions": [
+        "tomorrow"
+      ]
+    },
+    {
+      "id": 161251,
+      "simplified": "明年",
+      "traditional": "明年",
+      "pinyin": "míng nián",
+      "spokenPinyin": "mingnian",
+      "english": "next year",
+      "definitions": [
+        "next year"
+      ]
+    },
+    {
+      "id": 161437,
+      "simplified": "星期",
+      "traditional": "星期",
+      "pinyin": "xīng qī",
+      "spokenPinyin": "xingqi",
+      "english": "week/CL:個|个[ge4]/day of the week/Sunday",
+      "definitions": [
+        "week",
+        "day of the week",
+        "Sunday"
+      ]
+    },
+    {
+      "id": 161444,
+      "simplified": "星期天",
+      "traditional": "星期天",
+      "pinyin": "Xīng qī tiān",
+      "spokenPinyin": "xingqitian",
+      "english": "PN:Sunday/PN:CL:個",
+      "definitions": []
+    },
+    {
+      "id": 161446,
+      "simplified": "星期日",
+      "traditional": "星期日",
+      "pinyin": "Xīng qī rì",
+      "spokenPinyin": "xingqiri",
+      "english": "PN:Sunday/PN:CL:個",
+      "definitions": []
+    },
+    {
+      "id": 161586,
+      "simplified": "昨天",
+      "traditional": "昨天",
+      "pinyin": "zuó tiān",
+      "spokenPinyin": "zuotian",
+      "english": "yesterday",
+      "definitions": [
+        "yesterday"
+      ]
+    },
+    {
+      "id": 161607,
+      "simplified": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "spokenPinyin": "shi",
+      "english": "is/are/am/yes/to be",
+      "definitions": [
+        "is",
+        "are",
+        "am",
+        "yes",
+        "to be"
+      ]
+    },
+    {
+      "id": 161634,
+      "simplified": "时",
+      "traditional": "時",
+      "pinyin": "Shí",
+      "spokenPinyin": "shi",
+      "english": "surname Shi/o'clock/time/when/hour/season/period",
+      "definitions": [
+        "surname Shi",
+        "o'clock",
+        "time",
+        "when",
+        "hour",
+        "season",
+        "period"
+      ]
+    },
+    {
+      "id": 161651,
+      "simplified": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "spokenPinyin": "shihou",
+      "english": "time/length of time/moment/period",
+      "definitions": [
+        "time",
+        "length of time",
+        "moment",
+        "period"
+      ]
+    },
+    {
+      "id": 161721,
+      "simplified": "时间",
+      "traditional": "時間",
+      "pinyin": "shí jiān",
+      "spokenPinyin": "shijian",
+      "english": "time/period/CL:段[duan4]",
+      "definitions": [
+        "time",
+        "period"
+      ]
+    },
+    {
+      "id": 161785,
+      "simplified": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn",
+      "spokenPinyin": "wan",
+      "english": "evening/night/late",
+      "definitions": [
+        "evening",
+        "night",
+        "late"
+      ]
+    },
+    {
+      "id": 161786,
+      "simplified": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "spokenPinyin": "wanshang",
+      "english": "evening/night/CL:個|个[ge4]/in the evening",
+      "definitions": [
+        "evening",
+        "night",
+        "in the evening"
+      ]
+    },
+    {
+      "id": 161811,
+      "simplified": "晚饭",
+      "traditional": "晚飯",
+      "pinyin": "wǎn fàn",
+      "spokenPinyin": "wanfan",
+      "english": "evening meal/dinner/supper/CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]",
+      "definitions": [
+        "evening meal",
+        "dinner",
+        "supper"
+      ]
+    },
+    {
+      "id": 162021,
+      "simplified": "晴",
+      "traditional": "晴",
+      "pinyin": "qíng",
+      "spokenPinyin": "qing",
+      "english": "clear/fine (weather)",
+      "definitions": [
+        "clear",
+        "fine (weather)"
+      ]
+    },
+    {
+      "id": 162519,
+      "simplified": "书",
+      "traditional": "書",
+      "pinyin": "Shū",
+      "spokenPinyin": "shu",
+      "english": "PN:abbr. for 書經/book/letter/document/CL:本[ben3],冊|册[ce4],部[bu4]/to write",
+      "definitions": [
+        "book",
+        "letter",
+        "document",
+        "to write"
+      ]
+    },
+    {
+      "id": 162529,
+      "simplified": "书包",
+      "traditional": "書包",
+      "pinyin": "shū bāo",
+      "spokenPinyin": "shubao",
+      "english": "schoolbag/satchel/CL:個|个[ge4],隻|只[zhi1]",
+      "definitions": [
+        "schoolbag",
+        "satchel"
+      ]
+    },
+    {
+      "id": 162543,
+      "simplified": "书店",
+      "traditional": "書店",
+      "pinyin": "shū diàn",
+      "spokenPinyin": "shudian",
+      "english": "bookstore/CL:家[jia1]",
+      "definitions": [
+        "bookstore"
+      ]
+    },
+    {
+      "id": 162688,
+      "simplified": "最",
+      "traditional": "最",
+      "pinyin": "zuì",
+      "spokenPinyin": "zui",
+      "english": "most/the most/-est (superlative suffix)",
+      "definitions": [
+        "most",
+        "the most",
+        "-est (superlative suffix)"
+      ]
+    },
+    {
+      "id": 162743,
+      "simplified": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "spokenPinyin": "hui",
+      "english": "can/to be possible/to be able to/will/to be likely to/to be sure to/to assemble/to meet/to gather/to see/union/group/association/CL:個|个[ge4]/a moment (Taiwan pr. for this sense is [hui3])",
+      "definitions": [
+        "can",
+        "to be possible",
+        "to be able to",
+        "will",
+        "to be likely to",
+        "to be sure to",
+        "to assemble",
+        "to meet",
+        "to gather",
+        "to see",
+        "union",
+        "group",
+        "association",
+        "a moment (Taiwan pr. for this sense is [hui3])"
+      ]
+    },
+    {
+      "id": 162826,
+      "simplified": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "spokenPinyin": "yue",
+      "english": "moon/month/monthly/CL:個|个[ge4],輪|轮[lun2]",
+      "definitions": [
+        "moon",
+        "month",
+        "monthly"
+      ]
+    },
+    {
+      "id": 162918,
+      "simplified": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "spokenPinyin": "you",
+      "english": "to have/there is/there are/to exist/to be",
+      "definitions": [
+        "to have",
+        "there is",
+        "there are",
+        "to exist",
+        "to be"
+      ]
+    },
+    {
+      "id": 162933,
+      "simplified": "有些",
+      "traditional": "有些",
+      "pinyin": "yǒu xiē",
+      "spokenPinyin": "youxie",
+      "english": "some/somewhat",
+      "definitions": [
+        "some",
+        "somewhat"
+      ]
+    },
+    {
+      "id": 163033,
+      "simplified": "有意思",
+      "traditional": "有意思",
+      "pinyin": "yǒu yì si",
+      "spokenPinyin": "youyisi",
+      "english": "interesting/meaningful/enjoyable/fun",
+      "definitions": [
+        "interesting",
+        "meaningful",
+        "enjoyable",
+        "fun"
+      ]
+    },
+    {
+      "id": 163058,
+      "simplified": "有时",
+      "traditional": "有時",
+      "pinyin": "yǒu shí",
+      "spokenPinyin": "youshi",
+      "english": "sometimes/now and then",
+      "definitions": [
+        "sometimes",
+        "now and then"
+      ]
+    },
+    {
+      "id": 163124,
+      "simplified": "有的",
+      "traditional": "有的",
+      "pinyin": "yǒu de",
+      "spokenPinyin": "youde",
+      "english": "(there are) some (who are...)/some (exist)",
+      "definitions": [
+        "(there are) some (who are...)",
+        "some (exist)"
+      ]
+    },
+    {
+      "id": 163236,
+      "simplified": "有点儿",
+      "traditional": "有點兒",
+      "pinyin": "yǒu diǎn r",
+      "spokenPinyin": "youdianr",
+      "english": "slightly/a little/somewhat",
+      "definitions": [
+        "slightly",
+        "a little",
+        "somewhat"
+      ]
+    },
+    {
+      "id": 163241,
+      "simplified": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "spokenPinyin": "pengyou",
+      "english": "friend/CL:個|个[ge4],位[wei4]",
+      "definitions": [
+        "friend"
+      ]
+    },
+    {
+      "id": 163708,
+      "simplified": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "spokenPinyin": "ben",
+      "english": "root/stem/origin/source/this/the current/original/inherent/originally/classifier for books, periodicals, files etc",
+      "definitions": [
+        "root",
+        "stem",
+        "origin",
+        "source",
+        "this",
+        "the current",
+        "original",
+        "inherent",
+        "originally",
+        "classifier for books, periodicals, files etc"
+      ]
+    },
+    {
+      "id": 163746,
+      "simplified": "本子",
+      "traditional": "本子",
+      "pinyin": "běn zi",
+      "spokenPinyin": "benzi",
+      "english": "book/notebook/edition/CL:本[ben3]",
+      "definitions": [
+        "book",
+        "notebook",
+        "edition"
+      ]
+    },
+    {
+      "id": 164208,
+      "simplified": "杯子",
+      "traditional": "杯子",
+      "pinyin": "bēi zi",
+      "spokenPinyin": "beizi",
+      "english": "cup/glass/CL:個|个[ge4],隻|只[zhi1]",
+      "definitions": [
+        "cup",
+        "glass"
+      ]
+    },
+    {
+      "id": 164416,
+      "simplified": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "spokenPinyin": "dongxi",
+      "english": "thing/stuff/person/CL:個|个[ge4],件[jian4]",
+      "definitions": [
+        "thing",
+        "stuff",
+        "person"
+      ]
+    },
+    {
+      "id": 165626,
+      "simplified": "桌子",
+      "traditional": "桌子",
+      "pinyin": "zhuō zi",
+      "spokenPinyin": "zhuozi",
+      "english": "table/desk/CL:張|张[zhang1],套[tao4]",
+      "definitions": [
+        "table",
+        "desk"
+      ]
+    },
+    {
+      "id": 165820,
+      "simplified": "条",
+      "traditional": "條",
+      "pinyin": "tiáo",
+      "spokenPinyin": "tiao",
+      "english": "strip/item/article/clause (of law or treaty)/classifier for long thin things (ribbon, river, road, trousers etc)",
+      "definitions": [
+        "strip",
+        "item",
+        "article",
+        "clause (of law or treaty)",
+        "classifier for long thin things (ribbon, river, road, trousers etc)"
+      ]
+    },
+    {
+      "id": 166209,
+      "simplified": "椅子",
+      "traditional": "椅子",
+      "pinyin": "yǐ zi",
+      "spokenPinyin": "yizi",
+      "english": "chair/CL:把[ba3],套[tao4]",
+      "definitions": [
+        "chair"
+      ]
+    },
+    {
+      "id": 166872,
+      "simplified": "楼",
+      "traditional": "樓",
+      "pinyin": "Lóu",
+      "spokenPinyin": "lou",
+      "english": "surname Lou/house with more than 1 story/storied building/floor/CL:層|层[ceng2],座[zuo4],棟|栋[dong4]",
+      "definitions": [
+        "surname Lou",
+        "house with more than 1 story",
+        "storied building",
+        "floor"
+      ]
+    },
+    {
+      "id": 167224,
+      "simplified": "机场",
+      "traditional": "機場",
+      "pinyin": "jī chǎng",
+      "spokenPinyin": "jichang",
+      "english": "airport/airfield/CL:家[jia1],處|处[chu4]",
+      "definitions": [
+        "airport",
+        "airfield"
+      ]
+    },
+    {
+      "id": 167264,
+      "simplified": "机票",
+      "traditional": "機票",
+      "pinyin": "jī piào",
+      "spokenPinyin": "jipiao",
+      "english": "air ticket/passenger ticket/CL:張|张[zhang1]",
+      "definitions": [
+        "air ticket",
+        "passenger ticket"
+      ]
+    },
+    {
+      "id": 167687,
+      "simplified": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "spokenPinyin": "ci",
+      "english": "next in sequence/second/the second (day, time etc)/secondary/vice-/sub-/infra-/inferior quality/substandard/order/sequence/hypo- (chemistry)/classifier for enumerated events: time",
+      "definitions": [
+        "next in sequence",
+        "second",
+        "the second (day, time etc)",
+        "secondary",
+        "vice-",
+        "sub-",
+        "infra-",
+        "inferior quality",
+        "substandard",
+        "order",
+        "sequence",
+        "hypo- (chemistry)",
+        "classifier for enumerated events: time"
+      ]
+    },
+    {
+      "id": 167845,
+      "simplified": "歌",
+      "traditional": "歌",
+      "pinyin": "gē",
+      "spokenPinyin": "ge",
+      "english": "song/CL:支[zhi1],首[shou3]/to sing",
+      "definitions": [
+        "song",
+        "to sing"
+      ]
+    },
+    {
+      "id": 168034,
+      "simplified": "正",
+      "traditional": "正",
+      "pinyin": "zhèng",
+      "spokenPinyin": "zheng",
+      "english": "straight/upright/proper/main/principal/to correct/to rectify/exactly/just (at that time)/right (in that place)/(math.) positive",
+      "definitions": [
+        "straight",
+        "upright",
+        "proper",
+        "main",
+        "principal",
+        "to correct",
+        "to rectify",
+        "exactly",
+        "just (at that time)",
+        "right (in that place)",
+        "(math.) positive"
+      ]
+    },
+    {
+      "id": 168066,
+      "simplified": "正在",
+      "traditional": "正在",
+      "pinyin": "zhèng zài",
+      "spokenPinyin": "zhengzai",
+      "english": "just at (that time)/right in (that place)/right in the middle of (doing sth)",
+      "definitions": [
+        "just at (that time)",
+        "right in (that place)",
+        "right in the middle of (doing sth)"
+      ]
+    },
+    {
+      "id": 168434,
+      "simplified": "岁",
+      "traditional": "歲",
+      "pinyin": "suì",
+      "spokenPinyin": "sui",
+      "english": "classifier for years (of age)/year/year (of crop harvests)",
+      "definitions": [
+        "classifier for years (of age)",
+        "year",
+        "year (of crop harvests)"
+      ]
+    },
+    {
+      "id": 168987,
+      "simplified": "每",
+      "traditional": "每",
+      "pinyin": "měi",
+      "spokenPinyin": "mei",
+      "english": "each/every",
+      "definitions": [
+        "each",
+        "every"
+      ]
+    },
+    {
+      "id": 169065,
+      "simplified": "比",
+      "traditional": "比",
+      "pinyin": "Bǐ",
+      "spokenPinyin": "bi",
+      "english": "PN:Belgium/PN:Belgian/PN:abbr. for 比利時/(particle used for comparison and \"-er than\")/to compare/to contrast/to gesture (with hands)/ratio",
+      "definitions": [
+        "(particle used for comparison and \"-er than\")",
+        "to compare",
+        "to contrast",
+        "to gesture (with hands)",
+        "ratio"
+      ]
+    },
+    {
+      "id": 169728,
+      "simplified": "水",
+      "traditional": "水",
+      "pinyin": "Shuǐ",
+      "spokenPinyin": "shui",
+      "english": "surname Shui/water/river/liquid/beverage/additional charges or income/(of clothes) classifier for number of washes",
+      "definitions": [
+        "surname Shui",
+        "water",
+        "river",
+        "liquid",
+        "beverage",
+        "additional charges or income",
+        "(of clothes) classifier for number of washes"
+      ]
+    },
+    {
+      "id": 169822,
+      "simplified": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐ guǒ",
+      "spokenPinyin": "shuiguo",
+      "english": "fruit/CL:個|个[ge4]",
+      "definitions": [
+        "fruit"
+      ]
+    },
+    {
+      "id": 170611,
+      "simplified": "没事",
+      "traditional": "沒事",
+      "pinyin": "méi shì",
+      "spokenPinyin": "meishi",
+      "english": "it's not important/it's nothing/never mind/to have nothing to do/to be free/to be all right (out of danger or trouble)",
+      "definitions": [
+        "it's not important",
+        "it's nothing",
+        "never mind",
+        "to have nothing to do",
+        "to be free",
+        "to be all right (out of danger or trouble)"
+      ]
+    },
+    {
+      "id": 170637,
+      "simplified": "没意思",
+      "traditional": "沒意思",
+      "pinyin": "méi yì si",
+      "spokenPinyin": "meiyisi",
+      "english": "boring/of no interest",
+      "definitions": [
+        "boring",
+        "of no interest"
+      ]
+    },
+    {
+      "id": 170642,
+      "simplified": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "spokenPinyin": "meiyou",
+      "english": "haven't/hasn't/doesn't exist/to not have/to not be",
+      "definitions": [
+        "haven't",
+        "hasn't",
+        "doesn't exist",
+        "to not have",
+        "to not be"
+      ]
+    },
+    {
+      "id": 170690,
+      "simplified": "没关系",
+      "traditional": "沒關係",
+      "pinyin": "méi guān xi",
+      "spokenPinyin": "meiguanxi",
+      "english": "it doesn't matter",
+      "definitions": [
+        "it doesn't matter"
+      ]
+    },
+    {
+      "id": 171774,
+      "simplified": "洗",
+      "traditional": "洗",
+      "pinyin": "xǐ",
+      "spokenPinyin": "xi",
+      "english": "to wash/to bathe/to develop (photo)",
+      "definitions": [
+        "to wash",
+        "to bathe",
+        "to develop (photo)"
+      ]
+    },
+    {
+      "id": 171790,
+      "simplified": "洗手间",
+      "traditional": "洗手間",
+      "pinyin": "xǐ shǒu jiān",
+      "spokenPinyin": "xishoujian",
+      "english": "toilet/lavatory/washroom",
+      "definitions": [
+        "toilet",
+        "lavatory",
+        "washroom"
+      ]
+    },
+    {
+      "id": 173925,
+      "simplified": "游泳",
+      "traditional": "游泳",
+      "pinyin": "yóu yǒng",
+      "spokenPinyin": "youyong",
+      "english": "swimming/to swim",
+      "definitions": [
+        "swimming",
+        "to swim"
+      ]
+    },
+    {
+      "id": 174182,
+      "simplified": "准备",
+      "traditional": "準備",
+      "pinyin": "zhǔn bèi",
+      "spokenPinyin": "zhunbei",
+      "english": "preparation/to prepare/to intend/to be about to/reserve (fund)",
+      "definitions": [
+        "preparation",
+        "to prepare",
+        "to intend",
+        "to be about to",
+        "reserve (fund)"
+      ]
+    },
+    {
+      "id": 174793,
+      "simplified": "漂亮",
+      "traditional": "漂亮",
+      "pinyin": "piào liang",
+      "spokenPinyin": "piaoliang",
+      "english": "pretty/beautiful",
+      "definitions": [
+        "pretty",
+        "beautiful"
+      ]
+    },
+    {
+      "id": 174933,
+      "simplified": "汉字",
+      "traditional": "漢字",
+      "pinyin": "hàn zì",
+      "spokenPinyin": "hanzi",
+      "english": "Chinese character/CL:個|个[ge4]/Japanese: kanji/Korean: hanja/Vietnamese: hán tự",
+      "definitions": [
+        "Chinese character",
+        "Japanese: kanji",
+        "Korean: hanja",
+        "Vietnamese: hán tự"
+      ]
+    },
+    {
+      "id": 174978,
+      "simplified": "汉语",
+      "traditional": "漢語",
+      "pinyin": "Hàn yǔ",
+      "spokenPinyin": "hanyu",
+      "english": "PN:Chinese language/PN:CL:門",
+      "definitions": []
+    },
+    {
+      "id": 175948,
+      "simplified": "火车",
+      "traditional": "火車",
+      "pinyin": "huǒ chē",
+      "spokenPinyin": "huoche",
+      "english": "train/CL:列[lie4],節|节[jie2],班[ban1],趟[tang4]",
+      "definitions": [
+        "train"
+      ]
+    },
+    {
+      "id": 176244,
+      "simplified": "为什么",
+      "traditional": "為什麼",
+      "pinyin": "wèi shén me",
+      "spokenPinyin": "weishenme",
+      "english": "why?/for what reason?",
+      "definitions": [
+        "why?",
+        "for what reason?"
+      ]
+    },
+    {
+      "id": 177404,
+      "simplified": "热",
+      "traditional": "熱",
+      "pinyin": "rè",
+      "spokenPinyin": "re",
+      "english": "to warm up/to heat up/hot (of weather)/heat/fervent",
+      "definitions": [
+        "to warm up",
+        "to heat up",
+        "hot (of weather)",
+        "heat",
+        "fervent"
+      ]
+    },
+    {
+      "id": 177978,
+      "simplified": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "spokenPinyin": "baba",
+      "english": "(informal) father/CL:個|个[ge4],位[wei4]",
+      "definitions": [
+        "(informal) father"
+      ]
+    },
+    {
+      "id": 177986,
+      "simplified": "爷爷",
+      "traditional": "爺爺",
+      "pinyin": "yé ye",
+      "spokenPinyin": "yeye",
+      "english": "(coll.) father's father/paternal grandfather/CL:個|个[ge4]",
+      "definitions": [
+        "(coll.) father's father",
+        "paternal grandfather"
+      ]
+    },
+    {
+      "id": 178145,
+      "simplified": "牛奶",
+      "traditional": "牛奶",
+      "pinyin": "niú nǎi",
+      "spokenPinyin": "niunai",
+      "english": "cow's milk/CL:瓶[ping2],杯[bei1]",
+      "definitions": [
+        "cow's milk"
+      ]
+    },
+    {
+      "id": 178733,
+      "simplified": "狗",
+      "traditional": "狗",
+      "pinyin": "gǒu",
+      "spokenPinyin": "gou",
+      "english": "dog/CL:隻|只[zhi1],條|条[tiao2]",
+      "definitions": [
+        "dog"
+      ]
+    },
+    {
+      "id": 179527,
+      "simplified": "玩",
+      "traditional": "玩",
+      "pinyin": "wán",
+      "spokenPinyin": "wan",
+      "english": "to play/to have fun/to trifle with/toy/sth used for amusement/curio or antique (Taiwan pr. [wan4])/to keep sth for entertainment",
+      "definitions": [
+        "to play",
+        "to have fun",
+        "to trifle with",
+        "toy",
+        "sth used for amusement",
+        "curio or antique (Taiwan pr. [wan4])",
+        "to keep sth for entertainment"
+      ]
+    },
+    {
+      "id": 179703,
+      "simplified": "班",
+      "traditional": "班",
+      "pinyin": "Bān",
+      "spokenPinyin": "ban",
+      "english": "surname Ban/team/class/squad/work shift/ranking/CL:個|个[ge4]/classifier for groups",
+      "definitions": [
+        "surname Ban",
+        "team",
+        "class",
+        "squad",
+        "work shift",
+        "ranking",
+        "classifier for groups"
+      ]
+    },
+    {
+      "id": 179785,
+      "simplified": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "spokenPinyin": "xianzai",
+      "english": "now/at present/at the moment/modern/current/nowadays",
+      "definitions": [
+        "now",
+        "at present",
+        "at the moment",
+        "modern",
+        "current",
+        "nowadays"
+      ]
+    },
+    {
+      "id": 179837,
+      "simplified": "球",
+      "traditional": "球",
+      "pinyin": "qiú",
+      "spokenPinyin": "qiu",
+      "english": "ball/sphere/globe/CL:個|个[ge4]/ball game/match/CL:場|场[chang3]",
+      "definitions": [
+        "ball",
+        "sphere",
+        "globe",
+        "ball game",
+        "match"
+      ]
+    },
+    {
+      "id": 180673,
+      "simplified": "生日",
+      "traditional": "生日",
+      "pinyin": "shēng rì",
+      "spokenPinyin": "shengri",
+      "english": "birthday/CL:個|个[ge4]",
+      "definitions": [
+        "birthday"
+      ]
+    },
+    {
+      "id": 180808,
+      "simplified": "生病",
+      "traditional": "生病",
+      "pinyin": "shēng bìng",
+      "spokenPinyin": "shengbing",
+      "english": "to fall ill",
+      "definitions": [
+        "to fall ill"
+      ]
+    },
+    {
+      "id": 181177,
+      "simplified": "男",
+      "traditional": "男",
+      "pinyin": "nán",
+      "spokenPinyin": "nan",
+      "english": "male/Baron, lowest of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]/CL:個|个[ge4]",
+      "definitions": [
+        "male",
+        "Baron, lowest of five orders of nobility 五等爵位[wu3 deng3 jue2 wei4]"
+      ]
+    },
+    {
+      "id": 181214,
+      "simplified": "男孩儿",
+      "traditional": "男孩兒",
+      "pinyin": "nán hái r",
+      "spokenPinyin": "nanhair",
+      "english": "boy/CL:個|个[ge4]/erhua variant of 男孩",
+      "definitions": [
+        "boy",
+        "erhua variant of 男孩"
+      ]
+    },
+    {
+      "id": 181236,
+      "simplified": "男朋友",
+      "traditional": "男朋友",
+      "pinyin": "nán péng you",
+      "spokenPinyin": "nanpengyou",
+      "english": "boyfriend",
+      "definitions": [
+        "boyfriend"
+      ]
+    },
+    {
+      "id": 181866,
+      "simplified": "疼",
+      "traditional": "疼",
+      "pinyin": "téng",
+      "spokenPinyin": "teng",
+      "english": "(it) hurts/sore/to love dearly",
+      "definitions": [
+        "(it) hurts",
+        "sore",
+        "to love dearly"
+      ]
+    },
+    {
+      "id": 181895,
+      "simplified": "病",
+      "traditional": "病",
+      "pinyin": "bìng",
+      "spokenPinyin": "bing",
+      "english": "illness/CL:場|场[chang2]/disease/to fall ill/defect",
+      "definitions": [
+        "illness",
+        "disease",
+        "to fall ill",
+        "defect"
+      ]
+    },
+    {
+      "id": 182603,
+      "simplified": "白天",
+      "traditional": "白天",
+      "pinyin": "bái tiān",
+      "spokenPinyin": "baitian",
+      "english": "daytime/during the day/day/CL:個|个[ge4]",
+      "definitions": [
+        "daytime",
+        "during the day",
+        "day"
+      ]
+    },
+    {
+      "id": 182822,
+      "simplified": "白色",
+      "traditional": "白色",
+      "pinyin": "bái sè",
+      "spokenPinyin": "baise",
+      "english": "white/fig. reactionary/anti-communist",
+      "definitions": [
+        "white",
+        "fig. reactionary",
+        "anti-communist"
+      ]
+    },
+    {
+      "id": 182980,
+      "simplified": "百",
+      "traditional": "百",
+      "pinyin": "Bǎi",
+      "spokenPinyin": "bai",
+      "english": "surname Bai/hundred/numerous/all kinds of",
+      "definitions": [
+        "surname Bai",
+        "hundred",
+        "numerous",
+        "all kinds of"
+      ]
+    },
+    {
+      "id": 183146,
+      "simplified": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "spokenPinyin": "de",
+      "english": "of/~'s (possessive particle)/(used after an attribute)/(used to form a nominal expression)/(used at the end of a declarative sentence for emphasis)",
+      "definitions": [
+        "of",
+        "~'s (possessive particle)",
+        "(used after an attribute)",
+        "(used to form a nominal expression)",
+        "(used at the end of a declarative sentence for emphasis)"
+      ]
+    },
+    {
+      "id": 184129,
+      "simplified": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "spokenPinyin": "kan",
+      "english": "to see/to look at/to read/to watch/to visit/to call on/to consider/to regard as/to look after/to treat (an illness)/to depend on/to feel (that)/(after verb) to give it a try/Watch out! (for a danger)",
+      "definitions": [
+        "to see",
+        "to look at",
+        "to read",
+        "to watch",
+        "to visit",
+        "to call on",
+        "to consider",
+        "to regard as",
+        "to look after",
+        "to treat (an illness)",
+        "to depend on",
+        "to feel (that)",
+        "(after verb) to give it a try",
+        "Watch out! (for a danger)"
+      ]
+    },
+    {
+      "id": 184188,
+      "simplified": "看病",
+      "traditional": "看病",
+      "pinyin": "kàn bìng",
+      "spokenPinyin": "kanbing",
+      "english": "to visit a doctor/to see a patient",
+      "definitions": [
+        "to visit a doctor",
+        "to see a patient"
+      ]
+    },
+    {
+      "id": 184200,
+      "simplified": "看见",
+      "traditional": "看見",
+      "pinyin": "kàn jiàn",
+      "spokenPinyin": "kanjian",
+      "english": "to see/to catch sight of",
+      "definitions": [
+        "to see",
+        "to catch sight of"
+      ]
+    },
+    {
+      "id": 184220,
+      "simplified": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "spokenPinyin": "zhen",
+      "english": "really/truly/indeed/real/true/genuine",
+      "definitions": [
+        "really",
+        "truly",
+        "indeed",
+        "real",
+        "true",
+        "genuine"
+      ]
+    },
+    {
+      "id": 184421,
+      "simplified": "眼睛",
+      "traditional": "眼睛",
+      "pinyin": "yǎn jing",
+      "spokenPinyin": "yanjing",
+      "english": "eye/CL:隻|只[zhi1],雙|双[shuang1]",
+      "definitions": [
+        "eye"
+      ]
+    },
+    {
+      "id": 184539,
+      "simplified": "睡",
+      "traditional": "睡",
+      "pinyin": "shuì",
+      "spokenPinyin": "shui",
+      "english": "to sleep/to lie down",
+      "definitions": [
+        "to sleep",
+        "to lie down"
+      ]
+    },
+    {
+      "id": 184563,
+      "simplified": "睡觉",
+      "traditional": "睡覺",
+      "pinyin": "shuì jiào",
+      "spokenPinyin": "shuijiao",
+      "english": "to go to bed/to sleep",
+      "definitions": [
+        "to go to bed",
+        "to sleep"
+      ]
+    },
+    {
+      "id": 184840,
+      "simplified": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "spokenPinyin": "zhidao",
+      "english": "to know/to become aware of/also pr. [zhi1 dao5]",
+      "definitions": [
+        "to know",
+        "to become aware of",
+        "also pr. [zhi1 dao5]"
+      ]
+    },
+    {
+      "id": 186382,
+      "simplified": "票",
+      "traditional": "票",
+      "pinyin": "piào",
+      "spokenPinyin": "piao",
+      "english": "ticket/ballot/banknote/CL:張|张[zhang1]/person held for ransom/amateur performance of Chinese opera/classifier for groups, batches, business transactions",
+      "definitions": [
+        "ticket",
+        "ballot",
+        "banknote",
+        "person held for ransom",
+        "amateur performance of Chinese opera",
+        "classifier for groups, batches, business transactions"
+      ]
+    },
+    {
+      "id": 187702,
+      "simplified": "穿",
+      "traditional": "穿",
+      "pinyin": "chuān",
+      "spokenPinyin": "chuan",
+      "english": "to wear/to put on/to dress/to bore through/to pierce/to perforate/to penetrate/to pass through/to thread",
+      "definitions": [
+        "to wear",
+        "to put on",
+        "to dress",
+        "to bore through",
+        "to pierce",
+        "to perforate",
+        "to penetrate",
+        "to pass through",
+        "to thread"
+      ]
+    },
+    {
+      "id": 188013,
+      "simplified": "站",
+      "traditional": "站",
+      "pinyin": "zhàn",
+      "spokenPinyin": "zhan",
+      "english": "station/to stand/to halt/to stop/branch of a company or organization/website",
+      "definitions": [
+        "station",
+        "to stand",
+        "to halt",
+        "to stop",
+        "branch of a company or organization",
+        "website"
+      ]
+    },
+    {
+      "id": 188252,
+      "simplified": "笑",
+      "traditional": "笑",
+      "pinyin": "xiào",
+      "spokenPinyin": "xiao",
+      "english": "laugh/smile/CL:個|个[ge4]",
+      "definitions": [
+        "laugh",
+        "smile"
+      ]
+    },
+    {
+      "id": 188352,
+      "simplified": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "spokenPinyin": "di",
+      "english": "(prefix indicating ordinal number, e.g. first, number two etc)/order/(old) rank in the imperial examinations/mansion/(literary) but/just",
+      "definitions": [
+        "(prefix indicating ordinal number, e.g. first, number two etc)",
+        "order",
+        "(old) rank in the imperial examinations",
+        "mansion",
+        "(literary) but",
+        "just"
+      ]
+    },
+    {
+      "id": 188431,
+      "simplified": "笔",
+      "traditional": "筆",
+      "pinyin": "bǐ",
+      "spokenPinyin": "bi",
+      "english": "pen/pencil/writing brush/to write or compose/the strokes of Chinese characters/classifier for sums of money, deals/CL:支[zhi1],枝[zhi1]",
+      "definitions": [
+        "pen",
+        "pencil",
+        "writing brush",
+        "to write or compose",
+        "the strokes of Chinese characters",
+        "classifier for sums of money, deals"
+      ]
+    },
+    {
+      "id": 188483,
+      "simplified": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "spokenPinyin": "deng",
+      "english": "to await for/to wait/class/rank/grade/equal to/same as/et cetera/and so on/et al. (and other authors)/after/as soon as/once",
+      "definitions": [
+        "to await for",
+        "to wait",
+        "class",
+        "rank",
+        "grade",
+        "equal to",
+        "same as",
+        "et cetera",
+        "and so on",
+        "et al. (and other authors)",
+        "after",
+        "as soon as",
+        "once"
+      ]
+    },
+    {
+      "id": 189081,
+      "simplified": "篮球",
+      "traditional": "籃球",
+      "pinyin": "lán qiú",
+      "spokenPinyin": "lanqiu",
+      "english": "basketball/CL:個|个[ge4],隻|只[zhi1]",
+      "definitions": [
+        "basketball"
+      ]
+    },
+    {
+      "id": 189201,
+      "simplified": "米饭",
+      "traditional": "米飯",
+      "pinyin": "mǐ fàn",
+      "spokenPinyin": "mifan",
+      "english": "(cooked) rice",
+      "definitions": [
+        "(cooked) rice"
+      ]
+    },
+    {
+      "id": 189940,
+      "simplified": "红色",
+      "traditional": "紅色",
+      "pinyin": "hóng sè",
+      "spokenPinyin": "hongse",
+      "english": "red (color)/revolutionary",
+      "definitions": [
+        "red (color)",
+        "revolutionary"
+      ]
+    },
+    {
+      "id": 189948,
+      "simplified": "红茶",
+      "traditional": "紅茶",
+      "pinyin": "hóng chá",
+      "spokenPinyin": "hongcha",
+      "english": "black tea/CL:杯[bei1],壺|壶[hu2]",
+      "definitions": [
+        "black tea"
+      ]
+    },
+    {
+      "id": 190427,
+      "simplified": "累",
+      "traditional": "累",
+      "pinyin": "lèi",
+      "spokenPinyin": "lei",
+      "english": "tired/weary/to strain/to wear out/to work hard",
+      "definitions": [
+        "tired",
+        "weary",
+        "to strain",
+        "to wear out",
+        "to work hard"
+      ]
+    },
+    {
+      "id": 190858,
+      "simplified": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "spokenPinyin": "gei",
+      "english": "to/for/for the benefit of/to give/to allow/to do sth (for sb)/(grammatical equivalent of 被)/(grammatical equivalent of 把)/(sentence intensifier)",
+      "definitions": [
+        "to",
+        "for",
+        "for the benefit of",
+        "to give",
+        "to allow",
+        "to do sth (for sb)",
+        "(grammatical equivalent of 被)",
+        "(grammatical equivalent of 把)",
+        "(sentence intensifier)"
+      ]
+    },
+    {
+      "id": 191057,
+      "simplified": "经常",
+      "traditional": "經常",
+      "pinyin": "jīng cháng",
+      "spokenPinyin": "jingchang",
+      "english": "frequently/constantly/regularly/often/day-to-day/everyday/daily",
+      "definitions": [
+        "frequently",
+        "constantly",
+        "regularly",
+        "often",
+        "day-to-day",
+        "everyday",
+        "daily"
+      ]
+    },
+    {
+      "id": 191227,
+      "simplified": "绿色",
+      "traditional": "綠色",
+      "pinyin": "lǜ sè",
+      "spokenPinyin": "luse",
+      "english": "green",
+      "definitions": [
+        "green"
+      ]
+    },
+    {
+      "id": 191235,
+      "simplified": "绿茶",
+      "traditional": "綠茶",
+      "pinyin": "lǜ chá",
+      "spokenPinyin": "lucha",
+      "english": "green tea",
+      "definitions": [
+        "green tea"
+      ]
+    },
+    {
+      "id": 191352,
+      "simplified": "网上",
+      "traditional": "網上",
+      "pinyin": "wǎng shàng",
+      "spokenPinyin": "wangshang",
+      "english": "online",
+      "definitions": [
+        "online"
+      ]
+    },
+    {
+      "id": 193461,
+      "simplified": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "spokenPinyin": "laoshi",
+      "english": "teacher/CL:個|个[ge4],位[wei4]",
+      "definitions": [
+        "teacher"
+      ]
+    },
+    {
+      "id": 193607,
+      "simplified": "考",
+      "traditional": "考",
+      "pinyin": "kǎo",
+      "spokenPinyin": "kao",
+      "english": "to check/to verify/to test/to examine/to take an exam/to take an entrance exam for/deceased father",
+      "definitions": [
+        "to check",
+        "to verify",
+        "to test",
+        "to examine",
+        "to take an exam",
+        "to take an entrance exam for",
+        "deceased father"
+      ]
+    },
+    {
+      "id": 193648,
+      "simplified": "考试",
+      "traditional": "考試",
+      "pinyin": "kǎo shì",
+      "spokenPinyin": "kaoshi",
+      "english": "to take an exam/exam/CL:次[ci4]",
+      "definitions": [
+        "to take an exam",
+        "exam"
+      ]
+    },
+    {
+      "id": 194385,
+      "simplified": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "spokenPinyin": "ting",
+      "english": "to listen/to hear/to obey/a can (loanword from English \"tin\")/classifier for canned beverages",
+      "definitions": [
+        "to listen",
+        "to hear",
+        "to obey",
+        "a can (loanword from English \"tin\")",
+        "classifier for canned beverages"
+      ]
+    },
+    {
+      "id": 194437,
+      "simplified": "听见",
+      "traditional": "聽見",
+      "pinyin": "tīng jiàn",
+      "spokenPinyin": "tingjian",
+      "english": "to hear",
+      "definitions": [
+        "to hear"
+      ]
+    },
+    {
+      "id": 194513,
+      "simplified": "肉",
+      "traditional": "肉",
+      "pinyin": "ròu",
+      "spokenPinyin": "rou",
+      "english": "meat/flesh/pulp (of a fruit)/(coll.) (of a fruit) squashy/(of a person) flabby/irresolute",
+      "definitions": [
+        "meat",
+        "flesh",
+        "pulp (of a fruit)",
+        "(coll.) (of a fruit) squashy",
+        "(of a person) flabby",
+        "irresolute"
+      ]
+    },
+    {
+      "id": 195126,
+      "simplified": "能",
+      "traditional": "能",
+      "pinyin": "Néng",
+      "spokenPinyin": "neng",
+      "english": "surname Neng/can/to be able to/might possibly/ability/(physics) energy",
+      "definitions": [
+        "surname Neng",
+        "can",
+        "to be able to",
+        "might possibly",
+        "ability",
+        "(physics) energy"
+      ]
+    },
+    {
+      "id": 196241,
+      "simplified": "自己",
+      "traditional": "自己",
+      "pinyin": "zì jǐ",
+      "spokenPinyin": "ziji",
+      "english": "oneself/one's own",
+      "definitions": [
+        "oneself",
+        "one's own"
+      ]
+    },
+    {
+      "id": 196944,
+      "simplified": "舒服",
+      "traditional": "舒服",
+      "pinyin": "shū fu",
+      "spokenPinyin": "shufu",
+      "english": "comfortable/feeling well",
+      "definitions": [
+        "comfortable",
+        "feeling well"
+      ]
+    },
+    {
+      "id": 197508,
+      "simplified": "花",
+      "traditional": "花",
+      "pinyin": "Huā",
+      "spokenPinyin": "hua",
+      "english": "surname Hua/flower/blossom/CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]/fancy pattern/florid/to spend (money, time)",
+      "definitions": [
+        "surname Hua",
+        "flower",
+        "blossom",
+        "fancy pattern",
+        "florid",
+        "to spend (money, time)"
+      ]
+    },
+    {
+      "id": 198162,
+      "simplified": "茶",
+      "traditional": "茶",
+      "pinyin": "chá",
+      "spokenPinyin": "cha",
+      "english": "tea/tea plant/CL:杯[bei1],壺|壶[hu2]",
+      "definitions": [
+        "tea",
+        "tea plant"
+      ]
+    },
+    {
+      "id": 198627,
+      "simplified": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "spokenPinyin": "cai",
+      "english": "dish (type of food)/vegetable/cuisine/CL:盤|盘[pan2],道[dao4]/(coll.) (one's) type/(of one's skills etc) weak/poor",
+      "definitions": [
+        "dish (type of food)",
+        "vegetable",
+        "cuisine",
+        "(coll.) (one's) type",
+        "(of one's skills etc) weak",
+        "poor"
+      ]
+    },
+    {
+      "id": 198917,
+      "simplified": "万",
+      "traditional": "萬",
+      "pinyin": "Wàn",
+      "spokenPinyin": "wan",
+      "english": "surname Wan/ten thousand/a great number",
+      "definitions": [
+        "surname Wan",
+        "ten thousand",
+        "a great number"
+      ]
+    },
+    {
+      "id": 199225,
+      "simplified": "着",
+      "traditional": "著",
+      "pinyin": "zhe",
+      "spokenPinyin": "zhe",
+      "english": "aspect particle indicating action in progress",
+      "definitions": [
+        "aspect particle indicating action in progress"
+      ]
+    },
+    {
+      "id": 200363,
+      "simplified": "药",
+      "traditional": "藥",
+      "pinyin": "yào",
+      "spokenPinyin": "yao",
+      "english": "medicine/drug/substance used for a specific purpose (e.g. poisoning, explosion, fermenting)/CL:種|种[zhong3],服[fu4],味[wei4]/to poison",
+      "definitions": [
+        "medicine",
+        "drug",
+        "substance used for a specific purpose (e.g. poisoning, explosion, fermenting)",
+        "to poison"
+      ]
+    },
+    {
+      "id": 200376,
+      "simplified": "药店",
+      "traditional": "藥店",
+      "pinyin": "yào diàn",
+      "spokenPinyin": "yaodian",
+      "english": "pharmacy",
+      "definitions": [
+        "pharmacy"
+      ]
+    },
+    {
+      "id": 200556,
+      "simplified": "苹果",
+      "traditional": "蘋果",
+      "pinyin": "píng guǒ",
+      "spokenPinyin": "pingguo",
+      "english": "apple/CL:個|个[ge4],顆|颗[ke1]",
+      "definitions": [
+        "apple"
+      ]
+    },
+    {
+      "id": 200849,
+      "simplified": "号",
+      "traditional": "號",
+      "pinyin": "hào",
+      "spokenPinyin": "hao",
+      "english": "ordinal number/day of a month/mark/sign/business establishment/size/ship suffix/horn (wind instrument)/bugle call/assumed name/to take a pulse/classifier used to indicate number of people",
+      "definitions": [
+        "ordinal number",
+        "day of a month",
+        "mark",
+        "sign",
+        "business establishment",
+        "size",
+        "ship suffix",
+        "horn (wind instrument)",
+        "bugle call",
+        "assumed name",
+        "to take a pulse",
+        "classifier used to indicate number of people"
+      ]
+    },
+    {
+      "id": 202128,
+      "simplified": "衣服",
+      "traditional": "衣服",
+      "pinyin": "yī fu",
+      "spokenPinyin": "yifu",
+      "english": "clothes/CL:件[jian4],套[tao4]",
+      "definitions": [
+        "clothes"
+      ]
+    },
+    {
+      "id": 202615,
+      "simplified": "里面",
+      "traditional": "裡面",
+      "pinyin": "lǐ miàn",
+      "spokenPinyin": "limian",
+      "english": "inside/interior/also pr. [li3 mian5]",
+      "definitions": [
+        "inside",
+        "interior",
+        "also pr. [li3 mian5]"
+      ]
+    },
+    {
+      "id": 202840,
+      "simplified": "裤子",
+      "traditional": "褲子",
+      "pinyin": "kù zi",
+      "spokenPinyin": "kuzi",
+      "english": "trousers/pants/CL:條|条[tiao2]",
+      "definitions": [
+        "trousers",
+        "pants"
+      ]
+    },
+    {
+      "id": 203202,
+      "simplified": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "spokenPinyin": "yao",
+      "english": "important/vital/to want/to ask for/will/going to (as future auxiliary)/may/must/(used in a comparison) must be/probably/if",
+      "definitions": [
+        "important",
+        "vital",
+        "to want",
+        "to ask for",
+        "will",
+        "going to (as future auxiliary)",
+        "may",
+        "must",
+        "(used in a comparison) must be",
+        "probably",
+        "if"
+      ]
+    },
+    {
+      "id": 203292,
+      "simplified": "见",
+      "traditional": "見",
+      "pinyin": "jiàn",
+      "spokenPinyin": "jian",
+      "english": "to see/to meet/to appear (to be sth)/to interview",
+      "definitions": [
+        "to see",
+        "to meet",
+        "to appear (to be sth)",
+        "to interview"
+      ]
+    },
+    {
+      "id": 203558,
+      "simplified": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "spokenPinyin": "juede",
+      "english": "to think/to feel",
+      "definitions": [
+        "to think",
+        "to feel"
+      ]
+    },
+    {
+      "id": 204082,
+      "simplified": "记得",
+      "traditional": "記得",
+      "pinyin": "jì de",
+      "spokenPinyin": "jide",
+      "english": "to remember",
+      "definitions": [
+        "to remember"
+      ]
+    },
+    {
+      "id": 204324,
+      "simplified": "词",
+      "traditional": "詞",
+      "pinyin": "cí",
+      "spokenPinyin": "ci",
+      "english": "word/statement/speech/lyrics/CL:組|组[zu3],個|个[ge4]/a form of lyric poetry, flourishing in the Song dynasty 宋朝|宋朝[Song4 chao2]/CL:首[shou3]",
+      "definitions": [
+        "word",
+        "statement",
+        "speech",
+        "lyrics",
+        "a form of lyric poetry, flourishing in the Song dynasty 宋朝|宋朝[Song4 chao2]"
+      ]
+    },
+    {
+      "id": 204646,
+      "simplified": "认识",
+      "traditional": "認識",
+      "pinyin": "rèn shi",
+      "spokenPinyin": "renshi",
+      "english": "to know/to recognize/to be familiar with/to get acquainted with sb/knowledge/understanding/awareness/cognition",
+      "definitions": [
+        "to know",
+        "to recognize",
+        "to be familiar with",
+        "to get acquainted with sb",
+        "knowledge",
+        "understanding",
+        "awareness",
+        "cognition"
+      ]
+    },
+    {
+      "id": 204838,
+      "simplified": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "spokenPinyin": "shuo",
+      "english": "to speak/to say/to explain/to scold/to tell off/a theory (typically the last character in a compound, as in 日心說|日心说 heliocentric theory)",
+      "definitions": [
+        "to speak",
+        "to say",
+        "to explain",
+        "to scold",
+        "to tell off",
+        "a theory (typically the last character in a compound, as in 日心說|日心说 heliocentric theory)"
+      ]
+    },
+    {
+      "id": 204897,
+      "simplified": "说话",
+      "traditional": "說話",
+      "pinyin": "shuō huà",
+      "spokenPinyin": "shuohua",
+      "english": "to speak/to say/to talk/to gossip/to tell stories/talk/word",
+      "definitions": [
+        "to speak",
+        "to say",
+        "to talk",
+        "to gossip",
+        "to tell stories",
+        "talk",
+        "word"
+      ]
+    },
+    {
+      "id": 204913,
+      "simplified": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "spokenPinyin": "shei",
+      "english": "who/also pr. [shui2]",
+      "definitions": [
+        "who",
+        "also pr. [shui2]"
+      ]
+    },
+    {
+      "id": 204920,
+      "simplified": "课",
+      "traditional": "課",
+      "pinyin": "kè",
+      "spokenPinyin": "ke",
+      "english": "subject/course/CL:門|门[men2]/class/lesson/CL:堂[tang2],節|节[jie2]/to levy/tax/form of divination",
+      "definitions": [
+        "subject",
+        "course",
+        "class",
+        "lesson",
+        "to levy",
+        "tax",
+        "form of divination"
+      ]
+    },
+    {
+      "id": 205102,
+      "simplified": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "spokenPinyin": "qing",
+      "english": "to ask/to invite/please (do sth)/to treat (to a meal etc)/to request",
+      "definitions": [
+        "to ask",
+        "to invite",
+        "please (do sth)",
+        "to treat (to a meal etc)",
+        "to request"
+      ]
+    },
+    {
+      "id": 205111,
+      "simplified": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "spokenPinyin": "qingwen",
+      "english": "Excuse me, may I ask...?",
+      "definitions": [
+        "Excuse me, may I ask...?"
+      ]
+    },
+    {
+      "id": 205434,
+      "simplified": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "spokenPinyin": "xiexie",
+      "english": "to thank/thanks/thank you",
+      "definitions": [
+        "to thank",
+        "thanks",
+        "thank you"
+      ]
+    },
+    {
+      "id": 205719,
+      "simplified": "读",
+      "traditional": "讀",
+      "pinyin": "dú",
+      "spokenPinyin": "du",
+      "english": "to read/to study/reading of word (i.e. pronunciation), similar to 拼音[pin1 yin1]",
+      "definitions": [
+        "to read",
+        "to study",
+        "reading of word (i.e. pronunciation), similar to 拼音[pin1 yin1]"
+      ]
+    },
+    {
+      "id": 205730,
+      "simplified": "读书",
+      "traditional": "讀書",
+      "pinyin": "dú shū",
+      "spokenPinyin": "dushu",
+      "english": "to read a book/to study/to attend school",
+      "definitions": [
+        "to read a book",
+        "to study",
+        "to attend school"
+      ]
+    },
+    {
+      "id": 205868,
+      "simplified": "让",
+      "traditional": "讓",
+      "pinyin": "ràng",
+      "spokenPinyin": "rang",
+      "english": "to yield/to permit/to let sb do sth/to have sb do sth/to make sb (feel sad etc)/by (indicates the agent in a passive clause, like 被[bei4])",
+      "definitions": [
+        "to yield",
+        "to permit",
+        "to let sb do sth",
+        "to have sb do sth",
+        "to make sb (feel sad etc)",
+        "by (indicates the agent in a passive clause, like 被[bei4])"
+      ]
+    },
+    {
+      "id": 206191,
+      "simplified": "猫",
+      "traditional": "貓",
+      "pinyin": "māo",
+      "spokenPinyin": "mao",
+      "english": "cat/CL:隻|只[zhi1]/(dialect) to hide oneself/(coll.) modem",
+      "definitions": [
+        "cat",
+        "(dialect) to hide oneself",
+        "(coll.) modem"
+      ]
+    },
+    {
+      "id": 206578,
+      "simplified": "贵",
+      "traditional": "貴",
+      "pinyin": "guì",
+      "spokenPinyin": "gui",
+      "english": "expensive/noble/precious/(honorific) your",
+      "definitions": [
+        "expensive",
+        "noble",
+        "precious",
+        "(honorific) your"
+      ]
+    },
+    {
+      "id": 206645,
+      "simplified": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "spokenPinyin": "mai",
+      "english": "to buy/to purchase",
+      "definitions": [
+        "to buy",
+        "to purchase"
+      ]
+    },
+    {
+      "id": 207013,
+      "simplified": "卖",
+      "traditional": "賣",
+      "pinyin": "mài",
+      "spokenPinyin": "mai",
+      "english": "to sell/to betray/to spare no effort/to show off or flaunt",
+      "definitions": [
+        "to sell",
+        "to betray",
+        "to spare no effort",
+        "to show off or flaunt"
+      ]
+    },
+    {
+      "id": 207430,
+      "simplified": "走",
+      "traditional": "走",
+      "pinyin": "zǒu",
+      "spokenPinyin": "zou",
+      "english": "to walk/to go/to run/to move (of vehicle)/to visit/to leave/to go away/to die (euph.)/from/through/away (in compound verbs, such as 撤走[che4 zou3])/to change (shape, form, meaning)",
+      "definitions": [
+        "to walk",
+        "to go",
+        "to run",
+        "to move (of vehicle)",
+        "to visit",
+        "to leave",
+        "to go away",
+        "to die (euph.)",
+        "from",
+        "through",
+        "away (in compound verbs, such as 撤走[che4 zou3])",
+        "to change (shape, form, meaning)"
+      ]
+    },
+    {
+      "id": 207513,
+      "simplified": "走路",
+      "traditional": "走路",
+      "pinyin": "zǒu lù",
+      "spokenPinyin": "zoulu",
+      "english": "to walk/to go on foot",
+      "definitions": [
+        "to walk",
+        "to go on foot"
+      ]
+    },
+    {
+      "id": 207557,
+      "simplified": "起来",
+      "traditional": "起來",
+      "pinyin": "qǐ lái",
+      "spokenPinyin": "qilai",
+      "english": "(after a verb) indicating the beginning and continuation of an action or a state/indicating an upward movement (e.g. after 站[zhan4])/bringing things together (e.g. after 收拾[shou1 shi5])/(after a perception verb, e.g. 看[kan4]) expressing preliminary judgment/also pr. [qi3 lai5]",
+      "definitions": [
+        "(after a verb) indicating the beginning and continuation of an action or a state",
+        "indicating an upward movement (e.g. after 站[zhan4])",
+        "bringing things together (e.g. after 收拾[shou1 shi5])",
+        "(after a perception verb, e.g. 看[kan4]) expressing preliminary judgment",
+        "also pr. [qi3 lai5]"
+      ]
+    },
+    {
+      "id": 207579,
+      "simplified": "起床",
+      "traditional": "起床",
+      "pinyin": "qǐ chuáng",
+      "spokenPinyin": "qichuang",
+      "english": "to get out of bed/to get up",
+      "definitions": [
+        "to get out of bed",
+        "to get up"
+      ]
+    },
+    {
+      "id": 207678,
+      "simplified": "超市",
+      "traditional": "超市",
+      "pinyin": "chāo shì",
+      "spokenPinyin": "chaoshi",
+      "english": "supermarket/abbr. for 超級市場|超级市场/CL:家[jia1]",
+      "definitions": [
+        "supermarket",
+        "abbr. for 超級市場|超级市场"
+      ]
+    },
+    {
+      "id": 207933,
+      "simplified": "足球",
+      "traditional": "足球",
+      "pinyin": "zú qiú",
+      "spokenPinyin": "zuqiu",
+      "english": "soccer ball/a football/CL:個|个[ge4]/soccer/football",
+      "definitions": [
+        "soccer ball",
+        "a football",
+        "soccer",
+        "football"
+      ]
+    },
+    {
+      "id": 208024,
+      "simplified": "跑",
+      "traditional": "跑",
+      "pinyin": "pǎo",
+      "spokenPinyin": "pao",
+      "english": "to run/to run away/to escape/to run around (on errands etc)/(of a gas or liquid) to leak or evaporate/(verb complement) away/off",
+      "definitions": [
+        "to run",
+        "to run away",
+        "to escape",
+        "to run around (on errands etc)",
+        "(of a gas or liquid) to leak or evaporate",
+        "(verb complement) away",
+        "off"
+      ]
+    },
+    {
+      "id": 208036,
+      "simplified": "跑步",
+      "traditional": "跑步",
+      "pinyin": "pǎo bù",
+      "spokenPinyin": "paobu",
+      "english": "to run/to jog/(military) to march at the double",
+      "definitions": [
+        "to run",
+        "to jog",
+        "(military) to march at the double"
+      ]
+    },
+    {
+      "id": 208078,
+      "simplified": "跟",
+      "traditional": "跟",
+      "pinyin": "gēn",
+      "spokenPinyin": "gen",
+      "english": "heel/to follow closely/to go with/(of a woman) to marry sb/with/compared with/to/towards/and (joining two nouns)",
+      "definitions": [
+        "heel",
+        "to follow closely",
+        "to go with",
+        "(of a woman) to marry sb",
+        "with",
+        "compared with",
+        "to",
+        "towards",
+        "and (joining two nouns)"
+      ]
+    },
+    {
+      "id": 208155,
+      "simplified": "路",
+      "traditional": "路",
+      "pinyin": "Lù",
+      "spokenPinyin": "lu",
+      "english": "surname Lu/road/CL:條|条[tiao2]/journey/route/line (bus etc)/sort/kind",
+      "definitions": [
+        "surname Lu",
+        "road",
+        "journey",
+        "route",
+        "line (bus etc)",
+        "sort",
+        "kind"
+      ]
+    },
+    {
+      "id": 208157,
+      "simplified": "路上",
+      "traditional": "路上",
+      "pinyin": "lù shang",
+      "spokenPinyin": "lushang",
+      "english": "on the road/on a journey/road surface",
+      "definitions": [
+        "on the road",
+        "on a journey",
+        "road surface"
+      ]
+    },
+    {
+      "id": 208259,
+      "simplified": "跳舞",
+      "traditional": "跳舞",
+      "pinyin": "tiào wǔ",
+      "spokenPinyin": "tiaowu",
+      "english": "to dance",
+      "definitions": [
+        "to dance"
+      ]
+    },
+    {
+      "id": 208333,
+      "simplified": "踢",
+      "traditional": "踢",
+      "pinyin": "tī",
+      "spokenPinyin": "ti",
+      "english": "to kick/to play (e.g. soccer)/(slang) butch (in a lesbian relationship)",
+      "definitions": [
+        "to kick",
+        "to play (e.g. soccer)",
+        "(slang) butch (in a lesbian relationship)"
+      ]
+    },
+    {
+      "id": 208606,
+      "simplified": "身体",
+      "traditional": "身體",
+      "pinyin": "shēn tǐ",
+      "spokenPinyin": "shenti",
+      "english": "the body/one's health/CL:具[ju4],個|个[ge4]/in person",
+      "definitions": [
+        "the body",
+        "one's health",
+        "in person"
+      ]
+    },
+    {
+      "id": 208650,
+      "simplified": "车",
+      "traditional": "車",
+      "pinyin": "Chē",
+      "spokenPinyin": "che",
+      "english": "surname Che/car/vehicle/CL:輛|辆[liang4]/machine/to shape with a lathe",
+      "definitions": [
+        "surname Che",
+        "car",
+        "vehicle",
+        "machine",
+        "to shape with a lathe"
+      ]
+    },
+    {
+      "id": 208692,
+      "simplified": "车站",
+      "traditional": "車站",
+      "pinyin": "chē zhàn",
+      "spokenPinyin": "chezhan",
+      "english": "rail station/bus stop/CL:處|处[chu4],個|个[ge4]",
+      "definitions": [
+        "rail station",
+        "bus stop"
+      ]
+    },
+    {
+      "id": 209804,
+      "simplified": "近",
+      "traditional": "近",
+      "pinyin": "jìn",
+      "spokenPinyin": "jin",
+      "english": "near/close to/approximately",
+      "definitions": [
+        "near",
+        "close to",
+        "approximately"
+      ]
+    },
+    {
+      "id": 210155,
+      "simplified": "送",
+      "traditional": "送",
+      "pinyin": "sòng",
+      "spokenPinyin": "song",
+      "english": "to deliver/to carry/to give (as a present)/to present (with)/to see off/to send",
+      "definitions": [
+        "to deliver",
+        "to carry",
+        "to give (as a present)",
+        "to present (with)",
+        "to see off",
+        "to send"
+      ]
+    },
+    {
+      "id": 210378,
+      "simplified": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "spokenPinyin": "zhe",
+      "english": "this/these/(commonly pr. [zhei",
+      "definitions": [
+        "this",
+        "these",
+        "(commonly pr. [zhei"
+      ]
+    },
+    {
+      "id": 210383,
+      "simplified": "这些",
+      "traditional": "這些",
+      "pinyin": "zhè xiē",
+      "spokenPinyin": "zhexie",
+      "english": "these",
+      "definitions": [
+        "these"
+      ]
+    },
+    {
+      "id": 210386,
+      "simplified": "这个",
+      "traditional": "這個",
+      "pinyin": "zhè ge",
+      "spokenPinyin": "zhege",
+      "english": "this/this one",
+      "definitions": [
+        "this",
+        "this one"
+      ]
+    },
+    {
+      "id": 210387,
+      "simplified": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè r",
+      "spokenPinyin": "zher",
+      "english": "here",
+      "definitions": [
+        "here"
+      ]
+    },
+    {
+      "id": 210396,
+      "simplified": "这样",
+      "traditional": "這樣",
+      "pinyin": "zhè yàng",
+      "spokenPinyin": "zheyang",
+      "english": "this kind of/so/this way/like this/such",
+      "definitions": [
+        "this kind of",
+        "so",
+        "this way",
+        "like this",
+        "such"
+      ]
+    },
+    {
+      "id": 210402,
+      "simplified": "这里",
+      "traditional": "這裡",
+      "pinyin": "zhè lǐ",
+      "spokenPinyin": "zheli",
+      "english": "here",
+      "definitions": [
+        "here"
+      ]
+    },
+    {
+      "id": 210404,
+      "simplified": "这边",
+      "traditional": "這邊",
+      "pinyin": "zhè biān",
+      "spokenPinyin": "zhebian",
+      "english": "this side/here",
+      "definitions": [
+        "this side",
+        "here"
+      ]
+    },
+    {
+      "id": 210409,
+      "simplified": "这么",
+      "traditional": "這麼",
+      "pinyin": "zhè me",
+      "spokenPinyin": "zheme",
+      "english": "so much/this much/how much?/this way/like this",
+      "definitions": [
+        "so much",
+        "this much",
+        "how much?",
+        "this way",
+        "like this"
+      ]
+    },
+    {
+      "id": 210852,
+      "simplified": "进",
+      "traditional": "進",
+      "pinyin": "jìn",
+      "spokenPinyin": "jin",
+      "english": "to go forward/to advance/to go in/to enter/to put in/to submit/to take in/to admit/(math.) base of a number system/classifier for sections in a building or residential compound",
+      "definitions": [
+        "to go forward",
+        "to advance",
+        "to go in",
+        "to enter",
+        "to put in",
+        "to submit",
+        "to take in",
+        "to admit",
+        "(math.) base of a number system",
+        "classifier for sections in a building or residential compound"
+      ]
+    },
+    {
+      "id": 210857,
+      "simplified": "进来",
+      "traditional": "進來",
+      "pinyin": "jìn lái",
+      "spokenPinyin": "jinlai",
+      "english": "to come in",
+      "definitions": [
+        "to come in"
+      ]
+    },
+    {
+      "id": 210866,
+      "simplified": "进去",
+      "traditional": "進去",
+      "pinyin": "jìn qù",
+      "spokenPinyin": "jinqu",
+      "english": "to go in",
+      "definitions": [
+        "to go in"
+      ]
+    },
+    {
+      "id": 211015,
+      "simplified": "游",
+      "traditional": "遊",
+      "pinyin": "yóu",
+      "spokenPinyin": "you",
+      "english": "to walk/to swim/to tour/to roam/to travel",
+      "definitions": [
+        "to walk",
+        "to swim",
+        "to tour",
+        "to roam",
+        "to travel"
+      ]
+    },
+    {
+      "id": 211076,
+      "simplified": "运动",
+      "traditional": "運動",
+      "pinyin": "yùn dòng",
+      "spokenPinyin": "yundong",
+      "english": "to move/to exercise/sports/exercise/motion/movement/campaign/CL:場|场[chang3]",
+      "definitions": [
+        "to move",
+        "to exercise",
+        "sports",
+        "exercise",
+        "motion",
+        "movement",
+        "campaign"
+      ]
+    },
+    {
+      "id": 211153,
+      "simplified": "过",
+      "traditional": "過",
+      "pinyin": "Guò",
+      "spokenPinyin": "guo",
+      "english": "surname Guo/to cross/to go over/to pass (time)/to celebrate (a holiday)/to live/to get along/excessively/too-",
+      "definitions": [
+        "surname Guo",
+        "to cross",
+        "to go over",
+        "to pass (time)",
+        "to celebrate (a holiday)",
+        "to live",
+        "to get along",
+        "excessively",
+        "too-"
+      ]
+    },
+    {
+      "id": 211155,
+      "simplified": "过",
+      "traditional": "過",
+      "pinyin": "guo",
+      "spokenPinyin": "guo",
+      "english": "(experienced action marker)",
+      "definitions": [
+        "(experienced action marker)"
+      ]
+    },
+    {
+      "id": 211166,
+      "simplified": "过来",
+      "traditional": "過來",
+      "pinyin": "guò lái",
+      "spokenPinyin": "guolai",
+      "english": "to come over/to manage/to handle/to be able to take care of",
+      "definitions": [
+        "to come over",
+        "to manage",
+        "to handle",
+        "to be able to take care of"
+      ]
+    },
+    {
+      "id": 211176,
+      "simplified": "过去",
+      "traditional": "過去",
+      "pinyin": "guò qù",
+      "spokenPinyin": "guoqu",
+      "english": "(in the) past/former/previous/to go over/to pass by",
+      "definitions": [
+        "(in the) past",
+        "former",
+        "previous",
+        "to go over",
+        "to pass by"
+      ]
+    },
+    {
+      "id": 211198,
+      "simplified": "过年",
+      "traditional": "過年",
+      "pinyin": "guò nián",
+      "spokenPinyin": "guonian",
+      "english": "to celebrate the Chinese New Year",
+      "definitions": [
+        "to celebrate the Chinese New Year"
+      ]
+    },
+    {
+      "id": 211555,
+      "simplified": "远",
+      "traditional": "遠",
+      "pinyin": "yuǎn",
+      "spokenPinyin": "yuan",
+      "english": "far/distant/remote/(intensifier in a comparison) by far/much (lower etc)",
+      "definitions": [
+        "far",
+        "distant",
+        "remote",
+        "(intensifier in a comparison) by far",
+        "much (lower etc)"
+      ]
+    },
+    {
+      "id": 211982,
+      "simplified": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "spokenPinyin": "hai",
+      "english": "still/still in progress/still more/yet/even more/in addition/fairly/passably (good)/as early as/even/also/else",
+      "definitions": [
+        "still",
+        "still in progress",
+        "still more",
+        "yet",
+        "even more",
+        "in addition",
+        "fairly",
+        "passably (good)",
+        "as early as",
+        "even",
+        "also",
+        "else"
+      ]
+    },
+    {
+      "id": 211997,
+      "simplified": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "spokenPinyin": "haishi",
+      "english": "or/still/nevertheless/had better",
+      "definitions": [
+        "or",
+        "still",
+        "nevertheless",
+        "had better"
+      ]
+    },
+    {
+      "id": 212021,
+      "simplified": "边",
+      "traditional": "邊",
+      "pinyin": "biān",
+      "spokenPinyin": "bian",
+      "english": "side/edge/margin/border/boundary/CL:個|个[ge4]/simultaneously",
+      "definitions": [
+        "side",
+        "edge",
+        "margin",
+        "border",
+        "boundary",
+        "simultaneously"
+      ]
+    },
+    {
+      "id": 212115,
+      "simplified": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "spokenPinyin": "na",
+      "english": "that/those/then (in that case)/commonly pr. [nei4]",
+      "definitions": [
+        "that",
+        "those",
+        "then (in that case)",
+        "commonly pr. [nei4]"
+      ]
+    },
+    {
+      "id": 212119,
+      "simplified": "那些",
+      "traditional": "那些",
+      "pinyin": "nà xiē",
+      "spokenPinyin": "naxie",
+      "english": "those",
+      "definitions": [
+        "those"
+      ]
+    },
+    {
+      "id": 212120,
+      "simplified": "那个",
+      "traditional": "那個",
+      "pinyin": "nà ge",
+      "spokenPinyin": "nage",
+      "english": "that one/that thing/that (as opposed to this)/(used before a verb or adjective for emphasis)/(used to humorously or indirectly refer to sth embarrassing, funny etc, or when one can't think of the right word)/(used in speech as a filler, similar to \"umm\", \"you know\" etc)/(euph.) menstruation/sex/also pr. [nei4 ge5]",
+      "definitions": [
+        "that one",
+        "that thing",
+        "that (as opposed to this)",
+        "(used before a verb or adjective for emphasis)",
+        "(used to humorously or indirectly refer to sth embarrassing, funny etc, or when one can't think of the right word)",
+        "(used in speech as a filler, similar to \"umm\", \"you know\" etc)",
+        "(euph.) menstruation",
+        "sex",
+        "also pr. [nei4 ge5]"
+      ]
+    },
+    {
+      "id": 212123,
+      "simplified": "那儿",
+      "traditional": "那兒",
+      "pinyin": "nà r",
+      "spokenPinyin": "nar",
+      "english": "there",
+      "definitions": [
+        "there"
+      ]
+    },
+    {
+      "id": 212141,
+      "simplified": "那样",
+      "traditional": "那樣",
+      "pinyin": "nà yàng",
+      "spokenPinyin": "nayang",
+      "english": "that kind/that sort",
+      "definitions": [
+        "that kind",
+        "that sort"
+      ]
+    },
+    {
+      "id": 212150,
+      "simplified": "那边",
+      "traditional": "那邊",
+      "pinyin": "nà bian",
+      "spokenPinyin": "nabian",
+      "english": "over there/yonder",
+      "definitions": [
+        "over there",
+        "yonder"
+      ]
+    },
+    {
+      "id": 212154,
+      "simplified": "那么",
+      "traditional": "那麼",
+      "pinyin": "nà me",
+      "spokenPinyin": "name",
+      "english": "like that/in that way/or so/so/so very much/about/in that case",
+      "definitions": [
+        "like that",
+        "in that way",
+        "or so",
+        "so",
+        "so very much",
+        "about",
+        "in that case"
+      ]
+    },
+    {
+      "id": 212376,
+      "simplified": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "spokenPinyin": "dou",
+      "english": "all/both/entirely/(used for emphasis) even/already/(not) at all",
+      "definitions": [
+        "all",
+        "both",
+        "entirely",
+        "(used for emphasis) even",
+        "already",
+        "(not) at all"
+      ]
+    },
+    {
+      "id": 212715,
+      "simplified": "酒店",
+      "traditional": "酒店",
+      "pinyin": "jiǔ diàn",
+      "spokenPinyin": "jiudian",
+      "english": "wine shop/pub (public house)/hotel/restaurant/(Tw) hostess club",
+      "definitions": [
+        "wine shop",
+        "pub (public house)",
+        "hotel",
+        "restaurant",
+        "(Tw) hostess club"
+      ]
+    },
+    {
+      "id": 213048,
+      "simplified": "医生",
+      "traditional": "醫生",
+      "pinyin": "yī shēng",
+      "spokenPinyin": "yisheng",
+      "english": "doctor/CL:個|个[ge4],位[wei4],名[ming2]",
+      "definitions": [
+        "doctor"
+      ]
+    },
+    {
+      "id": 213069,
+      "simplified": "医院",
+      "traditional": "醫院",
+      "pinyin": "yī yuàn",
+      "spokenPinyin": "yiyuan",
+      "english": "hospital/CL:所[suo3],家[jia1],座[zuo4]",
+      "definitions": [
+        "hospital"
+      ]
+    },
+    {
+      "id": 213138,
+      "simplified": "里",
+      "traditional": "裡",
+      "pinyin": "lǐ",
+      "spokenPinyin": "li",
+      "english": "inside/lining/interior/internal/also written 裏|里[li3]/unit of length equal to 500m",
+      "definitions": [
+        "inside",
+        "lining",
+        "interior",
+        "internal",
+        "unit of length equal to 500m"
+      ]
+    },
+    {
+      "id": 214489,
+      "simplified": "钱",
+      "traditional": "錢",
+      "pinyin": "Qián",
+      "spokenPinyin": "qian",
+      "english": "surname Qian/coin/money/CL:筆|笔[bi3]/unit of weight, one tenth of a tael 兩|两[liang3]",
+      "definitions": [
+        "surname Qian",
+        "coin",
+        "money",
+        "unit of weight, one tenth of a tael 兩|两[liang3]"
+      ]
+    },
+    {
+      "id": 214584,
+      "simplified": "错",
+      "traditional": "錯",
+      "pinyin": "Cuò",
+      "spokenPinyin": "cuo",
+      "english": "surname Cuo/mistake/wrong/bad/interlocking/complex/to grind/to polish/to alternate/to stagger/to miss/to let slip/to evade/to inlay with gold or silver",
+      "definitions": [
+        "surname Cuo",
+        "mistake",
+        "wrong",
+        "bad",
+        "interlocking",
+        "complex",
+        "to grind",
+        "to polish",
+        "to alternate",
+        "to stagger",
+        "to miss",
+        "to let slip",
+        "to evade",
+        "to inlay with gold or silver"
+      ]
+    },
+    {
+      "id": 215181,
+      "simplified": "长",
+      "traditional": "長",
+      "pinyin": "cháng",
+      "spokenPinyin": "chang",
+      "english": "length/long/forever/always/constantly",
+      "definitions": [
+        "length",
+        "long",
+        "forever",
+        "always",
+        "constantly"
+      ]
+    },
+    {
+      "id": 215448,
+      "simplified": "门",
+      "traditional": "門",
+      "pinyin": "Mén",
+      "spokenPinyin": "men",
+      "english": "surname Men/gate/door/CL:扇[shan4]/gateway/doorway/CL:個|个[ge4]/opening/valve/switch/way to do something/knack/family/house/(religious) sect/school (of thought)/class/category/phylum or division (taxonomy)/classifier for large guns/classifier for lessons, subjects, branches of technology/(suffix) -gate (i.e. scandal; derived from Watergate)",
+      "definitions": [
+        "surname Men",
+        "gate",
+        "door",
+        "gateway",
+        "doorway",
+        "opening",
+        "valve",
+        "switch",
+        "way to do something",
+        "knack",
+        "family",
+        "house",
+        "(religious) sect",
+        "school (of thought)",
+        "class",
+        "category",
+        "phylum or division (taxonomy)",
+        "classifier for large guns",
+        "classifier for lessons, subjects, branches of technology",
+        "(suffix) -gate (i.e. scandal; derived from Watergate)"
+      ]
+    },
+    {
+      "id": 215453,
+      "simplified": "门口",
+      "traditional": "門口",
+      "pinyin": "mén kǒu",
+      "spokenPinyin": "menkou",
+      "english": "doorway/gate/CL:個|个[ge4]",
+      "definitions": [
+        "doorway",
+        "gate"
+      ]
+    },
+    {
+      "id": 215504,
+      "simplified": "门票",
+      "traditional": "門票",
+      "pinyin": "mén piào",
+      "spokenPinyin": "menpiao",
+      "english": "ticket (for theater, cinema etc)",
+      "definitions": [
+        "ticket (for theater, cinema etc)"
+      ]
+    },
+    {
+      "id": 215629,
+      "simplified": "开",
+      "traditional": "開",
+      "pinyin": "kāi",
+      "spokenPinyin": "kai",
+      "english": "to open/to start/to turn on/to boil/to write out (a prescription, check, invoice etc)/to operate (a vehicle)/carat (gold)/abbr. for Kelvin, 開爾文|开尔文[Kai1 er3 wen2]/abbr. for 開本|开本[kai1 ben3], book format",
+      "definitions": [
+        "to open",
+        "to start",
+        "to turn on",
+        "to boil",
+        "to write out (a prescription, check, invoice etc)",
+        "to operate (a vehicle)",
+        "carat (gold)",
+        "abbr. for Kelvin, 開爾文|开尔文[Kai1 er3 wen2]",
+        "abbr. for 開本|开本[kai1 ben3], book format"
+      ]
+    },
+    {
+      "id": 215684,
+      "simplified": "开始",
+      "traditional": "開始",
+      "pinyin": "kāi shǐ",
+      "spokenPinyin": "kaishi",
+      "english": "to begin/beginning/to start/initial/CL:個|个[ge4]",
+      "definitions": [
+        "to begin",
+        "beginning",
+        "to start",
+        "initial"
+      ]
+    },
+    {
+      "id": 215687,
+      "simplified": "开学",
+      "traditional": "開學",
+      "pinyin": "kāi xué",
+      "spokenPinyin": "kaixue",
+      "english": "foundation of a University or College/school opening/the start of a new term",
+      "definitions": [
+        "foundation of a University or College",
+        "school opening",
+        "the start of a new term"
+      ]
+    },
+    {
+      "id": 215880,
+      "simplified": "开车",
+      "traditional": "開車",
+      "pinyin": "kāi chē",
+      "spokenPinyin": "kaiche",
+      "english": "to drive a car",
+      "definitions": [
+        "to drive a car"
+      ]
+    },
+    {
+      "id": 215971,
+      "simplified": "间",
+      "traditional": "間",
+      "pinyin": "jiān",
+      "spokenPinyin": "jian",
+      "english": "between/among/within a definite time or space/room/section of a room or lateral space between two pairs of pillars/classifier for rooms",
+      "definitions": [
+        "between",
+        "among",
+        "within a definite time or space",
+        "room",
+        "section of a room or lateral space between two pairs of pillars",
+        "classifier for rooms"
+      ]
+    },
+    {
+      "id": 217069,
+      "simplified": "阴",
+      "traditional": "陰",
+      "pinyin": "Yīn",
+      "spokenPinyin": "yin",
+      "english": "surname Yin/overcast (weather)/cloudy/shady/Yin (the negative principle of Yin and Yang)/negative (electric.)/feminine/moon/implicit/hidden/genitalia",
+      "definitions": [
+        "surname Yin",
+        "overcast (weather)",
+        "cloudy",
+        "shady",
+        "Yin (the negative principle of Yin and Yang)",
+        "negative (electric.)",
+        "feminine",
+        "moon",
+        "implicit",
+        "hidden",
+        "genitalia"
+      ]
+    },
+    {
+      "id": 217714,
+      "simplified": "只",
+      "traditional": "隻",
+      "pinyin": "zhī",
+      "spokenPinyin": "zhi",
+      "english": "classifier for birds and certain animals, one of a pair, some utensils, vessels etc",
+      "definitions": [
+        "classifier for birds and certain animals, one of a pair, some utensils, vessels etc"
+      ]
+    },
+    {
+      "id": 218018,
+      "simplified": "虽然",
+      "traditional": "雖然",
+      "pinyin": "suī rán",
+      "spokenPinyin": "suiran",
+      "english": "although/even though/even if",
+      "definitions": [
+        "although",
+        "even though",
+        "even if"
+      ]
+    },
+    {
+      "id": 218330,
+      "simplified": "鸡蛋",
+      "traditional": "雞蛋",
+      "pinyin": "jī dàn",
+      "spokenPinyin": "jidan",
+      "english": "(chicken) egg/hen's egg/CL:個|个[ge4],打[da2]",
+      "definitions": [
+        "(chicken) egg",
+        "hen's egg"
+      ]
+    },
+    {
+      "id": 218348,
+      "simplified": "离",
+      "traditional": "離",
+      "pinyin": "Lí",
+      "spokenPinyin": "li",
+      "english": "surname Li/to leave/to part from/to be away from/(in giving distances) from/without (sth)/independent of/one of the Eight Trigrams 八卦[ba1 gua4], symbolizing fire",
+      "definitions": [
+        "surname Li",
+        "to leave",
+        "to part from",
+        "to be away from",
+        "(in giving distances) from",
+        "without (sth)",
+        "independent of",
+        "one of the Eight Trigrams 八卦[ba1 gua4], symbolizing fire"
+      ]
+    },
+    {
+      "id": 218478,
+      "simplified": "雨",
+      "traditional": "雨",
+      "pinyin": "yǔ",
+      "spokenPinyin": "yu",
+      "english": "rain/CL:陣|阵[zhen4],場|场[chang2]",
+      "definitions": [
+        "rain"
+      ]
+    },
+    {
+      "id": 218520,
+      "simplified": "雪",
+      "traditional": "雪",
+      "pinyin": "Xuě",
+      "spokenPinyin": "xue",
+      "english": "surname Xue/snow/snowfall/CL:場|场[chang2]/to have the appearance of snow/to wipe away, off or out/to clean",
+      "definitions": [
+        "surname Xue",
+        "snow",
+        "snowfall",
+        "to have the appearance of snow",
+        "to wipe away, off or out",
+        "to clean"
+      ]
+    },
+    {
+      "id": 218660,
+      "simplified": "零",
+      "traditional": "零",
+      "pinyin": "líng",
+      "spokenPinyin": "ling",
+      "english": "zero/nought/zero sign/fractional/fragmentary/odd (of numbers)/(placed between two numbers to indicate a smaller quantity followed by a larger one)/fraction/(in mathematics) remainder (after division)/extra/to wither and fall/to wither",
+      "definitions": [
+        "zero",
+        "nought",
+        "zero sign",
+        "fractional",
+        "fragmentary",
+        "odd (of numbers)",
+        "(placed between two numbers to indicate a smaller quantity followed by a larger one)",
+        "fraction",
+        "(in mathematics) remainder (after division)",
+        "extra",
+        "to wither and fall",
+        "to wither"
+      ]
+    },
+    {
+      "id": 218879,
+      "simplified": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "spokenPinyin": "dianying",
+      "english": "movie/film/CL:部[bu4],片[pian4],幕[mu4],場|场[chang3]",
+      "definitions": [
+        "movie",
+        "film"
+      ]
+    },
+    {
+      "id": 218889,
+      "simplified": "电影院",
+      "traditional": "電影院",
+      "pinyin": "diàn yǐng yuàn",
+      "spokenPinyin": "dianyingyuan",
+      "english": "cinema/movie theater/CL:家[jia1],座[zuo4]",
+      "definitions": [
+        "cinema",
+        "movie theater"
+      ]
+    },
+    {
+      "id": 218969,
+      "simplified": "电脑",
+      "traditional": "電腦",
+      "pinyin": "diàn nǎo",
+      "spokenPinyin": "diannao",
+      "english": "computer/CL:臺|台[tai2]",
+      "definitions": [
+        "computer"
+      ]
+    },
+    {
+      "id": 218993,
+      "simplified": "电视",
+      "traditional": "電視",
+      "pinyin": "diàn shì",
+      "spokenPinyin": "dianshi",
+      "english": "television/TV/CL:臺|台[tai2],個|个[ge4]",
+      "definitions": [
+        "television",
+        "TV"
+      ]
+    },
+    {
+      "id": 219005,
+      "simplified": "电话",
+      "traditional": "電話",
+      "pinyin": "diàn huà",
+      "spokenPinyin": "dianhua",
+      "english": "telephone/CL:部[bu4]/phone call/CL:通[tong1]/phone number",
+      "definitions": [
+        "telephone",
+        "phone call",
+        "phone number"
+      ]
+    },
+    {
+      "id": 219667,
+      "simplified": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "spokenPinyin": "feichang",
+      "english": "very/very much/unusual/extraordinary",
+      "definitions": [
+        "very",
+        "very much",
+        "unusual",
+        "extraordinary"
+      ]
+    },
+    {
+      "id": 219781,
+      "simplified": "面",
+      "traditional": "麵",
+      "pinyin": "miàn",
+      "spokenPinyin": "mian",
+      "english": "noodles/face/side/surface/aspect/top/classifier for flat surfaces such as drums, mirrors, flags etc/flour/flour/(of food) soft (not crunchy)/(slang) (of a person) ineffectual/spineless",
+      "definitions": [
+        "noodles",
+        "face",
+        "side",
+        "surface",
+        "aspect",
+        "top",
+        "classifier for flat surfaces such as drums, mirrors, flags etc",
+        "flour",
+        "flour",
+        "(of food) soft (not crunchy)",
+        "(slang) (of a person) ineffectual",
+        "spineless"
+      ]
+    },
+    {
+      "id": 220600,
+      "simplified": "头",
+      "traditional": "頭",
+      "pinyin": "tóu",
+      "spokenPinyin": "tou",
+      "english": "head/hair style/the top/end/beginning or end/a stub/remnant/chief/boss/side/aspect/first/leading/classifier for pigs or livestock/CL:個|个[ge4]",
+      "definitions": [
+        "head",
+        "hair style",
+        "the top",
+        "end",
+        "beginning or end",
+        "a stub",
+        "remnant",
+        "chief",
+        "boss",
+        "side",
+        "aspect",
+        "first",
+        "leading",
+        "classifier for pigs or livestock"
+      ]
+    },
+    {
+      "id": 220785,
+      "simplified": "题",
+      "traditional": "題",
+      "pinyin": "Tí",
+      "spokenPinyin": "ti",
+      "english": "surname Ti/topic/problem for discussion/exam question/subject/to inscribe/to mention/CL:個|个[ge4],道[dao4]",
+      "definitions": [
+        "surname Ti",
+        "topic",
+        "problem for discussion",
+        "exam question",
+        "subject",
+        "to inscribe",
+        "to mention"
+      ]
+    },
+    {
+      "id": 220847,
+      "simplified": "颜色",
+      "traditional": "顏色",
+      "pinyin": "yán sè",
+      "spokenPinyin": "yanse",
+      "english": "color/countenance/appearance/facial expression/pigment/dyestuff",
+      "definitions": [
+        "color",
+        "countenance",
+        "appearance",
+        "facial expression",
+        "pigment",
+        "dyestuff"
+      ]
+    },
+    {
+      "id": 221226,
+      "simplified": "飞",
+      "traditional": "飛",
+      "pinyin": "fēi",
+      "spokenPinyin": "fei",
+      "english": "to fly",
+      "definitions": [
+        "to fly"
+      ]
+    },
+    {
+      "id": 221244,
+      "simplified": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēi jī",
+      "spokenPinyin": "feiji",
+      "english": "airplane/CL:架[jia4]",
+      "definitions": [
+        "airplane"
+      ]
+    },
+    {
+      "id": 221404,
+      "simplified": "饭",
+      "traditional": "飯",
+      "pinyin": "fàn",
+      "spokenPinyin": "fan",
+      "english": "food/cuisine/cooked rice/meal/CL:碗[wan3],頓|顿[dun4]",
+      "definitions": [
+        "food",
+        "cuisine",
+        "cooked rice",
+        "meal"
+      ]
+    },
+    {
+      "id": 221408,
+      "simplified": "饭店",
+      "traditional": "飯店",
+      "pinyin": "fàn diàn",
+      "spokenPinyin": "fandian",
+      "english": "restaurant/hotel/CL:家[jia1],個|个[ge4]",
+      "definitions": [
+        "restaurant",
+        "hotel"
+      ]
+    },
+    {
+      "id": 221427,
+      "simplified": "饭馆",
+      "traditional": "飯館",
+      "pinyin": "fàn guǎn",
+      "spokenPinyin": "fanguan",
+      "english": "restaurant/CL:家[jia1]",
+      "definitions": [
+        "restaurant"
+      ]
+    },
+    {
+      "id": 221506,
+      "simplified": "饺子",
+      "traditional": "餃子",
+      "pinyin": "jiǎo zi",
+      "spokenPinyin": "jiaozi",
+      "english": "dumpling/pot-sticker/CL:個|个[ge4],隻|只[zhi1]",
+      "definitions": [
+        "dumpling",
+        "pot-sticker"
+      ]
+    },
+    {
+      "id": 223008,
+      "simplified": "高",
+      "traditional": "高",
+      "pinyin": "Gāo",
+      "spokenPinyin": "gao",
+      "english": "surname Gao/high/tall/above average/loud/your (honorific)",
+      "definitions": [
+        "surname Gao",
+        "high",
+        "tall",
+        "above average",
+        "loud",
+        "your (honorific)"
+      ]
+    },
+    {
+      "id": 223014,
+      "simplified": "高中",
+      "traditional": "高中",
+      "pinyin": "gāo zhōng",
+      "spokenPinyin": "gaozhong",
+      "english": "senior high school/abbr. for 高級中學|高级中学[gao1 ji2 zhong1 xue2]",
+      "definitions": [
+        "senior high school",
+        "abbr. for 高級中學|高级中学[gao1 ji2 zhong1 xue2]"
+      ]
+    },
+    {
+      "id": 223298,
+      "simplified": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "spokenPinyin": "gaoxing",
+      "english": "happy/glad/willing (to do sth)/in a cheerful mood",
+      "definitions": [
+        "happy",
+        "glad",
+        "willing (to do sth)",
+        "in a cheerful mood"
+      ]
+    },
+    {
+      "id": 223735,
+      "simplified": "鱼",
+      "traditional": "魚",
+      "pinyin": "Yú",
+      "spokenPinyin": "yu",
+      "english": "surname Yu/fish/CL:條|条[tiao2],尾[wei3]",
+      "definitions": [
+        "surname Yu",
+        "fish"
+      ]
+    },
+    {
+      "id": 224096,
+      "simplified": "鸟",
+      "traditional": "鳥",
+      "pinyin": "niǎo",
+      "spokenPinyin": "niao",
+      "english": "bird/CL:隻|只[zhi1],群[qun2]/(dialect) to pay attention to/(intensifier) damned/goddam",
+      "definitions": [
+        "bird",
+        "(dialect) to pay attention to",
+        "(intensifier) damned",
+        "goddam"
+      ]
+    },
+    {
+      "id": 224779,
+      "simplified": "面包",
+      "traditional": "麵包",
+      "pinyin": "miàn bāo",
+      "spokenPinyin": "mianbao",
+      "english": "bread/CL:片[pian4],袋[dai4],塊|块[kuai4]",
+      "definitions": [
+        "bread"
+      ]
+    },
+    {
+      "id": 224796,
+      "simplified": "面条儿",
+      "traditional": "麵條兒",
+      "pinyin": "miàn tiáo r",
+      "spokenPinyin": "miantiaor",
+      "english": "noodles/erhua variant of 麵條|面条",
+      "definitions": [
+        "noodles",
+        "erhua variant of 麵條|面条"
+      ]
+    },
+    {
+      "id": 225409,
+      "simplified": "黑色",
+      "traditional": "黑色",
+      "pinyin": "hēi sè",
+      "spokenPinyin": "heise",
+      "english": "black",
+      "definitions": [
+        "black"
+      ]
+    },
+    {
+      "id": 225534,
+      "simplified": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "spokenPinyin": "dian",
+      "english": "point/dot/drop/speck/o'clock/point (in space or time)/to draw a dot/to check on a list/to choose/to order (food in a restaurant)/to touch briefly/to hint/to light/to ignite/to pour a liquid drop by drop/(old) one fifth of a two-hour watch 更[geng1]/dot stroke in Chinese characters/classifier for items",
+      "definitions": [
+        "point",
+        "dot",
+        "drop",
+        "speck",
+        "o'clock",
+        "point (in space or time)",
+        "to draw a dot",
+        "to check on a list",
+        "to choose",
+        "to order (food in a restaurant)",
+        "to touch briefly",
+        "to hint",
+        "to light",
+        "to ignite",
+        "to pour a liquid drop by drop",
+        "(old) one fifth of a two-hour watch 更[geng1]",
+        "dot stroke in Chinese characters",
+        "classifier for items"
+      ]
+    },
+    {
+      "id": 226209,
+      "simplified": "画",
+      "traditional": "畫",
+      "pinyin": "huà",
+      "spokenPinyin": "hua",
+      "english": "to draw/picture/painting/CL:幅[fu2] ,张[zhang1]",
+      "definitions": [
+        "to draw",
+        "picture",
+        "painting"
+      ]
+    },
+    {
+      "id": 280566,
+      "simplified": "那里",
+      "traditional": "那裡",
+      "pinyin": "nà lǐ",
+      "spokenPinyin": "nali",
+      "english": "there",
+      "definitions": [
+        "there"
+      ]
+    }
+  ]
+}

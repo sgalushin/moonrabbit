@@ -1,0 +1,143 @@
+@if (phase() === 'launch' || phase() === 'summary') {
+<app-shell>
+  @if (error()) {
+  <p class="banner" role="alert">{{ error() }}</p>
+  } @if (phase() === 'launch') {
+  <section class="launcher">
+    <div class="choices">
+      <button
+        class="ghost"
+        type="button"
+        [disabled]="launching()"
+        [class.primary]="unit() === 'minutes'"
+        (click)="unit.set('minutes')"
+      >
+        Minutes
+      </button>
+      <button
+        class="ghost"
+        type="button"
+        [disabled]="launching()"
+        [class.primary]="unit() === 'words'"
+        (click)="unit.set('words')"
+      >
+        Words
+      </button>
+    </div>
+    <div class="choices">
+      @for (preset of presets; track preset) {
+      <button
+        class="ghost"
+        type="button"
+        [disabled]="launching()"
+        [class.primary]="amount() === preset"
+        (click)="amount.set(preset)"
+      >
+        {{ preset }}
+      </button>
+      }
+    </div>
+    <label
+      >Direction
+      <select
+        [disabled]="launching()"
+        [value]="direction()"
+        (change)="direction.set($any($event.target).value)"
+      >
+        <option value="recognition">chinese-english</option>
+        <option value="production">english-chinese</option>
+      </select>
+    </label>
+    <p class="help">
+      Each session studies only the selected direction. Words limits distinct words. Due reviews are
+      selected globally; new words follow your queue.
+    </p>
+    <button class="primary" type="button" [disabled]="launching()" (click)="start()">
+      {{ launching() ? 'Starting…' : 'Start' }}
+    </button>
+  </section>
+  } @else {
+  <section class="launcher">
+    <h2>Session done</h2>
+    <p>{{ good() }} remembered · {{ again() }} missed</p>
+    <p>
+      {{ grades.pending() }} answers awaiting server confirmation. Answers already stored locally
+      remain queued after you leave.
+    </p>
+    <a class="primary" routerLink="/">Back home</a>
+  </section>
+  }
+</app-shell>
+} @else {
+<section class="study">
+  <header class="study-head">
+    <span>Answer {{ index() + 1 }} of {{ cards().length }} · {{ good() + again() }} recorded</span>
+    @if (sessionUnit === 'minutes') { <span>{{ clock() }} remaining</span> }
+    <button class="ghost" type="button" [disabled]="recording()" (click)="finish()">
+      End session
+    </button>
+  </header>
+  <p class="help">Ending keeps recorded answers; the current unanswered card is not graded.</p>
+  @if (face(); as card) {
+  <div class="card-face">
+    @if (card.direction === 'recognition') {
+    <p class="characters">{{ card.simplified }}</p>
+    } @else {
+    <p class="prompt">{{ card.translation }}</p>
+    } @if (phase() !== 'prompt') {
+    <button class="icon-button corner" type="button" aria-label="Play" (click)="play()">
+      @if (playing()) {
+      <svg lucideLoaderCircle [size]="22" class="spin" aria-hidden="true"></svg>
+      } @else {
+      <svg lucideVolume2 [size]="22" aria-hidden="true"></svg>
+      }
+    </button>
+    <app-pinyin [text]="card.pinyin" />
+    @if (card.pronouncedPinyin) {
+    <p class="spoken">
+      <span class="label">pronounced as</span>
+      <app-pinyin [text]="card.pronouncedPinyin" />
+    </p>
+    } @if (card.direction === 'recognition') {
+    <p class="gloss">{{ card.translation }}</p>
+    } @else {
+    <p class="characters small">{{ card.simplified }}</p>
+    } }
+  </div>
+  @if (phase() !== 'prompt') { @if (wordResource.isLoading()) {
+  <p role="status">Loading examples…</p>
+  } @if (wordResource.error()) {
+  <p class="banner" role="alert">
+    Examples could not be loaded.
+    <button type="button" (click)="wordResource.reload()">Retry examples</button>
+  </p>
+  } @if (exampleWord(); as word) {
+  <app-word-examples [word]="word" [wordVoice]="false" (changed)="wordResource.set($event)" />
+  } } @if (phase() === 'prompt') {
+  <p class="ask">Do you know this word?</p>
+  <div class="choices">
+    <button class="danger" type="button" [disabled]="recording()" (click)="know(false)">No</button>
+    <button class="primary" type="button" [disabled]="recording()" (click)="know(true)">Yes</button>
+  </div>
+  } @else if (phase() === 'reveal') {
+  <p class="ask">Were you correct?</p>
+  <div class="choices">
+    <button class="danger" type="button" [disabled]="recording()" (click)="correct(false)">
+      No
+    </button>
+    <button class="primary" type="button" [disabled]="recording()" (click)="correct(true)">
+      Yes
+    </button>
+  </div>
+  } @else {
+  <div class="choices">
+    <button class="primary" type="button" [disabled]="recording()" (click)="next()">Next</button>
+  </div>
+  } } @if (recording()) {
+  <p role="status">Storing your answer…</p>
+  } @if (error()) {
+  <p class="banner" role="alert">{{ error() }}</p>
+  }
+  <app-grade-notice />
+</section>
+}

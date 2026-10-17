@@ -1,0 +1,35 @@
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      actions:
+        patterns: ['*']
+
+  - package-ecosystem: cargo
+    directory: /apps/api
+    schedule:
+      interval: weekly
+    groups:
+      cargo:
+        patterns: ['*']
+
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    ignore:
+      # Its major version follows the Node version in .node-version.
+      - dependency-name: '@types/node'
+        update-types: ['version-update:semver-major']
+    groups:
+      angular:
+        patterns: ['@angular/*', '@angular-devkit/*', '@schematics/angular', 'angular-eslint']
+      nx:
+        patterns: ['nx', '@nx/*']
+      aws-cdk:
+        patterns: ['aws-cdk', 'aws-cdk-lib', 'constructs']
+      other:
+        patterns: ['*']

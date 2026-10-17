@@ -1,0 +1,86 @@
+<app-shell>
+  @if (error() || loadError()) {
+  <p class="banner" role="alert">
+    {{ error() || loadError() }}
+    <button type="button" [disabled]="loading() || saving() || creating()" (click)="reload()">
+      Retry loading
+    </button>
+  </p>
+  }
+  <h2>Study queue</h2>
+  <p class="help">
+    Queue order selects new words. Due reviews come from all previously studied lists, including
+    lists outside this queue.
+  </p>
+  @if (loading() || saving()) {
+  <p role="status">{{ saving() ? 'Saving queue…' : 'Loading queue…' }}</p>
+  }
+  <ol class="rows">
+    @for (list of queue(); track list.id; let index = $index) {
+    <li
+      [draggable]="!busy()"
+      (dragstart)="drag(index)"
+      (dragover)="$event.preventDefault()"
+      (drop)="drop(index)"
+    >
+      <a [routerLink]="['/lists', list.id]"
+        ><strong>{{ list.title }}</strong><span>{{ list.wordsLeft }} left</span></a
+      >
+      <span class="row-actions">
+        <button
+          class="icon-button"
+          type="button"
+          aria-label="Move {{ list.title }} up"
+          [disabled]="busy() || index === 0"
+          (click)="move(index, -1)"
+        >
+          <svg lucideChevronUp [size]="20" aria-hidden="true"></svg>
+        </button>
+        <button
+          class="icon-button"
+          type="button"
+          aria-label="Move {{ list.title }} down"
+          [disabled]="busy() || index === queue().length - 1"
+          (click)="move(index, 1)"
+        >
+          <svg lucideChevronDown [size]="20" aria-hidden="true"></svg>
+        </button>
+        <button
+          class="icon-button"
+          type="button"
+          aria-label="Remove {{ list.title }}"
+          [disabled]="busy()"
+          (click)="remove(list.id)"
+        >
+          <svg lucideX [size]="20" aria-hidden="true"></svg>
+        </button>
+      </span>
+    </li>
+    }
+  </ol>
+  <h2>Add a list</h2>
+  <ul class="rows">
+    @for (list of available(); track list.id) {
+    <li>
+      <span><strong>{{ list.title }}</strong></span>
+      <button
+        class="icon-button"
+        type="button"
+        aria-label="Add {{ list.title }}"
+        [disabled]="busy()"
+        (click)="add(list.id)"
+      >
+        <svg lucidePlus [size]="20" aria-hidden="true"></svg>
+      </button>
+    </li>
+    }
+  </ul>
+  <form class="stack" (submit)="$event.preventDefault(); create()">
+    <label
+      >New personal list <input [disabled]="busy()" [value]="title()" (input)="typed($event)"
+    /></label>
+    <button class="primary" type="submit" [disabled]="busy()">
+      {{ creating() ? 'Creating…' : 'Create' }}
+    </button>
+  </form>
+</app-shell>

@@ -1,0 +1,7 @@
+{
+  "app": "tsx apps/infra/src/main.ts",
+  "output": "cdk.out",
+  "context": {
+    "@aws-cdk/core:checkSecretUsage": true
+  }
+}

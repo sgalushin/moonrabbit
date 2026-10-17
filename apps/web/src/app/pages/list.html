@@ -1,0 +1,84 @@
+<app-shell>
+  <h2>{{ title() || 'Word list' }}</h2>
+  @if (error()) {
+  <p class="banner" role="alert">{{ error() }}</p>
+  } @if (loadError()) {
+  <p class="banner" role="alert">
+    {{ loadError() }} <button type="button" (click)="load()">Retry this page</button>
+  </p>
+  } @if (loading()) {
+  <p role="status">Loading list page…</p>
+  }
+  <app-word-import
+    [listId]="id"
+    [editable]="!!owner() && owner() !== 'system'"
+    [disabled]="saving() || loading()"
+    (busy)="importBusy($event)"
+    (committed)="importCommitted($event)"
+  />
+  <nav class="pagination" aria-label="Word list pages">
+    <button
+      class="ghost"
+      type="button"
+      [disabled]="loading() || saving() || cursor() === 0"
+      (click)="load(cursor() - pageSize)"
+    >
+      Previous {{ pageSize }}
+    </button>
+    <span aria-live="polite"
+      >{{ totalWords() ? cursor() + 1 : 0 }}–{{ cursor() + words().length }} of {{ totalWords() }}
+      words</span
+    >
+    <button
+      class="ghost"
+      type="button"
+      [disabled]="loading() || saving() || nextCursor() === null"
+      (click)="load(nextCursor() ?? cursor())"
+    >
+      Next {{ pageSize }}
+    </button>
+  </nav>
+  <ul class="rows words" [attr.aria-busy]="loading()">
+    @for (word of words(); track word.id) {
+    <li class="word-row">
+      <button class="word-open" type="button" (click)="detail?.open(word)">
+        <span class="chars">{{ word.simplified }}</span>
+        <app-pinyin [text]="word.pinyin" />
+        @if (word.pronouncedPinyin) {
+        <span class="spoken"
+          ><span class="label">pronounced as</span><app-pinyin [text]="word.pronouncedPinyin"
+        /></span>
+        }
+        <span class="meaning">{{ word.translation }}</span>
+        @if (word.studied) { <em>studied</em> }
+      </button>
+      <span class="word-actions">
+        <button
+          class="icon-button"
+          type="button"
+          aria-label="Play {{ word.simplified }}"
+          (click)="play(word)"
+        >
+          @if (playingId() === word.id) {
+          <svg lucideLoaderCircle [size]="22" class="spin" aria-hidden="true"></svg> } @else {
+          <svg lucideVolume2 [size]="22" aria-hidden="true"></svg> }
+        </button>
+        @if (owner() !== 'system') {
+        <button
+          class="ghost"
+          type="button"
+          [disabled]="saving() || loading()"
+          (click)="remove(word.id)"
+        >
+          Remove
+        </button>
+        }
+      </span>
+    </li>
+    }
+  </ul>
+  @if (!loading() && !loadError() && !totalWords()) {
+  <p>This list has no words yet.</p>
+  }
+  <app-word-detail (closed)="audio.stop(); playingId.set(null)" />
+</app-shell>
