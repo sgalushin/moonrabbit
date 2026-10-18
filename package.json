@@ -11,11 +11,11 @@
     "format": "nx format:write --all && cargo fmt --manifest-path apps/api/Cargo.toml"
   },
   "dependencies": {
-    "@angular/common": "~22.2.0",
-    "@angular/compiler": "~22.2.0",
-    "@angular/core": "~22.2.0",
-    "@angular/platform-browser": "~22.2.0",
-    "@angular/router": "~22.2.0",
+    "@angular/common": "~22.2.3",
+    "@angular/compiler": "~22.2.3",
+    "@angular/core": "~22.2.3",
+    "@angular/platform-browser": "~22.2.3",
+    "@angular/router": "~22.2.3",
     "@lucide/angular": "^1.57.0",
     "oidc-client-ts": "^3.5.0",
     "rxjs": "~7.8.0"
@@ -25,8 +25,8 @@
     "@angular-devkit/schematics": "~22.2.0",
     "@angular/build": "~22.2.0",
     "@angular/cli": "~22.2.0",
-    "@angular/compiler-cli": "~22.2.0",
-    "@angular/language-service": "~22.2.0",
+    "@angular/compiler-cli": "~22.2.3",
+    "@angular/language-service": "~22.2.3",
     "@eslint/js": "^10.0.1",
     "@nx/angular": "23.3.0",
     "@nx/eslint": "23.3.0",
