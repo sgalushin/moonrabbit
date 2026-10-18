@@ -24,6 +24,9 @@ updates:
       # Its major version follows the Node version in .node-version.
       - dependency-name: '@types/node'
         update-types: ['version-update:semver-major']
+      # TypeScript 7 removes the compiler API Nx uses to build the project graph.
+      - dependency-name: 'typescript'
+        update-types: ['version-update:semver-major']
     groups:
       angular:
         patterns: ['@angular/*', '@angular-devkit/*', '@schematics/angular', 'angular-eslint']
